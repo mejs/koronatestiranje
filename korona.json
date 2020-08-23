@@ -504,6 +504,20 @@
         "name": "ZJZ Zadar",
         "description": "Adresa: Ul. Ljudevita Posavskog 7, 23 000 Zadar Testiranje uz plaćanje: Da Radno vrijeme: Na zapadnom ulazu u zgradu Poliklinike OB Zadar svakog radnog dana od 11-12 sati Telefon: 023 300 847"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9394108,
+          46.0177195
+        ]
+      },
+      "properties": {
+        "name": "Opća bolnica Zabok i bolnica hrvatskih veterana",
+        "description": ""
+      }
     }
   ]
 }
