@@ -546,6 +546,48 @@
         "name": "Dom zdravlja Bjelovarsko-bilogorske županije Covid ambulanta Daruvar",
         "description": "Adresa: Ul. Petra Preradovića, 743500 Daruvar, Narudžba: Moguća, Potrebna uputnica: Da, Radno vrijeme: utorkom i četvrtkom od 7:30h - 9:30h, Drive in: nema informacija, Vrijeme čekanja nalaza: nema informacija, Telefon: 099 313 1112, Email: nema informacija, Web: http://www.dzbbz.hr/, Datum verifikacije: 23.8.2020., Na koronavirus.hr službenoj listi: Ne "
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5400435,
+          45.4770768
+        ]
+      },
+      "properties": {
+        "name": "Opća bolnica Karlovac",
+        "description": "Adresa: Ul. Andrije Štampara 3, 47000 Karlovac, Narudžba: Obavezna, Potrebna uputnica: nema informacija, Radno vrijeme: u 7:30h, Drive in: Da, Vrijeme čekanja nalaza: nema informacija, Telefon: 091 2571 182, Email: nema informacija, Web: https://www.bolnica-karlovac.hr/, Datum verifikacije: 23.8.2020., Na koronavirus.hr službenoj listi: Ne "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0113607,
+          45.1624562
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Slavonski Brod",
+        "description": "Adresa: Trg Hrvatskog Proljeća, 35000, Slavonski Brod, Narudžba: Obavezna, Potrebna uputnica: Ne, Radno vrijeme: 11h - 12h, Drive in: nema informacija, Vrijeme čekanja nalaza: nema informacija, Telefon: 035 411 004, Email: nema informacija, Web: http://www.dzsb.hr/dzsb3/index.php, Datum verifikacije: 23.8.2020., Na koronavirus.hr službenoj listi: Ne "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9586346,
+          45.375257
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Vukovar",
+        "description": "Adresa: Ul. Blage Zadre 332000, Vukovar, Narudžba: Obavezna, Potrebna uputnica: Da, Radno vrijeme: ponedjeljak - subota od 8h do 12h, Drive in: nema informacija, Vrijeme čekanja nalaza: nema informacija, Telefon: 032 618 956, Email: dztrijaza@gmail.com, Web: https://www.dzvukovar.hr/, Datum verifikacije: 23.8.2020., Na koronavirus.hr službenoj listi: Ne"
+      }
     }
   ]
 }
