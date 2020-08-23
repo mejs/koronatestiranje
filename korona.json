@@ -12,7 +12,7 @@
       },
       "properties": {
         "name": "Hrvatski zavod za javno zdravstvo (HZJZ)",
-        "description": "Adresa: Rockefellerova 2, 10 000 Zagreb Testiranje uz plaćanje: Da Radno vrijeme: svakog radnog dana od 7.30 – 9.30 sati te subotom od 8.00 – 10.00 sati Telefon: 099 46 83 338"
+        "description": "Adresa: Rockefellerova 2, 10 000 Zagreb Potrebna uputnica: Ne Radno vrijeme: radni dan 7:30h – 9:30h, subotom 8h – 10h Telefon: 099 46 83 338 Email: covid@hzjz.hr Web: https://www.hzjz.hr/sluzba-mikrobiologija/ambulanta-za-uzimanje-i-zaprimanje-uzoraka/testiranje-na-sars-cov-2/"
       }
     },
     {
@@ -26,7 +26,7 @@
       },
       "properties": {
         "name": "NZJZ \"Dr. Andrija Štampar\"",
-        "description": "Adresa: Mirogojska cesta 16, 10 000 Zagreb Testiranje uz plaćanje: Da Radno vrijeme: od 8-16h radnim danom, od 8-14h vikendom i blagdanom Telefon: 01/4696-190"
+        "description": "Adresa: Mirogojska cesta 16, 10 000 Zagreb Testiranje uz plaćanje: Ne Radno vrijeme: radni dan 8h - 16h, vikend i blagdani 8h - 14h Telefon: 01/4696-190"
       }
     },
     {
@@ -40,7 +40,7 @@
       },
       "properties": {
         "name": "Klinika za infektivne bolesi \"Dr. Fran Mihaljević\"",
-        "description": "Adresa: Mirogojska 8, 10 000 Zagreb Testiranje uz plaćanje: Da Radno vrijeme: Svaki dan od 08:00 - 20:00 Telefon: 091/4012-629; -032 ili -114"
+        "description": "Adresa: Mirogojska 8, 10 000 Zagreb Testiranje uz plaćanje: Ne Radno vrijeme: svaki dan 8h - 20h Telefon: 091/4012-629; -032 ili -114"
       }
     },
     {
@@ -54,7 +54,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Zagreb - Centar",
-        "description": "Adresa: Avenija Većeslava Holjevca 22, 10 000 Zagreb Testiranje uz plaćanje: Ne Radno vrijeme: Radnim danom Telefon: 01 659 84 64"
+        "description": "Adresa: Avenija Većeslava Holjevca 22, 10 000 Zagreb Testiranje uz plaćanje: Da Radno vrijeme: radnim danom Telefon: 01 659 84 64"
       }
     },
     {
@@ -68,7 +68,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Zagreb - Istok",
-        "description": "Adresa: Grižanska 4, 10 000 Zagreb Testiranje uz plaćanje: Ne Radno vrijeme: / Telefon: 091/2350-182"
+        "description": "Adresa: Grižanska 4, 10 000 Zagreb Testiranje uz plaćanje: Da Radno vrijeme: nema informacija Telefon: 091/2350-182"
       }
     },
     {
@@ -82,7 +82,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Zagreb - Zapad 1",
-        "description": "Adresa: Prilaz baruna Filipovića 11, 10 000 Zagreb Testiranje uz plaćanje: Ne Radno vrijeme: Radnim danom Telefon: 091 387 65 91"
+        "description": "Adresa: Prilaz baruna Filipovića 11, 10 000 Zagreb Testiranje uz plaćanje: Da Radno vrijeme: radnim danom Telefon: 091 387 65 91"
       }
     },
     {
@@ -96,7 +96,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Zagreb - Zapad 2",
-        "description": "Adresa: Park Stara Trešnjevka 4, 10 000 Zagreb Testiranje uz plaćanje: Ne Radno vrijeme: / Telefon: 091/3876-000"
+        "description": "Adresa: Park Stara Trešnjevka 4, 10 000 Zagreb Testiranje uz plaćanje: Da Radno vrijeme: nema informacija Telefon: 091/3876-000"
       }
     },
     {
@@ -110,7 +110,7 @@
       },
       "properties": {
         "name": "Opća bolnica Dubrovnik",
-        "description": "Adresa: Dr. Roka Mišetića 2, 20 000 Dubrovnik Testiranje uz plaćanje: Da Radno vrijeme: 08-09 sati na Objedinjenom hitnom bolničkom prijemu (OHBP) Telefon: 020/431-731"
+        "description": "Adresa: Dr. Roka Mišetića 2, 20 000 Dubrovnik Testiranje uz plaćanje: Ne Radno vrijeme: 8h - 9h Telefon: 020/431-731"
       }
     },
     {
@@ -124,7 +124,7 @@
       },
       "properties": {
         "name": "ZJZ Dubrovačko-neretvanske županije",
-        "description": "Adresa: Ul. dr. Ante Šercera 4a, 20 000 Dubrovnik Testiranje uz plaćanje: Da Radno vrijeme: prema dogovoru Telefon: "
+        "description": "Adresa: Ul. dr. Ante Šercera 4a, 20 000 Dubrovnik Testiranje uz plaćanje: Ne Radno vrijeme: prema dogovoru Telefon: "
       }
     },
     {
@@ -138,7 +138,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Dubrovnik",
-        "description": "Adresa: Dr. Ante Starčevića 1, 20 000 Dubrovnik Testiranje uz plaćanje: Ne Radno vrijeme: 07:00 do 19:00 Naručivanje putem nadležnog liječnika ili telefonski Telefon: 020 641613, 099 5291 888"
+        "description": "Adresa: Dr. Ante Starčevića 1, 20 000 Dubrovnik Testiranje uz plaćanje: Da Radno vrijeme: 7h - 19h Telefon: 020 641613, 099 5291 888"
       }
     },
     {
@@ -152,7 +152,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Korčula",
-        "description": "Adresa: Ulica 57 br.5, 20 260 Korčula Testiranje uz plaćanje: Ne Radno vrijeme: 7.00-15.00, naručivanje telefonom ili e-poštom Telefon: 099/529-8734"
+        "description": "Adresa: Ulica 57 br.5, 20 260 Korčula Testiranje uz plaćanje: Da Radno vrijeme: 7h - 15h Telefon: 099/529-8734"
       }
     },
     {
@@ -166,7 +166,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Metković",
-        "description": "Adresa: Ante Starčevića 12, 20 350 Metković Testiranje uz plaćanje: Ne Radno vrijeme: Vrijeme testiranja: ponedjeljak, srijeda, petak: 07:30-08:30 Telefon: "
+        "description": "Adresa: Ante Starčevića 12, 20 350 Metković Testiranje uz plaćanje: Da Radno vrijeme: ponedjeljak, srijeda, petak: 7:30h - 8:30h Telefon: "
       }
     },
     {
@@ -180,7 +180,7 @@
       },
       "properties": {
         "name": "ZJZ Istarske županije",
-        "description": "Adresa: Nazorova ul. 23, 52 000 Pula Testiranje uz plaćanje: Da Radno vrijeme: / Telefon: 099 441821"
+        "description": "Adresa: Nazorova ul. 23, 52 000 Pula Testiranje uz plaćanje: Ne Radno vrijeme: nema informacija Telefon: 099 441821"
       }
     },
     {
@@ -194,7 +194,7 @@
       },
       "properties": {
         "name": "Istarski dom zdravlja Pula",
-        "description": "Adresa: Flanatička 27, 52 100 Pula Testiranje uz plaćanje: Da Radno vrijeme: Kućne posjete Telefon: 098 991 4564"
+        "description": "Adresa: Flanatička 27, 52 100 Pula Testiranje uz plaćanje: Ne Radno vrijeme: Kućne posjete Telefon: 098 991 4564"
       }
     },
     {
@@ -208,7 +208,7 @@
       },
       "properties": {
         "name": "Istarski dom zdravlja Labin",
-        "description": "Adresa: Sv. Mikule 2, 52 220 Labin Testiranje uz plaćanje: Ne Radno vrijeme: ponedjeljak i srijeda od 15 sati Telefon: 095/8426212, 099/255 4013"
+        "description": "Adresa: Sv. Mikule 2, 52 220 Labin Testiranje uz plaćanje: Da Radno vrijeme: ponedjeljak i srijeda od 15h Telefon: 095/8426212, 099/255 4013"
       }
     },
     {
@@ -222,7 +222,7 @@
       },
       "properties": {
         "name": "Istarski dom zdravlja Rovinj",
-        "description": "Adresa: Istarska bb, 52 210 Rovinj Testiranje uz plaćanje: Ne Radno vrijeme: ponedjeljak i srijeda od 15 sati Telefon: 098 573 225; 098 940 7494, 091 125 6463 "
+        "description": "Adresa: Istarska bb, 52 210 Rovinj Testiranje uz plaćanje: Da Radno vrijeme: ponedjeljak i srijeda od 15h Telefon: 098 573 225; 098 940 7494, 091 125 6463 "
       }
     },
     {
@@ -236,7 +236,7 @@
       },
       "properties": {
         "name": "Istarski dom zdravlja Pazin",
-        "description": "Adresa: Jurja Dobrile 1, 52 000 Pazin Testiranje uz plaćanje: Ne Radno vrijeme: ponedjeljak i srijeda od 11 sati Telefon: 095 4321875, 091 5332117"
+        "description": "Adresa: Jurja Dobrile 1, 52 000 Pazin Testiranje uz plaćanje: Da Radno vrijeme: ponedjeljak i srijeda od 11h Telefon: 095 4321875, 091 5332117"
       }
     },
     {
@@ -250,7 +250,7 @@
       },
       "properties": {
         "name": "Istarski dom zdravlja Poreč",
-        "description": "Adresa: M.Giosefi 2, 52 210 Poreč Testiranje uz plaćanje: Ne Radno vrijeme: utorak i četvrtak od 13 sati Telefon: 099 2650403, 098 421150, 091/959-1909"
+        "description": "Adresa: M.Giosefi 2, 52 210 Poreč Testiranje uz plaćanje: Da Radno vrijeme: utorak i četvrtak od 13h Telefon: 099 2650403, 098 421150, 091/959-1909"
       }
     },
     {
@@ -264,7 +264,7 @@
       },
       "properties": {
         "name": "Istarski dom zdravlja Buzet",
-        "description": "Adresa: Goričica bb, 52 420 Buzet Testiranje uz plaćanje: Ne Radno vrijeme: ponedjeljak i srijeda od 11 sati Telefon: 052/496-981, 091 5444 707"
+        "description": "Adresa: Goričica bb, 52 420 Buzet Testiranje uz plaćanje: Da Radno vrijeme: ponedjeljak i srijeda od 11h Telefon: 052/496-981, 091 5444 707"
       }
     },
     {
@@ -278,7 +278,7 @@
       },
       "properties": {
         "name": "Istarski dom zdravlja Umag",
-        "description": "Adresa: E. Pascali 3, 52 470 Umag Testiranje uz plaćanje: Ne Radno vrijeme: utorak i četvrtak od 9 sati Telefon: 091 7231556, 098 213737"
+        "description": "Adresa: E. Pascali 3, 52 470 Umag Testiranje uz plaćanje: Da Radno vrijeme: utorak i četvrtak od 9h Telefon: 091 7231556, 098 213737"
       }
     },
     {
@@ -292,7 +292,7 @@
       },
       "properties": {
         "name": "ZJZ Međimurske županije",
-        "description": "Adresa: Ul. Ivana Gorana Kovačića 1E, 40 000 Čakovec Testiranje uz plaćanje: Da Radno vrijeme: od 7.30h radnim danom prema prethodnom telefonskom dogovoru Telefon: 040 310 336"
+        "description": "Adresa: Ul. Ivana Gorana Kovačića 1E, 40 000 Čakovec Testiranje uz plaćanje: Ne Radno vrijeme: radnim danom od 7:30h Telefon: 040 310 336"
       }
     },
     {
@@ -306,7 +306,7 @@
       },
       "properties": {
         "name": "ZJZ Osječko-baranjske županije",
-        "description": "Adresa: Ul. Franje Krežme 1, 31 000 Osijek Testiranje uz plaćanje: Da Radno vrijeme: / Telefon: 031 225 761"
+        "description": "Adresa: Ul. Franje Krežme 1, 31 000 Osijek Testiranje uz plaćanje: Ne Radno vrijeme: nema informacija Telefon: 031 225 761"
       }
     },
     {
@@ -320,7 +320,7 @@
       },
       "properties": {
         "name": "KBC Osijek",
-        "description": "Adresa: Ul. Josipa Huttlera 4, 31 000 Osijek Testiranje uz plaćanje: Da Radno vrijeme: Radnim danom uz najavu na telefon Telefon: "
+        "description": "Adresa: Ul. Josipa Huttlera 4, 31 000 Osijek Testiranje uz plaćanje: Ne Radno vrijeme: svaki dan 7:30 - 10:30 Telefon: "
       }
     },
     {
@@ -334,7 +334,7 @@
       },
       "properties": {
         "name": "Opća bolnica Požega",
-        "description": "Adresa: Županijska ul. 9, 34 000 Požega Testiranje uz plaćanje: Da Radno vrijeme: Radno vrijeme od 8 do 14 sati Telefon: 034 254 555 "
+        "description": "Adresa: Županijska ul. 9, 34 000 Požega Testiranje uz plaćanje: Ne Radno vrijeme: Radno vrijeme od 8 do 14 sati Telefon: 034 254 555 "
       }
     },
     {
@@ -348,7 +348,7 @@
       },
       "properties": {
         "name": "NZJZ Primorsko-gorasnke županije",
-        "description": "Adresa: Krešimirova ul. 52a, 51 000 Rijeka Testiranje uz plaćanje: Da Radno vrijeme: Mikrobiološki odjel, Mikrobiološki laboratorij (radnim danom od 7-21, subotom i nedjeljom dežurstva) Telefon: 051 334 530 , 091 143 5163, 091 723 4573 (nakon radnog vremena)"
+        "description": "Adresa: Krešimirova ul. 52a, 51 000 Rijeka Testiranje uz plaćanje: Ne Radno vrijeme: Mikrobiološki odjel, Mikrobiološki laboratorij (radnim danom od 7-21, subotom i nedjeljom dežurstva) Telefon: 051 334 530 , 091 143 5163, 091 723 4573 (nakon radnog vremena)"
       }
     },
     {
@@ -362,7 +362,7 @@
       },
       "properties": {
         "name": "DZ Primorsko-goranske županije, Ispostava Mali Lošinj",
-        "description": "Adresa: Ul. Dominika Skopinića 4, 51550 Mali Lošinj Testiranje uz plaćanje: Da Radno vrijeme: od ponedjeljka do petka, od 7,00 do 11,00 Telefon: 051/233-574"
+        "description": "Adresa: Ul. Dominika Skopinića 4, 51550 Mali Lošinj Testiranje uz plaćanje: Ne Radno vrijeme: od ponedjeljka do petka, od 7,00 do 11,00 Telefon: 051/233-574"
       }
     },
     {
@@ -376,7 +376,7 @@
       },
       "properties": {
         "name": "DZ Primorsko-goranske županije, Ispostava Cres",
-        "description": "Adresa: Turion ul. 26, 51557 Cres Testiranje uz plaćanje: Da Radno vrijeme: od ponedjeljka do petka, od 8,00 do 11,00 Telefon: 051/572-218"
+        "description": "Adresa: Turion ul. 26, 51557 Cres Testiranje uz plaćanje: Ne Radno vrijeme: od ponedjeljka do petka, od 8,00 do 11,00 Telefon: 051/572-218"
       }
     },
     {
@@ -390,7 +390,7 @@
       },
       "properties": {
         "name": "DZ Primorsko-goranske županije, Ispostava Rab",
-        "description": "Adresa: Palit 143a, 51280 Palit Testiranje uz plaćanje: Da Radno vrijeme: od ponedjeljka do petka, od 8,00 do 11,00 Telefon: 051/776-924"
+        "description": "Adresa: Palit 143a, 51280 Palit Testiranje uz plaćanje: Ne Radno vrijeme: od ponedjeljka do petka, od 8,00 do 11,00 Telefon: 051/776-924"
       }
     },
     {
@@ -404,7 +404,7 @@
       },
       "properties": {
         "name": "DZ Primorsko-goranske županije, Ispostava Krk",
-        "description": "Adresa: Vinogradska ul. 2, 51500 Krk Testiranje uz plaćanje: Da Radno vrijeme: od ponedjeljka do petka, od 8,00 do 11,00 Telefon: 051/221-955 "
+        "description": "Adresa: Vinogradska ul. 2, 51500 Krk Testiranje uz plaćanje: Ne Radno vrijeme: od ponedjeljka do petka, od 8,00 do 11,00 Telefon: 051/221-955 "
       }
     },
     {
@@ -418,7 +418,7 @@
       },
       "properties": {
         "name": "KBC Split",
-        "description": "Adresa: Spinčićeva ul. 1, 21 000 Split Testiranje uz plaćanje: Da Radno vrijeme: / Telefon: "
+        "description": "Adresa: Spinčićeva ul. 1, 21 000 Split Testiranje uz plaćanje: Ne Radno vrijeme: nema informacija Telefon: "
       }
     },
     {
@@ -432,7 +432,7 @@
       },
       "properties": {
         "name": "NZJZ Splitsko-dalmatinske županije",
-        "description": "Adresa: Vukovarska ul. 46, 21 000 Split Testiranje uz plaćanje: Da Radno vrijeme: radno vrijeme 7.30-15.30, brisevi se uzimaju po utvrđenom rasporedu tijekom radnog vremena ovisno o potrebama Telefon: "
+        "description": "Adresa: Vukovarska ul. 46, 21 000 Split Testiranje uz plaćanje: Ne Radno vrijeme: radno vrijeme 7.30-15.30, brisevi se uzimaju po utvrđenom rasporedu tijekom radnog vremena ovisno o potrebama Telefon: "
       }
     },
     {
@@ -446,7 +446,7 @@
       },
       "properties": {
         "name": "ZJZ Šibensko-kninske županije",
-        "description": "Adresa: Ul. Matije Gupca 74, 22 000 Šibenik Testiranje uz plaćanje: Da Radno vrijeme: Brisevi se uzimaju ponedjeljkom, srijedom i petkom od 10-11 sati, i po potrebi, u izdvojenom objektu ispred Zavoda za javno zdravstvo ŠKŽ Telefon: (0)22 341 232"
+        "description": "Adresa: Ul. Matije Gupca 74, 22 000 Šibenik Testiranje uz plaćanje: Ne Radno vrijeme: Brisevi se uzimaju ponedjeljkom, srijedom i petkom od 10-11 sati, i po potrebi, u izdvojenom objektu ispred Zavoda za javno zdravstvo ŠKŽ Telefon: (0)22 341 232"
       }
     },
     {
@@ -460,7 +460,7 @@
       },
       "properties": {
         "name": "Opća bolnica Šibenik",
-        "description": "Adresa: Stjepana Radića 83, 22 000 Šibenik Testiranje uz plaćanje: Ne Radno vrijeme: / Telefon: "
+        "description": "Adresa: Stjepana Radića 83, 22 000 Šibenik Testiranje uz plaćanje: Da Radno vrijeme: nema informacija Telefon: "
       }
     },
     {
@@ -474,7 +474,7 @@
       },
       "properties": {
         "name": "Opća veteranska bolnica \"Hrvatski ponos\"",
-        "description": "Adresa: Kralja Svetoslava Suronje 12, 22 300 Knin Testiranje uz plaćanje: Ne Radno vrijeme: / Telefon: "
+        "description": "Adresa: Kralja Svetoslava Suronje 12, 22 300 Knin Testiranje uz plaćanje: Da Radno vrijeme: nema informacija Telefon: "
       }
     },
     {
@@ -488,7 +488,7 @@
       },
       "properties": {
         "name": "ZJZ Varaždinske županije",
-        "description": "Adresa: Ul. Ivana Meštrovića 1/11, 42 000 Varaždin Testiranje uz plaćanje: Da Radno vrijeme: U mikrobiološkom laboratoriju ZZJZ Varaždin Ili testiranje ispred laboratorija Telefon: (0)42 653 130, (0)42 653 165"
+        "description": "Adresa: Ul. Ivana Meštrovića 1/11, 42 000 Varaždin Testiranje uz plaćanje: Ne Radno vrijeme: U mikrobiološkom laboratoriju ZZJZ Varaždin Ili testiranje ispred laboratorija Telefon: (0)42 653 130, (0)42 653 165"
       }
     },
     {
@@ -502,7 +502,7 @@
       },
       "properties": {
         "name": "ZJZ Zadar",
-        "description": "Adresa: Ul. Ljudevita Posavskog 7, 23 000 Zadar Testiranje uz plaćanje: Da Radno vrijeme: Na zapadnom ulazu u zgradu Poliklinike OB Zadar svakog radnog dana od 11-12 sati Telefon: 023 300 847"
+        "description": "Adresa: Ul. Ljudevita Posavskog 7, 23 000 Zadar Testiranje uz plaćanje: Ne Radno vrijeme: Na zapadnom ulazu u zgradu Poliklinike OB Zadar svakog radnog dana od 11-12 sati Telefon: 023 300 847"
       }
     },
     {
@@ -516,7 +516,7 @@
       },
       "properties": {
         "name": "Opća bolnica Zabok i bolnica hrvatskih veterana",
-        "description": "Adresa: Bračak 8, 49210, Bračak Testiranje uz plaćanje: Ne Radno vrijeme: pon-ned od 07-10 sati Telefon: 049 204-000"
+        "description": "Adresa: Bračak 8, 49210, Bračak Testiranje uz plaćanje: Da Radno vrijeme: pon-ned od 07-10 sati Telefon: 049 204-000"
       }
     }
   ]
