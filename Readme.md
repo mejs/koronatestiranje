@@ -7,7 +7,7 @@ Ovaj projekt pokazuje lokacije centara za COVID testiranje PCR testom u RH.
 
 ![Mapa](/img/map.png)
 
-Izvor za lokacije je Službena stranica Vlade za pravodobne informacije o koronavirusu (https://koronavirus.hr), osim u slučajevima kad lokacije nisu dostupne na službenoj stranici, ali su neovisno potvrđene. U tom slučaju, izvor je web stranica ili info telefon institucije.
+Izvor za lokacije je Službena stranica Vlade za pravodobne i točne informacije o koronavirusu (https://koronavirus.hr), osim u slučajevima kad lokacije nisu dostupne na službenoj stranici, ali su neovisno potvrđene. U tom slučaju, izvor je web stranica ili info telefon institucije.
 
 Glavni izvor: [Svi testni centri u Republici Hrvatskoj (koronavirus.hr)](https://www.koronavirus.hr/svi-testni-centri-u-republici-hrvatskoj/763).
 
