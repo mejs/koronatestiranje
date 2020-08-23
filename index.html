@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>Mapa lokacija centara za COVID PCR testiranje u Republici Hrvatskoj</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 
 body {font-family: Arial, Helvetica, sans-serif; background-color: #333;
 }
-.content {position: absolute; top: 100px; left: 0; right: 0; bottom: 0; background-color: #333 }
-.content iframe {display: block; width: 100%; height: 100%; border: none;}
-
-
+.content {position: absolute; top: 70px; left: 0; right: 0; bottom: 0; background-color: #333; }
+.content iframe {display: block; width: 100%; height: 100%; border: none; }
 
 
 #navbar {
   overflow: hidden;
   background-color: #333;
 }
+
 
 #navbar a {
   float: left;
@@ -38,31 +38,101 @@ body {font-family: Arial, Helvetica, sans-serif; background-color: #333;
 }
 
 
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
+
+#navbar button {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  background-color: #333;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border: none;
 }
 
-#.sticky + .content {
-#  padding-top: 60px;
-#}
+#navbar button:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
 </style>
 </head>
 <body>
 
 <div id="navbar">
   <a class="active" href="https://koronatestiranje.com">Mapa</a>
-  <a href="javascript:void(0)">O projektu</a>
-  <a href="javascript:void(0)">Prijavi grešku</a>
+<!-- Trigger/Open The Modal -->
+  <a href="javascript:void(0)">Prijavi novu lokaciju ili grešku</a>
+  <a href="javascript:void(0)">English</a>
+  <a href="javascript:void(0)">GitHub</a>
+  <button id="myBtn">O projektu</button>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>Ovaj projekt pokazuje lokacije centara za COVID testiranje PCR testom u RH.</p>
+    <br>
+    <p>Izvor za lokacije je Službena stranica Vlade za pravodobne informacije o koronavirusu, osim u slučajevima kad lokacije nisu dostupne na službenoj stranici, ali su neovisno potvrđene. U tom slučaju, izvor informacije je naveden u opisu lokacije.</>  
+    <br>
+    <p>Ova mapa je informativne prirode i ne garantiramo točnost podataka: lokacije i uvjeti testiranja se konstantno mijenjaju, preporučamo da kontaktirate testne centre čak i kada naručivanje nije obavezno.</p>
+    <br>
+    <p>Ako želite sudjelovati u projektu i pomoći s verificiranjem informacija, pošaljite mail na vladimirvince at gmail točka com.
+</div>
+
 </div>
 
 <div class="content">
-<iframe allowfullscreen src="https://umap.openstreetmap.fr/en/map/lokacije-centara-za-covid-testiranje-beta-for-rele_491448?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+<iframe allowfullscreen scrollwheel='true' src="https://umap.openstreetmap.fr/en/map/lokacije-centara-za-covid-testiranje-beta-for-rele_491448?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 </div>
 
 <script>
-window.onscroll = function() {myFunction()};
+<!-- window.onscroll = function() {myFunction()}; -->
 
 var navbar = document.getElementById("navbar");
 var sticky = navbar.offsetTop;
@@ -73,7 +143,35 @@ function myFunction() {
   } else {
     navbar.classList.remove("sticky");
   }
+} 
+
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+  modal.style.display = "block";
 }
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+
+
 </script>
 
 </body>
