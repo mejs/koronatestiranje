@@ -1,0 +1,474 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9814254,
+          45.8290593
+        ]
+      },
+      "properties": {
+        "name": "HRVATSKI ZAVOD ZA JAVNO ZDRAVSTVO",
+	"description": "test"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9805461,
+          45.8314145
+        ]
+      },
+      "properties": {
+        "name": "NZJZ DR. ANDRIJA ŠTAMPAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9808891,
+          45.8303412
+        ]
+      },
+      "properties": {
+        "name": "KLINIKA ZA INFEKTIVNE BOLESTI \"DR. FRAN MIHALJEVIĆ\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.979433,
+          45.7730141
+        ]
+      },
+      "properties": {
+        "name": "DOM ZDRAVLJA ZAGREB - CENTAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0065164,
+          45.815882
+        ]
+      },
+      "properties": {
+        "name": "DOM ZDRAVLJA ZAGREB - ISTOK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9444255,
+          45.8113936
+        ]
+      },
+      "properties": {
+        "name": "DOM ZDRAVLJA ZAGREB - ZAPAD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9495024,
+          45.7974047
+        ]
+      },
+      "properties": {
+        "name": "DOM ZDRAVLJA ZAGREB - ZAPAD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0758588,
+          42.6477382
+        ]
+      },
+      "properties": {
+        "name": "OB DUBROVNIK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0775206,
+          42.6519263
+        ]
+      },
+      "properties": {
+        "name": "ZJZ DUBROVAČKO-NERETVANSKE ŽUPANIJE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0942373,
+          42.6474029
+        ]
+      },
+      "properties": {
+        "name": "DOM ZDRAVLJA DUBROVNIK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1364098,
+          42.9492716
+        ]
+      },
+      "properties": {
+        "name": "DOM ZDRAVLJA KORČULA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6481784,
+          43.0533982
+        ]
+      },
+      "properties": {
+        "name": "DOM ZDRAVLJA METKOVIĆ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8492486,
+          44.8615273
+        ]
+      },
+      "properties": {
+        "name": "ZJZ ISTARSKE ŽUPANIJE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8503798,
+          44.86736
+        ]
+      },
+      "properties": {
+        "name": "ISTARSKI DOM ZDRAVLJA PULA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1185391,
+          45.1001159
+        ]
+      },
+      "properties": {
+        "name": "ISTARSKI DOM ZDRAVLJA LABIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6922156,
+          45.0877031
+        ]
+      },
+      "properties": {
+        "name": "ISTARSKI DOM ZDRAVLJA ROVINJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9373092,
+          45.2397599
+        ]
+      },
+      "properties": {
+        "name": "ISTARSKI DOM ZDRAVLJA PAZIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5947399,
+          45.2271652
+        ]
+      },
+      "properties": {
+        "name": "ISTARSKI DOM ZDRAVLJA POREČ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9637637,
+          45.4078563
+        ]
+      },
+      "properties": {
+        "name": "ISTARSKI DOM ZDRAVLJA BUZET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5257205,
+          45.4372062
+        ]
+      },
+      "properties": {
+        "name": "ISTARSKI DOM ZDRAVLJA UMAG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43435,
+          46.3945725
+        ]
+      },
+      "properties": {
+        "name": "ZJZ MEĐIMURSKE ŽUPANIJE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6876452,
+          45.5582815
+        ]
+      },
+      "properties": {
+        "name": "ZJZ OSJEČKO-BARANJSKE ŽUPANIJE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7149377,
+          45.5576607
+        ]
+      },
+      "properties": {
+        "name": "KBC OSIJEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6758712,
+          45.3323805
+        ]
+      },
+      "properties": {
+        "name": "OB POŽEGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4328083,
+          45.329894
+        ]
+      },
+      "properties": {
+        "name": "NZJZ PRIMORSKO-GORANSKE ŽUPANIJE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4642362,
+          44.5332888
+        ]
+      },
+      "properties": {
+        "name": "Ispostava Mali Lošinj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4110598,
+          44.9635266
+        ]
+      },
+      "properties": {
+        "name": "Ispostava Cres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7577371,
+          44.7638678
+        ]
+      },
+      "properties": {
+        "name": "Ispostava Rab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5720818,
+          45.0291726
+        ]
+      },
+      "properties": {
+        "name": "Ispostava Krk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4579596,
+          43.5037592
+        ]
+      },
+      "properties": {
+        "name": "KBC SPLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4497887,
+          43.5111162
+        ]
+      },
+      "properties": {
+        "name": "NZJZ SPLITSKO-DALMATINSKE ŽUPANIJE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8992335,
+          43.7338375
+        ]
+      },
+      "properties": {
+        "name": "ZJZ ŠIBENSKO-KNINSKE ŽUPANIJE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8992438,
+          43.7319957
+        ]
+      },
+      "properties": {
+        "name": "OB ŠIBENIK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2194348,
+          44.0577614
+        ]
+      },
+      "properties": {
+        "name": "OPĆA VETERANSKA BOLNICA \"HRVATSKI PONOS\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3288752,
+          46.3032446
+        ]
+      },
+      "properties": {
+        "name": "ZJZ VARAŽDINSKE ŽUPANIJE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2354049,
+          44.1092288
+        ]
+      },
+      "properties": {
+        "name": "ZJZ ZADAR"
+      }
+    }
+  ]
+}
