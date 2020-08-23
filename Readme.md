@@ -1,4 +1,4 @@
-koronatestiranje.com mapa lokacija centara za COVID testiranje u Republici Hrvatskoj
+koronatestiranje mapa lokacija centara za COVID PCR testiranje u Republici Hrvatskoj
 =====================================
 
 Ovaj projekt pokazuje lokacije centara za COVID testiranje PCR testom u RH. 
