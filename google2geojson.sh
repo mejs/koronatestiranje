@@ -6,7 +6,7 @@
 # Abstract out my local info (which also anonymizes it)
 me=`whoami`
 # Set the folder to one in the relevant github repository
-destFolder="/home/$me/github/koronatestiranje.net/"
+destFolder="/home/$me/github/koronatestiranje/"
 # Make sure that folder exists
 if [ ! -d $destFolder ]
 then
