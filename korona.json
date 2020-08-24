@@ -432,7 +432,7 @@
       },
       "properties": {
         "name": "NZJZ Splitsko-dalmatinske županije",
-        "description": "Adresa: Vukovarska ul. 46, 21 000 Split, Narudžba: Moguća, Vrijeme naručivanja: Nema informacija, Potrebna uputnica: Ne, Cijena: 698 kn i 501 kn, Način plaćanja: Nema informacija, Radno vrijeme: 7:30h - 15:30h, Drive in: Da, Vrijeme čekanja nalaza: 24 do 48 sati, Telefon: Nema informacija, Email: tajnica@nzjz-split.hr, protokol@nzjz-split.hr, edita.olujic@nzjz-split.hr, Web: https://www.nzjz-split.hr/index.php/2-uncategorised/415-testiranje-na-sars-cov-2-bez-uputnice , Datum verifikacije: 23.8.2020., Na koronavirus.hr službenoj listi: Da"
+        "description": "Adresa: Vukovarska ul. 46, 21 000 Split, Narudžba: Moguća, Vrijeme naručivanja: Nema informacija, Potrebna uputnica: Ne, Cijena: 698 kn i 501 kn, Način plaćanja: m-banking, kartice i gotovina, Radno vrijeme: 7:30h - 15:30h, Drive in: Da, Vrijeme čekanja nalaza: 24 do 48 sati, Telefon: Nema informacija, Email: tajnica@nzjz-split.hr, protokol@nzjz-split.hr, edita.olujic@nzjz-split.hr, Web: https://www.nzjz-split.hr/index.php/2-uncategorised/415-testiranje-na-sars-cov-2-bez-uputnice , Datum verifikacije: 23.8.2020., Na koronavirus.hr službenoj listi: Da"
       }
     },
     {
@@ -615,6 +615,34 @@
       "properties": {
         "name": "DZ Primorsko-goranske županije, Ispostava Crikvenica",
         "description": "Adresa: Kotorska ul. bb, 51260, Crikvenica, Narudžba: Obavezna, Vrijeme naručivanja: Nema informacija, Potrebna uputnica: Ne, Cijena: 698,21 kn, Način plaćanja: Nema informacija, Radno vrijeme: radnim danom od 8h do 12h, Drive in: Nema informacija, Vrijeme čekanja nalaza: Nema informacija, Telefon: 051 241 055, Email: Nema informacija, Web: https://domzdravlja-pgz.hr/ , Datum verifikacije: 24.8.2020., Na koronavirus.hr službenoj listi: Da"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0224,
+          43.29227
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Makarska",
+        "description": "Adresa: Ulica Stjepana Ivičevića 2, 21300 Makarska, Narudžba: Nema informacija, Vrijeme naručivanja: Nema informacija, Potrebna uputnica: Ne, Cijena: Nema informacija, Način plaćanja: Nema informacija, Radno vrijeme: Nema informacija, Drive in: Da, Vrijeme čekanja nalaza: Slijedeći dan, Telefon: 021 616 061, Email: Nema informacija, Web: https://dz-sdz.hr/korona-virus/ , Datum verifikacije: 24.8.2020., Na koronavirus.hr službenoj listi: Ne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.477465,
+          43.5094344
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Mertojak",
+        "description": "Adresa: Doverska Ul. 2, 21000 Split, Narudžba: Nema informacija, Vrijeme naručivanja: Nema informacija, Potrebna uputnica: Nema informacija, Cijena: Nema informacija, Način plaćanja: Nema informacija, Radno vrijeme: Nema informacija, Drive in: Da, Vrijeme čekanja nalaza: Nema informacija, Telefon: 021 669 264, Email: Nema informacija, Web: https://dz-sdz.hr/korona-virus/ , Datum verifikacije: 24.8.2020., Na koronavirus.hr službenoj listi: Ne"
       }
     }
   ]
