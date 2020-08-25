@@ -696,13 +696,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.8998169,
-          43.7337661
+          15.90061,
+          43.7332
         ]
       },
       "properties": {
         "name": "Punkt za testiranje turista Šibenik",
-        "description": "Adresa: Ul. Matije Gupca, 22000 Šibenik\nNarudžba: Obavezna\nVrijeme naručivanja: Naručivanje minimalno 24 sata ranije\nPotrebna uputnica: Ne\nCijena: 850 kn\nNačin plaćanja: Nema informacija\nRadno vrijeme: Po narudžbi\nDrive in: Nema informacija\nVrijeme čekanja nalaza: Nema informacija\nTelefon: +385 9873 7404\nEmail: ivana.lusic@dalmatiasibenik.hr\nWeb: Nema informacija\nDatum verifikacije: 25.8.2020.\nNa koronavirus.hr službenoj listi: Da",
+        "description": "Adresa: Ul. Matije Gupca bb, 22000 Šibenik\nNarudžba: Obavezna\nVrijeme naručivanja: Naručivanje minimalno 24 sata ranije\nPotrebna uputnica: Ne\nCijena: 850 kn\nNačin plaćanja: Nema informacija\nRadno vrijeme: Po narudžbi\nDrive in: Nema informacija\nVrijeme čekanja nalaza: Nema informacija\nTelefon: +385 9873 7404\nEmail: ivana.lusic@dalmatiasibenik.hr\nWeb: Nema informacija\nDatum verifikacije: 25.8.2020.\nNa koronavirus.hr službenoj listi: Da",
         "_umap_options": ""
       }
     }
