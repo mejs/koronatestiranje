@@ -10,7 +10,7 @@ destFolder="/home/$me/github/koronatestiranje/test/"
 # Make sure that folder exists
 if [ ! -d $destFolder ]
 then
-    echo -e "\nTarget folder:\n\n\t"$destFolder"\n\ndoes not exist. It must. Create it before continuing.\n"
+    echo -E "\nTarget folder:\n\n\t"$destFolder"\n\ndoes not exist. It must. Create it before continuing.\n"
     exit
 fi
 
@@ -23,7 +23,7 @@ g_json=$(echo $g_json | jq 'select( (.longitude | gsub("[\\D\\.]";"")) != "")')
 
 # Convert remaining entries to geojson variables
 # Currently a minimal set
-g_json=$(echo $g_json | jq -c '{type: "Feature", geometry: {type: "Point", coordinates: [(.longitude|tonumber), (.latitude|tonumber)]}, "properties": {name: .name, description: .description}}' | tr '\n' ',' | sed 's/,$//g')
+g_json=$(echo $g_json | jq -c '{type: "Feature", geometry: {type: "Point", coordinates: [(.longitude|tonumber), (.latitude|tonumber)]}, "properties": {name: .name, description: .description, _umap_options: .color}}' | tr '\n' ',' | sed 's/,$//g')
 
 # Put it all together as valid geojson in the variable "output"
 # Start with the header
@@ -35,3 +35,4 @@ output="$output ]}"
 
 # Create output file with prettified data
 echo $output | jq '.' > $destFolder"korona-test.json"
+sed -i "s/\\\\\\\/\\\/g" korona-test.json

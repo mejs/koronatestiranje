@@ -1,5 +1,5 @@
 #!/bin/bash
-sh google2geojson.sh
+bash google2geojson.sh
 git add korona.json
 git commit -m "korona.json updated"
 git push origin master
