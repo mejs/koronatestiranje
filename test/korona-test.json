@@ -13,7 +13,7 @@
       "properties": {
         "name": "Hrvatski zavod za javno zdravstvo (HZJZ)",
         "description": "Adresa: Rockefellerova 2, 10 000 Zagreb\nNarudžba: Obavezna\nVrijeme naručivanja: 10h – 14h \nPotrebna uputnica: Ne\nCijena: 698 kn\nNačin plaćanja: m-banking, debitna kartica\nRadno vrijeme: radni dan 7:30h – 9:30h, subotom 8h – 10h\nDrive in: Da\nVrijeme čekanja nalaza: do 24 sata\nTelefon: +38599 46 83 338\nEmail: covid@hzjz.hr\nWeb: https://www.hzjz.hr/sluzba-mikrobiologija/ambulanta-za-uzimanje-i-zaprimanje-uzoraka/testiranje-na-sars-cov-2/\nDatum verifikacije: 23.8.2020.\nNa koronavirus.hr službenoj listi: Da",
-        "_umap_options": "{\"color\":\"green\"\}"
+        "_umap_options": "{"color":"green"}"
       }
     },
     {
@@ -26,7 +26,7 @@
         ]
       },
       "properties": {
-        "name": "NZJZ \"Dr. Andrija Štampar\"",
+        "name": "NZJZ Dr. Andrija Štampar",
         "description": "Adresa: Mirogojska cesta 16, 10 000 Zagreb\nNarudžba: Za pojedince nije potrebno naručivanje\nVrijeme naručivanja: /\nPotrebna uputnica: Ne\nCijena: 698 kn\nNačin plaćanja: gotovina ili kartica\nRadno vrijeme: radni dan 8h - 16h, vikend i blagdani 8h - 14h\nDrive in: Da\nVrijeme čekanja nalaza: 72 sata\nTelefon: +3851 4696 190\nEmail: epidemiologija@stampar.hr\nWeb: http://www.stampar.hr/hr/pcr-testiranje-na-sars-cov-2-na-vlastiti-zahtjev\nDatum verifikacije: 23.8.2020.\nNa koronavirus.hr službenoj listi: Da",
         "_umap_options": ""
       }
@@ -41,7 +41,7 @@
         ]
       },
       "properties": {
-        "name": "Klinika za infektivne bolesi \"Dr. Fran Mihaljević\"",
+        "name": "Klinika za infektivne bolesti Dr. Fran Mihaljević",
         "description": "Adresa: Mirogojska 8, 10 000 Zagreb\nNarudžba: Za pojedince nije potrebno naručivanje\nVrijeme naručivanja: /\nPotrebna uputnica: Ne\nCijena: 698 kn i 501 kn\nNačin plaćanja: gotovina ili kartica\nRadno vrijeme: svaki dan 8h - 20h\nDrive in: Ne\nVrijeme čekanja nalaza: Nema informacija\nTelefon: +38591 4012 629, +38591 4012 032, +38591 4012 114\nEmail: Nema informacija\nWeb: http://www.bfm.hr/en_GB/page/koronavirus\nDatum verifikacije: 23.8.2020.\nNa koronavirus.hr službenoj listi: Da",
         "_umap_options": ""
       }
@@ -506,7 +506,7 @@
         ]
       },
       "properties": {
-        "name": "Opća i veteranska bolnica \"Hrvatski ponos\"",
+        "name": "Opća i veteranska bolnica "Hrvatski ponos"",
         "description": "Adresa: Kralja Svetoslava Suronje 12, 22 300 Knin\nNarudžba: Nema mogućnosti naručivanja\nVrijeme naručivanja: /\nPotrebna uputnica: Da\nCijena: /\nNačin plaćanja: /\nRadno vrijeme: Nema informacija\nDrive in: Ne\nVrijeme čekanja nalaza: Nema informacija\nTelefon: Nema informacija\nEmail: Nema informacija\nWeb: https://www.obhpknin.hr/\nDatum verifikacije: 23.8.2020.\nNa koronavirus.hr službenoj listi: Da",
         "_umap_options": ""
       }
