@@ -35,3 +35,4 @@ output="$output ]}"
 
 # Create output file with prettified data
 echo $output | jq '.' > $destFolder"korona.json"
+sed -i "s/\\\\\\\/\\\/g" korona-test.json
