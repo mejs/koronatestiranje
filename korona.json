@@ -488,7 +488,7 @@
       },
       "properties": {
         "name": "ZJZ Varaždinske županije",
-        "description": "Adresa: Ul. Ivana Meštrovića 1/11, 42 000 Varaždin\nNarudžba: Moguća\nVrijeme naručivanja: 7h - 14h\nPotrebna uputnica: Ne\nCijena: 698 kn\nNačin plaćanja: Nema informacija\nRadno vrijeme: \nDrive in: Da\nVrijeme čekanja nalaza: do 24 sata\nTelefon: +38542 653 130, +38542 653 165\nEmail: epidemiologija@zzjzzv.hr, mikrobiologija-prijem@zzjzzv.hr\nWeb: https://www.zzjzzv.hr/?gid=2&aid=411\nDatum verifikacije: 23.8.2020.\nNa koronavirus.hr službenoj listi: Da"
+        "description": "Adresa: Ul. Ivana Meštrovića 1/11, 42 000 Varaždin\nNarudžba: Obavezna\nVrijeme naručivanja: 7h - 14h\nPotrebna uputnica: Ne\nCijena: 698 kn\nNačin plaćanja: Gotovina\nRadno vrijeme: \nDrive in: Da\nVrijeme čekanja nalaza: do 24 sata\nTelefon: +38542 653 130, +38542 653 165\nEmail: epidemiologija@zzjzzv.hr, mikrobiologija-prijem@zzjzzv.hr\nWeb: https://www.zzjzzv.hr/?gid=2&aid=411\nDatum verifikacije: 23.8.2020.\nNa koronavirus.hr službenoj listi: Da"
       }
     },
     {
@@ -600,7 +600,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Opatija",
-        "description": "Adresa: Stubište dr. Vande Ekl 1, 51 410 Opatija\nNarudžba: Moguća\nVrijeme naručivanja: Nema informacija\nPotrebna uputnica: Nema informacija\nCijena: Nema informacija\nNačin plaćanja: Nema informacija\nRadno vrijeme: radnim danom od 8h do 11h\nDrive in: Nema informacija\nVrijeme čekanja nalaza: 1 - 3 dana\nTelefon: +38551 718 067\nEmail: epidemiologija.opatija@zzjzpgz.hr\nWeb: https://domzdravlja-pgz.hr/\nDatum verifikacije: 24.8.2020.\nNa koronavirus.hr službenoj listi: Da"
+        "description": "Adresa: Stubište dr. Vande Ekl 1, 51 410 Opatija\nNarudžba: Moguća\nVrijeme naručivanja: Nema informacija\nPotrebna uputnica: Ne\nCijena: 698,21 kn\nNačin plaćanja: Gotovina\nRadno vrijeme: radnim danom od 8h do 11h\nDrive in: Nema informacija\nVrijeme čekanja nalaza: 1 - 3 dana\nTelefon: +38551 718 067\nEmail: epidemiologija.opatija@zzjzpgz.hr\nWeb: https://domzdravlja-pgz.hr/\nDatum verifikacije: 24.8.2020.\nNa koronavirus.hr službenoj listi: Da"
       }
     },
     {
@@ -614,7 +614,7 @@
       },
       "properties": {
         "name": "DZ Primorsko-goranske županije, Ispostava Crikvenica",
-        "description": "Adresa: Kotorska ul. bb, 51260, Crikvenica\nNarudžba: Obavezna\nVrijeme naručivanja: Nema informacija\nPotrebna uputnica: Ne\nCijena: 698,21 kn\nNačin plaćanja: Nema informacija\nRadno vrijeme: radnim danom od 8h do 12h\nDrive in: Nema informacija\nVrijeme čekanja nalaza: Nema informacija\nTelefon: +38551 241 055\nEmail: Nema informacija\nWeb: https://domzdravlja-pgz.hr/\nDatum verifikacije: 24.8.2020.\nNa koronavirus.hr službenoj listi: Da"
+        "description": "Adresa: Kotorska ul. bb, 51260, Crikvenica\nNarudžba: Obavezna\nVrijeme naručivanja: Nema informacija\nPotrebna uputnica: Ne\nCijena: 698,21 kn\nNačin plaćanja: Nema informacija\nRadno vrijeme: radnim danom od 8h do 12h\nDrive in: Ne\nVrijeme čekanja nalaza: Nema informacija\nTelefon: +38551 241 055\nEmail: Nema informacija\nWeb: https://domzdravlja-pgz.hr/\nDatum verifikacije: 24.8.2020.\nNa koronavirus.hr službenoj listi: Da"
       }
     },
     {
