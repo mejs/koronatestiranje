@@ -13,7 +13,7 @@
       "properties": {
         "name": "Hrvatski zavod za javno zdravstvo (HZJZ)",
         "description": "Adresa: Rockefellerova 2, 10 000 Zagreb\nNarudžba: Obavezna\nVrijeme naručivanja: 10h – 14h \nPotrebna uputnica: Ne\nCijena: 698 kn\nNačin plaćanja: m-banking, debitna kartica\nRadno vrijeme: radni dan 7:30h – 9:30h, subotom 8h – 10h\nDrive in: Da\nVrijeme čekanja nalaza: do 24 sata\nTelefon: +38599 46 83 338\nEmail: covid@hzjz.hr\nWeb: https://www.hzjz.hr/sluzba-mikrobiologija/ambulanta-za-uzimanje-i-zaprimanje-uzoraka/testiranje-na-sars-cov-2/\nDatum verifikacije: 23.8.2020.\nNa koronavirus.hr službenoj listi: Da",
-        "_umap_options": "{"color\":\"green"}"
+        "_umap_options": {"color":"green"}
       }
     },
     {
