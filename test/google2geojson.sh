@@ -36,3 +36,8 @@ output="$output ]}"
 # Create output file with prettified data
 echo $output | jq '.' > $destFolder"korona-test.json"
 sed -i "s/\\\\\\\/\\\/g" korona-test.json
+sed -i 's/{\\/\{/g' korona-test.json
+sed -i 's/\\"\\\\}/\"}/g' korona-test.json
+sed -i 's/"{"c/\{"c/g' korona-test.json
+sed -i 's/or\\":\\"/\lor":"/g' korona-test.json
+sed -i 's/"}"/\"}/g' korona-test.json
