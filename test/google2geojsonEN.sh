@@ -34,12 +34,12 @@ output="$output $g_json"
 output="$output ]}"
 
 # Create output file with prettified data
-echo $output | jq '.' > $destFolder"korona-test.json"
-sed -i "s/\\\\\\\/\\\/g" korona-test.json
-sed -i 's/"{\\"color/\{"color/g' korona-test.json
-sed -i 's/\\"\\}/\"}/g' korona-test.json
-sed -i 's/"{"c/\{"c/g' korona-test.json
-sed -i 's/or\\":\\"/\lor":"/g' korona-test.json
-sed -i 's/\\",\\"/\","/g' korona-test.json
-sed -i 's/Class\\":\\"Drop","iconUrl\\":\\/\Class":"Drop","iconUrl":/g' korona-test.json
-sed -i 's/png\\}"/\png"}/g' korona-test.json
+echo $output | jq '.' > $destFolder"korona-testEN.json"
+sed -i "s/\\\\\\\/\\\/g" korona-testEN.json
+sed -i 's/"{\\"color/\{"color/g' korona-testEN.json
+sed -i 's/\\"\\}/\"}/g' korona-testEN.json
+sed -i 's/"{"c/\{"c/g' korona-testEN.json
+sed -i 's/or\\":\\"/\lor":"/g' korona-testEN.json
+sed -i 's/\\",\\"/\","/g' korona-testEN.json
+sed -i 's/Class\\":\\"Drop","iconUrl\\":\\/\Class":"Drop","iconUrl":/g' korona-testEN.json
+sed -i 's/png\\}"/\png"}/g' korona-testEN.json
