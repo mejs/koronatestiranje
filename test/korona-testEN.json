@@ -26,7 +26,7 @@
         ]
       },
       "properties": {
-        "name": "NZJZ Dr. Andrija Štampar",
+        "name": "NZJZ \"Dr. Andrija Štampar\"",
         "description": "**Adress:** Rockefellerova 2, 10 000 Zagreb\n**Scheduling:** Za pojedince nije potrebno naručivanje\n **Time to schedule:** 10h – 14h \n **Doctor's referral required:** Ne\n **Price:** 698 kn\n **Payment types:** m-banking, debitna kartica\n **Hours open:** radni dan 7:30h – 9:30h, subotom 8h – 10h\n **Drive in:** Da\n **Results in:** do 24 sata\n **Phone:** +3851 4696 190\n **Email:** epidemiologija@stampar.hr\n **Web:** http://www.stampar.hr/hr/pcr-testiranje-na-sars-cov-2-na-vlastiti-zahtjev\n **Date verified:** 23.8.2020.\n **On koronavirus.hr official list:** Da",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
@@ -41,7 +41,7 @@
         ]
       },
       "properties": {
-        "name": "Klinika za infektivne bolesti Dr. Fran Mihaljević",
+        "name": "Klinika za infektivne bolesti \"Dr. Fran Mihaljević\"",
         "description": "**Adress:** Rockefellerova 2, 10 000 Zagreb\n**Scheduling:** Za pojedince nije potrebno naručivanje\n **Time to schedule:** 10h – 14h \n **Doctor's referral required:** Ne\n **Price:** 698 kn i 501 kn\n **Payment types:** m-banking, debitna kartica\n **Hours open:** radni dan 7:30h – 9:30h, subotom 8h – 10h\n **Drive in:** Da\n **Results in:** do 24 sata\n **Phone:** +38591 4012 629, +38591 4012 032, +38591 4012 114\n **Email:** Nema informacija\n **Web:** http://www.bfm.hr/en_GB/page/koronavirus\n **Date verified:** 23.8.2020.\n **On koronavirus.hr official list:** Da",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
@@ -522,7 +522,7 @@
       },
       "properties": {
         "name": "ZJZ Varaždinske županije",
-        "description": "**Adress:** Rockefellerova 2, 10 000 Zagreb\n**Scheduling:** Moguća\n **Time to schedule:** 10h – 14h \n **Doctor's referral required:** Ne\n **Price:** 698 kn\n **Payment types:** m-banking, debitna kartica\n **Hours open:** radni dan 7:30h – 9:30h, subotom 8h – 10h\n **Drive in:** Da\n **Results in:** do 24 sata\n **Phone:** +38542 653 130, +38542 653 165\n **Email:** epidemiologija@zzjzzv.hr, mikrobiologija-prijem@zzjzzv.hr\n **Web:** https://www.zzjzzv.hr/?gid=2&aid=411\n **Date verified:** 23.8.2020.\n **On koronavirus.hr official list:** Da",
+        "description": "**Adress:** Rockefellerova 2, 10 000 Zagreb\n**Scheduling:** Obavezna\n **Time to schedule:** 10h – 14h \n **Doctor's referral required:** Ne\n **Price:** 698 kn\n **Payment types:** m-banking, debitna kartica\n **Hours open:** radni dan 7:30h – 9:30h, subotom 8h – 10h\n **Drive in:** Da\n **Results in:** do 24 sata\n **Phone:** +38542 653 130, +38542 653 165\n **Email:** epidemiologija@zzjzzv.hr, mikrobiologija-prijem@zzjzzv.hr\n **Web:** https://www.zzjzzv.hr/?gid=2&aid=411\n **Date verified:** 23.8.2020.\n **On koronavirus.hr official list:** Da",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -642,8 +642,8 @@
       },
       "properties": {
         "name": "Dom zdravlja Opatija",
-        "description": "**Adress:** Rockefellerova 2, 10 000 Zagreb\n**Scheduling:** Moguća\n **Time to schedule:** 10h – 14h \n **Doctor's referral required:** Nema informacija\n **Price:** Nema informacija\n **Payment types:** m-banking, debitna kartica\n **Hours open:** radni dan 7:30h – 9:30h, subotom 8h – 10h\n **Drive in:** Da\n **Results in:** do 24 sata\n **Phone:** +38551 718 067\n **Email:** epidemiologija.opatija@zzjzpgz.hr\n **Web:** https://domzdravlja-pgz.hr/\n **Date verified:** 24.8.2020.\n **On koronavirus.hr official list:** Da",
-        "_umap_options": {"color":"#0EACFE","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+        "description": "**Adress:** Rockefellerova 2, 10 000 Zagreb\n**Scheduling:** Moguća\n **Time to schedule:** 10h – 14h \n **Doctor's referral required:** Ne\n **Price:** 698,21 kn\n **Payment types:** m-banking, debitna kartica\n **Hours open:** radni dan 7:30h – 9:30h, subotom 8h – 10h\n **Drive in:** Da\n **Results in:** do 24 sata\n **Phone:** +38551 718 067\n **Email:** epidemiologija.opatija@zzjzpgz.hr\n **Web:** https://domzdravlja-pgz.hr/\n **Date verified:** 24.8.2020.\n **On koronavirus.hr official list:** Da",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
     {
