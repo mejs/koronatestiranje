@@ -15,7 +15,7 @@ then
 fi
 
 # Get the spreadsheet feed in json format
-g_json=$(curl -s -stdout 'https://spreadsheets.google.com/feeds/list/1yoJMipemnJuWLKIKLk-nBBcf5FeTrh7IftJwvENHem0/2/public/values?alt=json')
+g_json=$(curl -s -stdout 'https://spreadsheets.google.com/feeds/list/1yoJMipemnJuWLKIKLk-nBBcf5FeTrh7IftJwvENHem0/3/public/values?alt=json')
 # Grab only the rows/entries & clean out some Google cruft: gsx$ prefix; unnecessary $t attribute using perl since sed doesn't support the non-greedy operater ?
 g_json=$(echo $g_json | jq -c '.feed.entry[]' | sed 's/gsx\$//g' | perl -pe 's/:{"\$t":(".*?")}/:\1/g')
 # Include only entries with geographical data, after substituting for anything that isn't a digit or .
