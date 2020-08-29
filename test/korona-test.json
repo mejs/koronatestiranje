@@ -687,7 +687,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Mertojak",
-        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.5094344%2C16.477465#map=17/43.5094344/16.477465|Doverska Ul. 2, 21000 Split]] \n **Radno vrijeme:** Pet-Ned: 7:00-15:00\n **Telefon:** +38521 669 264\n **Email:** Nema informacija\n **Web:** https://dz-sdz.hr/korona-virus/\n\n**Narudžba:** Nema informacija\n **Vrijeme naručivanja:** Nema informacija\n **Potrebna uputnica:** Nema informacija\n **Cijena:** Nema informacija\n **Način plaćanja:** m-banking (uplatnica)\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** Nema informacija\n\n **Datum verifikacije:** 24.8.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.5094344%2C16.477465#map=17/43.5094344/16.477465|Doverska Ul. 2, 21000 Split]] \n **Radno vrijeme:** Pet-Ned: 7:00-15:00\n **Telefon:** +38521 669 264\n **Email:** Nema informacija\n **Web:** https://dz-sdz.hr/korona-virus/\n\n**Narudžba:** Nema informacija\n **Vrijeme naručivanja:** Nema informacija\n **Potrebna uputnica:** Nema informacija\n **Cijena:** Nema informacija\n **Način plaćanja:** [[https://makarska-info.hr/hr/novosti/sars-cov-2-testiranje-u-makarskoj | m-banking (uplatnica)]]\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** Nema informacija\n\n **Datum verifikacije:** 24.8.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
