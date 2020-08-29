@@ -598,7 +598,7 @@
       "properties": {
         "name": "Opća bolnica Karlovac",
         "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.4770768%2C15.5400435#map=17/45.4770768/15.5400435|Ul. Andrije Štampara 3, 47000 Karlovac]] \n **Radno vrijeme:** Pon-Ned: od 7:30\n **Telefon:** +38591 2571 182\n **Email:** Nemamo informaciju\n **Web:** https://www.bolnica-karlovac.hr/\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** 10h do 15h\n **Potrebna uputnica:** Nemamo informaciju\n **Cijena:** Nemamo informaciju\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 23.8.2020.\n **Na koronavirus.hr službenoj listi:** Ne ",
-        "_umap_options": "FALSE"
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
     {
@@ -688,7 +688,7 @@
       "properties": {
         "name": "Dom zdravlja Mertojak",
         "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.5094344%2C16.477465#map=17/43.5094344/16.477465|Doverska Ul. 2, 21000 Split]] \n **Radno vrijeme:** Pet-Ned: 7:00-15:00\n **Telefon:** +38521 669 264\n **Email:** Nemamo informaciju\n **Web:** https://dz-sdz.hr/korona-virus/\n\n**Narudžba:** Nemamo informaciju\n **Vrijeme naručivanja:** Nemamo informaciju\n **Potrebna uputnica:** Nemamo informaciju\n **Cijena:** Nemamo informaciju\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 24.8.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
-        "_umap_options": "FALSE"
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
     {
