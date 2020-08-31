@@ -717,8 +717,8 @@
       },
       "properties": {
         "name": "NZJZ Split - COVID punkt Križine",
-        "description": "",
-        "_umap_options": ""
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.50599%2C16.46972#map=17/43.50599/16.46972|Šoltanska 1, 21000, Križine]] \n **Radno vrijeme:** Prema dogovoru\n **Telefon:** [[tel:+38599 819 58 63 | +38599 819 58 63]]\n **Email:** [[mailto:narucivanje.mikrobiologija@nzjz-split.hr | narucivanje.mikrobiologija@nzjz-split.hr]]\n **Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/435-test-na-sars-cov-2-bez-uputnice-2 | nzjz-split.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Ne\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 31.8.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }
   ]
