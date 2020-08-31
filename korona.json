@@ -705,6 +705,21 @@
         "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.7332%2C15.90061#map=17/43.7332/15.90061|Ul. Matije Gupca bb, 22000 Šibenik (ispred prijema hitne pomoći)]] \n **Radno vrijeme:** Prema dogovoru\n **Telefon:** [[tel:+385 9873 7404 | +385 9873 7404]]\n **Email:** [[mailto:ivana.lusic@dalmatiasibenik.hr | ivana.lusic@dalmatiasibenik.hr]]\n **Web:** Nemamo informaciju\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 850 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 25.8.2020.\n **Na koronavirus.hr službenoj listi:** Da",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.46972,
+          43.50599
+        ]
+      },
+      "properties": {
+        "name": "KBC Split - COVID punkt Križine",
+        "description": "",
+        "_umap_options": ""
+      }
     }
   ]
 }
