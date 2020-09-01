@@ -50,6 +50,7 @@ body {font-family: Arial, Helvetica, sans-serif; background-color: #333;
   text-decoration: none;
   font-size: 16px;
   border: none;
+  line-height: 1.1em;
 }
 
 .navbar button:hover {
