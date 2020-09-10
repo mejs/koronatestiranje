@@ -50,6 +50,7 @@ body {font-family: Arial, Helvetica, sans-serif; background-color: #333;
   text-decoration: none;
   font-size: 16px;
   border: none;
+  line-height: 1.1em;
 }
 
 .navbar button:hover {
@@ -67,6 +68,12 @@ body {font-family: Arial, Helvetica, sans-serif; background-color: #333;
   content: "\1F1EC\1F1E7";
   line-height: 1em;
 }
+
+.DE::before {
+  content: "\1F1E9\1F1EA";
+  line-height: 1em;
+}
+
 
 /* The Modal (background) */
 .modal {
@@ -109,7 +116,7 @@ body {font-family: Arial, Helvetica, sans-serif; background-color: #333;
 }
 
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 600px) {
   .navbar a:not(:first-child) {display: none;}
   .navbar a.icon {
     float: right;
@@ -118,7 +125,7 @@ body {font-family: Arial, Helvetica, sans-serif; background-color: #333;
 }
 
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 600px) {
   .navbar.responsive {position: relative;}
   .navbar.responsive a.icon {
     position: absolute;
