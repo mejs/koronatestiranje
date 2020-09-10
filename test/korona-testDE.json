@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9814254,
+          45.8290593
+        ]
+      },
+      "properties": {
+        "name": "Hrvatski zavod za javno zdravstvo (HZJZ)",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.8290593%2C15.9814254#map=17/45.8290593/15.9814254|Rockefellerova 2, 10 000 Zagreb]] **Öffnungszeiten:** Mo-Fr: 7:30-9:30 | Sa: 8:00-10:00**Telefon:** [[tel:+38599 46 83 338 | +38599 46 83 338]]**E-Mail:** [[mailto:covid@hzjz.hr | covid@hzjz.hr]]**Web:** [[https://www.hzjz.hr/sluzba-mikrobiologija/ambulanta-za-uzimanje-i-zaprimanje-uzoraka/testiranje-na-sars-cov-2/|hzjz.hr]]\n**Anmeldung:** Notwendig**Anmeldezeit:** 10:00-14:00**Überweisungsschein notwendig:** Nein**Preis:** 698 HRK**Zahlungsmittel:** [[https://www.hzjz.hr/sluzba-mikrobiologija/ambulanta-za-uzimanje-i-zaprimanje-uzoderaka/testiranje-na-sars-cov-2/ | Banküberweisung]], Girokarte**Drive-in::** Ja**Wartezeit bis zum Ergebnis:** 24h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9805461,
+          45.8314145
+        ]
+      },
+      "properties": {
+        "name": "NZJZ \"Dr. Andrija Štampar\"",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.8314145%2C15.9805461#map=17/45.8314145/15.9805461|Mirogojska cesta 16, 10 000 Zagreb]] **Öffnungszeiten:** Mo-Fr: 8:00-16:00 | Sa-So: 8:00-14:00**Telefon:** [[tel:+3851 4696 190 | +3851 4696 190]], [[tel:+38591 4696 444 | +38591 4696 444]]**E-Mail:** [[mailto:epidemiologija@stampar.hr | epidemiologija@stampar.hr]]**Web:** [[http://www.stampar.hr/hr/pcr-testiranje-na-sars-cov-2-na-vlastiti-zahtjev|stampar.hr]]\n**Anmeldung:** Keine Anmeldung für Einzelpersonen notwendig**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 698 HRK**Zahlungsmittel:** bar oder Giro-/Kreditkarte**Drive-in::** Ja**Wartezeit bis zum Ergebnis:** 24-48h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98059,
+          45.83111
+        ]
+      },
+      "properties": {
+        "name": "Klinika za infektivne bolesti \"Dr. Fran Mihaljević\"",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.83111%2C15.98059#map=17/45.83111/15.98059|Mirogojska 8, 10 000 Zagreb]] **Öffnungszeiten:** Mo-So: 8:00-20:00**Telefon:** [[tel:+38591 4012 629 | +38591 4012 629]], [[tel:+38591 4012 032 | +38591 4012 032]], [[tel:+38591 4012 114 | +38591 4012 114]]**E-Mail:** Keine Information**Web:** [[http://www.bfm.hr/en_GB/page/koronavirus|bfm.hr]]\n**Anmeldung:** Keine Anmeldung für Einzelpersonen notwendig**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 698 HRK und 501 HRK**Zahlungsmittel:** bar oder Giro-/Kreditkarte**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.979433,
+          45.7730141
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Zagreb - Centar",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.7730141%2C15.979433#map=17/45.7730141/15.979433|Avenija Većeslava Holjevca 22, 10 000 Zagreb]] **Öffnungszeiten:** Mo-Fr 8:00-20:00**Telefon:** [[tel:+3851 659 84 64 | +3851 659 84 64]]**E-Mail:** Keine Information**Web:** [[https://dzz-centar.hr/info-covid-19/|dzz-centar.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** 8:00-20:00**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Ja**Wartezeit bis zum Ergebnis:** Die Verarbeitung der Ergebnisse erfolgt am NZJZ \"Dr. Andrija Štampar\".\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0524252,
+          45.8304463
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Zagreb - Istok",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.8304463%2C16.0524252#map=17/45.8304463/16.0524252| Grižanska 4, 10 000 Zagreb]] **Öffnungszeiten:** /**Telefon:** [[tel:+38591 2350 182 | +38591 2350 182]]**E-Mail:** Keine Information**Web:** [[https://dzz-istok.hr/vise-informacija-o-koronavirusu/|dzz-centar.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** 8:00-20:00**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Ja**Wartezeit bis zum Ergebnis:** Die Verarbeitung der Ergebnisse erfolgt am NZJZ \"Dr. Andrija Štampar\".\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9444255,
+          45.8113936
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Zagreb - Zapad 1",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.8113936%2C15.9444255#map=17/45.8113936/15.9444255|Prilaz baruna Filipovića 11, 10 000 Zagreb]] **Öffnungszeiten:** /**Telefon:** [[tel:+38591 387 65 91 | +38591 387 65 91]]**E-Mail:** Keine Information**Web:** [[https://www.dzz-zapad.hr/|dzz-zapad.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** 8:00-20:00**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Ja**Wartezeit bis zum Ergebnis:** Die Verarbeitung der Ergebnisse erfolgt am NZJZ \"Dr. Andrija Štampar\".\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9495024,
+          45.7974047
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Zagreb - Zapad 2",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.7974047%2C15.9495024#map=17/45.7974047/15.9495024|Park Stara Trešnjevka 4, 10 000 Zagreb]] **Öffnungszeiten:** /**Telefon:** [[tel:+38591 3876 000 | +38591 3876 000]]**E-Mail:** Keine Information**Web:** [[https://www.dzz-zapad.hr/|dzz-zapad.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** Die Verarbeitung der Ergebnisse erfolgt am NZJZ \"Dr. Andrija Štampar\".\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0758588,
+          42.6477382
+        ]
+      },
+      "properties": {
+        "name": "Opća bolnica Dubrovnik",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=42.6477382%2C18.0758588#map=17/42.6477382/18.0758588|Dr. Roka Mišetića 2, 20 000 Dubrovnik]] **Öffnungszeiten:** Mo-So: 8:00-9:00**Telefon:** [[tel:+38520 431 731 | +38520 431 731 ]]**E-Mail:** Keine Information**Web:** [[https://www.bolnica-du.hr/index.php/component/k2/item/730-covid-19-uzimanje-briseva-novo-vrijeme-i-lokacija|bolnica-du.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** 10:00-14:00**Überweisungsschein notwendig:** Nein**Preis:** 1506 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** 12h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0775206,
+          42.6519263
+        ]
+      },
+      "properties": {
+        "name": "ZJZ Dubrovačko-neretvanske županije",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=42.6519263%2C18.0775206#map=17/42.6519263/18.0775206|Ul. dr. Ante Šercera 4a, 20 000 Dubrovnik]] **Öffnungszeiten:** Nach Vereinbarung**Telefon:** Keine Information**E-Mail:** [[mailto:mikrobiologija@zzjzdnz.hr | mikrobiologija@zzjzdnz.hr]]**Web:** [[https://www.zzjzdnz.hr/|zzjzdnz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 1507 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** 6h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0942373,
+          42.6474029
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Dubrovnik",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=42.6474029%2C18.0942373#map=17/42.6474029/18.0942373|Dr. Ante Starčevića 1, 20 000 Dubrovnik]] **Öffnungszeiten:** Mo-So: 7:00-19:00**Telefon:** [[tel:+38520 641613 | +38520 641613]], [[tel:+38599 5291 888 | +38599 5291 888]]**E-Mail:** [[mailto:covid-19@dom-zdravlja-dubrovnik.hr | covid-19@dom-zdravlja-dubrovnik.hr]]**Web:** [[https://www.dom-zdravlja-dubrovnik.hr/hr/sluzbe/covid-19-ordinacija|dom-zdravlja-dubrovnik.hr]]\n**Anmeldung:** Notwendig**Anmeldezeit:** /**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Ja**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1364098,
+          42.9492716
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Korčula",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=42.9492716%2C17.1364098#map=17/42.9492716/17.1364098|Ulica 57 br.5, 20 260 Korčula]] **Öffnungszeiten:** Mo-So: 7:00-15:00**Telefon:** [[tel:+38599 529 8734 | +38599 529 8734]]**E-Mail:** [[mailto:amb.za.covid@dom-zdravlja-korcula.hr | amb.za.covid@dom-zdravlja-korcula.hr]]**Web:** [[https://dom-zdravlja-korcula.hr/|dom-zdravlja-korcula.hr]]\n**Anmeldung:** Notwendig**Anmeldezeit:** /**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Ja**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6481784,
+          43.0533982
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Metković",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.0533982%2C17.6481784#map=17/43.0533982/17.6481784|Ante Starčevića 12, 20 350 Metković]] **Öffnungszeiten:** Mo, Mi und Fr: 7:30-8:30**Telefon:** Keine Information**E-Mail:** [[mailto:covid19@dom-zdravlja-metkovic.hr | covid19@dom-zdravlja-metkovic.hr]]**Web:** [[https://www.dom-zdravlja-metkovic.hr/|dom-zdravlja-metkovic.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** 7:00-19:00**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8492486,
+          44.8615273
+        ]
+      },
+      "properties": {
+        "name": "ZJZ Istarske županije",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=44.8615273%2C13.8492486#map=17/44.8615273/13.8492486|Nazorova ul. 23, 52 000 Pula]] **Öffnungszeiten:** /**Telefon:** [[tel:+38599 441 821 | +38599 441 821]]**E-Mail:** [[mailto:brisevi@zzjziz.hr | brisevi@zzjziz.hr]]**Web:** [[https://www.zzjziz.hr/index.php?id=275|zzjziz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 698 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** 24h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8503798,
+          44.86736
+        ]
+      },
+      "properties": {
+        "name": "Istarski dom zdravlja Pula",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=44.86736%2C13.8503798#map=17/44.86736/13.8503798|Flanatička 27, 52 100 Pula]] **Öffnungszeiten:** Hausbesuche**Telefon:** [[tel:+38598 991 4564 | +38598 991 4564]]**E-Mail:** [[mailto:patronaza.pula@idz.hr | patronaza.pula@idz.hr]]**Web:** [[https://idz.hr/wp/covid-19-ambulante/|idz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 750 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1185391,
+          45.1001159
+        ]
+      },
+      "properties": {
+        "name": "Istarski dom zdravlja Labin",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.1001159%2C14.1185391#map=17/45.1001159/14.1185391|Sv. Mikule 2, 52 220 Labin]] **Öffnungszeiten:** Mo und Mi: von 15:00**Telefon:** [[tel:+38595 8426 212 | +38595 8426 212]], [[tel:+38599 255 4013 | +38599 255 4013]]**E-Mail:** [[mailto:[[mailto:klara.belusic@idz.hr | klara.belusic@idz.hr]], [[mailto:rafaela.faraguna@idz.hr | rafaela.faraguna@idz.hr]] | [[mailto:rafaela.faraguna@idz.hr | rafaela.faraguna@idz.hr]]**Web:** [[https://idz.hr/wp/covid-19-ambulante/|idz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6922156,
+          45.0877031
+        ]
+      },
+      "properties": {
+        "name": "Istarski dom zdravlja Rovinj",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.0877031%2C13.6922156#map=17/45.0877031/13.6922156|Istarska bb, 52 210 Rovinj]] **Öffnungszeiten:** Mo und Mi: von 15:00**Telefon:** [[tel:+38591 125 6463 | +38591 125 6463]]**E-Mail:** [[mailto:patronaza.rovinj@idz.hr | patronaza.rovinj@idz.hr]], [[mailto:vlado.bjelajac@pu.t-com.hr | vlado.bjelajac@pu.t-com.hr]]**Web:** [[https://idz.hr/wp/covid-19-ambulante/|idz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9373092,
+          45.2397599
+        ]
+      },
+      "properties": {
+        "name": "Istarski dom zdravlja Pazin",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.2397599%2C13.9373092#map=17/45.2397599/13.9373092|Jurja Dobrile 1, 52 000 Pazin]] **Öffnungszeiten:** Mo und Mi: von 11:00**Telefon:** [[tel:+38595 4321875 | +38595 4321875]], [[tel:+38591 5332117 | +38591 5332117]]**E-Mail:** [[mailto:marija.bravar@idz.hr | marija.bravar@idz.hr]], [[mailto:robert.cupev@idz.hr | robert.cupev@idz.hr]]**Web:** [[https://idz.hr/wp/covid-19-ambulante/|idz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5947399,
+          45.2271652
+        ]
+      },
+      "properties": {
+        "name": "Istarski dom zdravlja Poreč",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.2271652%2C13.5947399#map=17/45.2271652/13.5947399|M.Giosefi 2, 52 210 Poreč]] **Öffnungszeiten:** Di und Do: von 13:00**Telefon:** [[tel:+38599 2650403 | +38599 2650403]], [[tel:+38598 421150 | +38598 421150]], [[tel:+38591959 1909 | +38591959 1909]]**E-Mail:** [[mailto:paula.janko@idz.hr | paula.janko@idz.hr]], [[mailto:ivopovrz@net.hr | ivopovrz@net.hr,]], [[mailto:monika.mataic@idz.hr | monika.mataic@idz.hr]]**Web:** [[https://idz.hr/wp/covid-19-ambulante/|idz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9637637,
+          45.4078563
+        ]
+      },
+      "properties": {
+        "name": "Istarski dom zdravlja Buzet",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.4078563%2C13.9637637#map=17/45.4078563/13.9637637|Goričica bb, 52 420 Buzet]] **Öffnungszeiten:** Mo und Mi: von 11:00**Telefon:** [[tel:+38552 496 981 | +38552 496 981]], [[tel:+38591 5444 707 | +38552 496 981]]**E-Mail:** [[mailto:vlasta.drascic@idz.hr | vlasta.drascic@idz.hr]], [[mailto:gordan.medica@idz.hr | gordan.medica@idz.hr]]**Web:** [[https://idz.hr/wp/covid-19-ambulante/|idz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5257205,
+          45.4372062
+        ]
+      },
+      "properties": {
+        "name": "Istarski dom zdravlja Umag",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.4372062%2C13.5257205#map=17/45.4372062/13.5257205|E. Pascali 3, 52 470 Umag]] **Öffnungszeiten:** Di und Do: von 9:00**Telefon:** [[tel:+38591 7231556 | +38591 7231556]], [[tel:+38598 213737 | +38598 213737]]**E-Mail:** [[mailto:karmen.horvatic@idz.hr | karmen.horvatic@idz.hr]], [[mailto:daniel.ferlin@idz.hr | daniel.ferlin@idz.hr]]**Web:** [[https://idz.hr/wp/covid-19-ambulante/|idz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43435,
+          46.3945725
+        ]
+      },
+      "properties": {
+        "name": "ZJZ Međimurske županije",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=46.3945725%2C16.43435#map=17/46.3945725/16.43435|Ul. Ivana Gorana Kovačića 1E, 40 000 Čakovec]] **Öffnungszeiten:** Mo-Fr: von 7:30**Telefon:** [[tel:+38540 310 336 | +38540 310 336]]**E-Mail:** Keine Information**Web:** [[https://www.zzjz-ck.hr/|zzjz-ck.hr]]\n**Anmeldung:** Notwendig**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 1000 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** 12h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6876452,
+          45.5582815
+        ]
+      },
+      "properties": {
+        "name": "ZJZ Osječko-baranjske županije",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.5582815%2C18.6876452#map=17/45.5582815/18.6876452|Ul. Franje Krežme 1, 31 000 Osijek]] **Öffnungszeiten:** /**Telefon:** [[tel:+38531 225 761 | +38531 225 761, [[tel:+38531 225 771 | +38531 225 771]]**E-Mail:** Keine Information**Web:** [[http://www.zzjzosijek.hr/|zzjzosijek.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 700 HRK, für dringende Ergebnisse 1000 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** 24h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7149377,
+          45.5576607
+        ]
+      },
+      "properties": {
+        "name": "KBC Osijek",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.5576607%2C18.7149377#map=17/45.5576607/18.7149377|Ul. Josipa Huttlera 4, 31 000 Osijek]] **Öffnungszeiten:** Mo-So: 7:30-10:30**Telefon:** [[tel:+38531 225 761 | +38531 225 761]], [[tel:+38531 225 771 | +38531 225 771]]**E-Mail:** [[mailto:covid19@kbco.hr | covid19@kbco.hr]]**Web:** [[http://www.kbco.hr/covid-19/|kbco.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 698 HRK und 501 HRK**Zahlungsmittel:** [[http://www.kbco.hr/covid-19/ | Banküberweisung]], bar oder Giro-/Kreditkarte**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** 24h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6758712,
+          45.3323805
+        ]
+      },
+      "properties": {
+        "name": "Opća bolnica Požega",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.3323805%2C17.6758712#map=17/45.3323805/17.6758712|Županijska ul. 9, 34 000 Požega]] **Öffnungszeiten:** Mo-So: 8:00-14:00**Telefon:** [[tel:+38534 254 555 | +38534 254 555]]**E-Mail:** [[mailto:info@pozeska-bolnica.hr | info@pozeska-bolnica.hr]]**Web:** [[https://www.pozeska-bolnica.hr/|pozeska-bolnica.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 501 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** 4h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42524,
+          45.332361
+        ]
+      },
+      "properties": {
+        "name": "NZJZ Primorsko-goranske županije",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.332361%2C14.42524#map=17/45.332361/14.42524|Krešimirova ul. 52a, 51 000 Rijeka]] **Öffnungszeiten:** Mo-Fr: 7:00-21:00 | Sa-So: Bei Anruf**Telefon:** [[tel:+38551 334 530 | +38551 334 530]], [[tel:+38591 143 5163 | +38591 143 5163]], [[tel:+38591 723 4573 | +38591 723 4573]]**E-Mail:** [[mailto:mis.kancelarija@zzjzpgz.hr | mis.kancelarija@zzjzpgz.hr]], [[mailto:ravnatelj@zzjzpgz.hr | ravnatelj@zzjzpgz.hr]]**Web:** [[http://www.zzjzpgz.hr/|zzjzpgz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** 7:00-15:00**Überweisungsschein notwendig:** Nein**Preis:** 698,21 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Ja**Wartezeit bis zum Ergebnis:** 24h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4642362,
+          44.5332888
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Mali Lošinj",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=44.5332888%2C14.4642362#map=17/44.5332888/14.4642362|Ul. Dominika Skopinića 4, 51550 Mali Lošinj]] **Öffnungszeiten:** Mo-Fr: 7:00-11:00**Telefon:** [[tel:+38551 233 574 | +38551 233 574]]**E-Mail:** [[mailto:senka.stojanovic@zzjzpgz.hr | senka.stojanovic@zzjzpgz.hr]]**Web:** [[https://domzdravlja-pgz.hr/|domzdravlja-pgz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 698,21 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Keine Information**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4110598,
+          44.9635266
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Cres",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=44.9635266%2C14.4110598#map=17/44.9635266/14.4110598|Turion ul. 26, 51557 Cres]] **Öffnungszeiten:** Mo-Fr: 7:00-11:00**Telefon:** [[tel:+38551 572 218 | +38551 572 218]]**E-Mail:** [[mailto:epid.cres@zzjzpgz.hr | epid.cres@zzjzpgz.hr]]**Web:** [[https://domzdravlja-pgz.hr/|domzdravlja-pgz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 698,21 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Keine Information**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7577371,
+          44.7638678
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Rab",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=44.7638678%2C14.7577371#map=17/44.7638678/14.7577371|Palit 143a, 51280 Palit]] **Öffnungszeiten:** Mo-Fr: 7:00-11:00**Telefon:** [[tel:+38551 776 924 | +38551 776 924]]**E-Mail:** [[mailto:epidemiologija.rab@zzjzpgz.hr | epidemiologija.rab@zzjzpgz.hr]]**Web:** [[http://www.rab-visit.com/hr/novosti/pcr-testiranje-na-covid-19/5690|rab-visit.com]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 698,21 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Keine Information**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5720818,
+          45.0291726
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Krk",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.0291726%2C14.5720818#map=17/45.0291726/14.5720818|Vinogradska ul. 2, 51500 Krk]] **Öffnungszeiten:** Mo-Fr: 7:00-11:00**Telefon:** [[tel:+38551 221 955 | +38551 221 955]]**E-Mail:** [[mailto:epidemiologija.krk@zzjzpgz.hr | epidemiologija.krk@zzjzpgz.hr]]**Web:** [[https://domzdravlja-pgz.hr/|domzdravlja-pgz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 698,21 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Keine Information**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4579596,
+          43.5037592
+        ]
+      },
+      "properties": {
+        "name": "KBC Split",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.5037592%2C16.4579596#map=17/43.5037592/16.4579596|Spinčićeva ul. 1, 21 000 Split]] **Öffnungszeiten:** /**Telefon:** [[tel:+38521 556 111 | +38521 556 111]]**E-Mail:** Keine Information**Web:** [[https://www.kbsplit.hr/|kbsplit.hr]]\n**Anmeldung:** Keine Anmeldemöglichkeit**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 698 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** 12h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4497887,
+          43.5111162
+        ]
+      },
+      "properties": {
+        "name": "NZJZ Splitsko-dalmatinske županije",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.5111162%2C16.4497887#map=17/43.5111162/16.4497887|Vukovarska ul. 46, 21 000 Split]] **Öffnungszeiten:** Mo-So: 7:30-15:30**Telefon:** Keine Information**E-Mail:** [[mailto:travel.covid@nzjz-split.hr | travel.covid@nzjz-split.hr]], [[mailto:tajnica@nzjz-split.hr | tajnica@nzjz-split.hr]], [[mailto:protokol@nzjz-split.hr | protokol@nzjz-split.hr]], [[mailto:edita.olujic@nzjz-split.hr | edita.olujic@nzjz-split.hr]]**Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/434-test-na-sars-cov-2-bez-uputnice|nzjz-split.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 698 HRK und 501 HRK**Zahlungsmittel:** [[https://www.nzjz-split.hr/index.php/2-uncategoderised/415-testiranje-na-sars-cov-2-bez-uputnice | Banküberweisung]], kartice i bar**Drive-in::** Ja**Wartezeit bis zum Ergebnis:** 24-48h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8992335,
+          43.7338375
+        ]
+      },
+      "properties": {
+        "name": "ZJZ Šibensko-kninske županije",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.7338375%2C15.8992335#map=17/43.7338375/15.8992335|Ul. Matije Gupca 74, 22 000 Šibenik]] **Öffnungszeiten:** Mo, Di und Fr: 10:00-11:00**Telefon:** [[tel:+38522 341 232 | +38522 341 232]], [[tel:+38522 341 201 | +38522 341 201]]**E-Mail:** [[mailto:zzjz-sibenik@hi.htnet.hr | zzjz-sibenik@hi.htnet.hr]]**Web:** [[http://www.zzjz-sibenik.hr/testiranje-osoba-kojima-je-potrebna-potvrda-o-testiranju-na-sars-cov-2/|zzjz-sibenik.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** 7:00-21:00**Überweisungsschein notwendig:** Nein**Preis:** 850 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** 24-48h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8992438,
+          43.7319957
+        ]
+      },
+      "properties": {
+        "name": "Opća bolnica Šibenik",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.7319957%2C15.8992438#map=17/43.7319957/15.8992438|Stjepana Radića 83, 22 000 Šibenik]] **Öffnungszeiten:** /**Telefon:** Keine Information**E-Mail:** Keine Information**Web:** [[https://www.bolnica-sibenik.hr/|bolnica-sibenik.hr]]\n**Anmeldung:** Keine Anmeldemöglichkeit**Anmeldezeit:** /**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2194348,
+          44.0577614
+        ]
+      },
+      "properties": {
+        "name": "Opća i veteranska bolnica \"Hrvatski ponos\"",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=44.0577614%2C16.2194348#map=17/44.0577614/16.2194348|Kralja Svetoslava Suronje 12, 22 300 Knin]] **Öffnungszeiten:** /**Telefon:** Keine Information**E-Mail:** Keine Information**Web:** [[https://www.obhpknin.hr/|obhpknin.hr]]\n**Anmeldung:** Keine Anmeldemöglichkeit**Anmeldezeit:** /**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3288752,
+          46.3032446
+        ]
+      },
+      "properties": {
+        "name": "ZJZ Varaždinske županije",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=46.3032446%2C16.3288752#map=17/46.3032446/16.3288752|Ul. Ivana Meštrovića 1/11, 42 000 Varaždin]] **Öffnungszeiten:** /**Telefon:** [[tel:+38542 653 130 | +38542 653 130]], [[tel:+38542 653 165 | +38542 653 165]]**E-Mail:** [[mailto:epidemiologija@zzjzzv.hr | epidemiologija@zzjzzv.hr]], [[mailto:mikrobiologija-prijem@zzjzzv.hr | mikrobiologija-prijem@zzjzzv.hr]]**Web:** [[https://www.zzjzzv.hr/?gid=2&aid=411|zzjzzv.hr]]\n**Anmeldung:** Notwendig**Anmeldezeit:** 7:00-14:00**Überweisungsschein notwendig:** Nein**Preis:** 698 HRK**Zahlungsmittel:** bar**Drive-in::** Ja**Wartezeit bis zum Ergebnis:** 24h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2354049,
+          44.1092288
+        ]
+      },
+      "properties": {
+        "name": "ZJZ Zadar",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=44.1092288%2C15.2354049#map=17/44.1092288/15.2354049|Ul. Ljudevita Posavskog 7, 23 000 Zadar]] **Öffnungszeiten:** Mo-Fr: 11:00-12:00**Telefon:** [[tel:+38523 643 380 | +38523 643 380]], [[tel:+38523 300 847 | +38523 300 847]]**E-Mail:** [[mailto:narudzbenice-covid19@zjz-zadar.hr | narudzbenice-covid19@zjz-zadar.hr]]**Web:** [[https://www.zjz-zadar.hr/hr/home/dogadjanja/obavijesti/869|zjz-zadar.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 698 HRK und 501 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** 24h\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9394108,
+          46.0177195
+        ]
+      },
+      "properties": {
+        "name": "Opća bolnica Zabok i bolnica hrvatskih veterana",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=46.0177195%2C15.9394108#map=17/46.0177195/15.9394108|Bračak 8, 49210, Bračak]] **Öffnungszeiten:** Mo-Fr: 7:00-10:00**Telefon:** [[tel:+38549 204 000 | +38549 204 000]]**E-Mail:** [[mailto:narucivanje@bolnica-zabok.hr | narucivanje@bolnica-zabok.hr]]**Web:** [[https://www.bolnica-zabok.hr/|bolnica-zabok.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Ja**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8505596,
+          45.9007159
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Bjelovarsko-bilogorske županije Covid ambulanta Bjelovar",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.9007159%2C16.8505596#map=17/45.9007159/16.8505596|Ul. Josipa Jelačića 13c, 43000 Bjelovar]] **Öffnungszeiten:** Mo, Di und Fr: 7:30-9:30**Telefon:** [[tel:+38599 313 1113 | +38599 313 1113]]**E-Mail:** Keine Information**Web:** [[http://www.dzbbz.hr/|dzbbz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** Mo-Fr: 10:00-15:00 | Sa-So: 7:30-9:30**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Keine Information**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2184559,
+          45.5905723
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Bjelovarsko-bilogorske županije Covid ambulanta Daruvar",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.5905723%2C17.2184559#map=17/45.5905723/17.2184559|Ul. Petra Preradovića, 743500 Daruvar]] **Öffnungszeiten:** Di und Do: 7:30-9:30**Telefon:** [[tel:+38599 313 1112 | +38599 313 1112]]**E-Mail:** Keine Information**Web:** [[http://www.dzbbz.hr/|dzbbz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** Mo-Fr: 10:00-15:00 | Sa-So: 7:30-9:30**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Keine Information**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5400435,
+          45.4770768
+        ]
+      },
+      "properties": {
+        "name": "Opća bolnica Karlovac",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.4770768%2C15.5400435#map=17/45.4770768/15.5400435|Ul. Andrije Štampara 3, 47000 Karlovac]] **Öffnungszeiten:** Mo-So: von 7:30**Telefon:** [[tel:+38591 2571 182 | +38591 2571 182]]**E-Mail:** Keine Information**Web:** [[https://www.bolnica-karlovac.hr/|bolnica-karlovac.hr]]\n**Anmeldung:** Notwendig**Anmeldezeit:** 10:00-15:00**Überweisungsschein notwendig:** Keine Information**Preis:** Keine Information**Zahlungsmittel:** Keine Information**Drive-in::** Ja**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0080175,
+          45.1629046
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Slavonski Brod, Izdvojena ambulanta",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.1629046%2C18.0080175#map=17/45.1629046/18.0080175|Trg Hrvatskog Proljeća 3, 35000, Slavonski Brod]] **Öffnungszeiten:** Mo-So: 11:00-12:00**Telefon:** [[tel:+38535 411 004 | +38535 411 004]]**E-Mail:** Keine Information**Web:** [[http://www.dzsb.hr/dzsb3/index.php|dzsb.hr]]\n**Anmeldung:** Notwendig**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 501 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Keine Information**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9622684,
+          45.3755885
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Vukovar",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.3755885%2C18.9622684#map=17/45.3755885/18.9622684|Ul. Blage Zadre 332000, Vukovar]] **Öffnungszeiten:** Mo-Sa: 8:00-12:00**Telefon:** [[tel:+38532 618 956 | +38532 618 956]]**E-Mail:** [[mailto:dztrijaza@gmail.com | dztrijaza@gmail.com]]**Web:** [[https://www.dzvukovar.hr/|dzvukovar.hr]]\n**Anmeldung:** Notwendig**Anmeldezeit:** Mo-Sa: 7:00-7:30 und 13:00-15:00**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Keine Information**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 23.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3029839,
+          45.3341336
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Opatija",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.3341336%2C14.3029839#map=17/45.3341336/14.3029839|Stubište dr. Vande Ekl 1, 51 410 Opatija]] **Öffnungszeiten:** Mo-Fr: 8:00-11:00**Telefon:** [[tel:+38551 718 067 | +38551 718 067]]**E-Mail:** [[mailto:epidemiologija.opatija@zzjzpgz.hr | epidemiologija.opatija@zzjzpgz.hr]]**Web:** [[https://domzdravlja-pgz.hr/|domzdravlja-pgz.hr]]\n**Anmeldung:** Möglich**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 698,21 HRK**Zahlungsmittel:** bar**Drive-in::** Keine Information**Wartezeit bis zum Ergebnis:** 24-72h\n**Datum der Verifikation:** 24.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.69451,
+          45.17584
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Crikvenica",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.17584%2C14.69451#map=17/45.17584/14.69451|Kotorska ul. bb, 51260, Crikvenica]] **Öffnungszeiten:** Mo-Fr: 8:00-12:00**Telefon:** [[tel:+38551 241 055 | +38551 241 055]]**E-Mail:** Keine Information**Web:** [[https://domzdravlja-pgz.hr/|domzdravlja-pgz.hr]]\n**Anmeldung:** Notwendig**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 698,21 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 24.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0224,
+          43.29227
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Makarska",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.29227%2C17.0224#map=17/43.29227/17.0224|Ulica Stjepana Ivičevića 2, 21300 Makarska]] **Öffnungszeiten:** Mo-So 6:30-7:30**Telefon:** [[tel:+38521 616 061 | +38521 616 061]], [[tel:+38591 192 7106 | +38591 192 7106]]**E-Mail:** Keine Information**Web:** [[https://dz-sdz.hr/korona-virus/|dz-sdz.hr]]\n**Anmeldung:** Keine Information**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 698HRK oder 798HRK für dringende Ergebnisse**Zahlungsmittel:** [[https://makarska-info.hr/hr/novosti/sars-cov-2-testiranje-u-makarskoj | Banküberweisung]]**Drive-in::** Ja**Wartezeit bis zum Ergebnis:** 24h\n**Datum der Verifikation:** 24.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.477465,
+          43.5094344
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Mertojak",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.5094344%2C16.477465#map=17/43.5094344/16.477465|Doverska Ul. 2, 21000 Split]] **Öffnungszeiten:** Fr-So: 7:00-15:00**Telefon:** [[tel:+38521 669 264 | +38521 669 264]]**E-Mail:** Keine Information**Web:** [[https://dz-sdz.hr/korona-virus/|dz-sdz.hr]]\n**Anmeldung:** Keine Information**Anmeldezeit:** /**Überweisungsschein notwendig:** Keine Information**Preis:** Keine Information**Zahlungsmittel:** Keine Information**Drive-in::** Ja**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 24.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.90061,
+          43.7332
+        ]
+      },
+      "properties": {
+        "name": "Punkt za testiranje turista Šibenik",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.7332%2C15.90061#map=17/43.7332/15.90061|Ul. Matije Gupca bb, 22000 Šibenik (ispred prijema hitne pomoći)]] **Öffnungszeiten:** Nach Vereinbarung**Telefon:** [[tel:+385 9873 7404 | +385 9873 7404]]**E-Mail:** [[mailto:ivana.lusic@dalmatiasibenik.hr | ivana.lusic@dalmatiasibenik.hr]]**Web:** Keine Information\n**Anmeldung:** Notwendig**Anmeldezeit:** /**Überweisungsschein notwendig:** Nein**Preis:** 850 HRK**Zahlungsmittel:** Keine Information**Drive-in::** Keine Information**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 25.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.46972,
+          43.50599
+        ]
+      },
+      "properties": {
+        "name": "NZJZ Split - COVID punkt Križine",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.50599%2C16.46972#map=17/43.50599/16.46972|Šoltanska 1, 21000, Križine]] **Öffnungszeiten:** Nach Vereinbarung**Telefon:** [[tel:+38599 819 58 63 | +38599 819 58 63]]**E-Mail:** [[mailto:narucivanje.mikrobiologija@nzjz-split.hr | narucivanje.mikrobiologija@nzjz-split.hr]]**Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/435-test-na-sars-cov-2-bez-uputnice-2 | nzjz-split.hr]]\n**Anmeldung:** Notwendig**Anmeldezeit:** /**Überweisungsschein notwendig:** Ja**Preis:** /**Zahlungsmittel:** /**Drive-in::** Nein**Wartezeit bis zum Ergebnis:** Keine Information\n**Datum der Verifikation:** 31.8.2020.**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    }
+  ]
+}
