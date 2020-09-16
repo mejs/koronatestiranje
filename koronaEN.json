@@ -720,6 +720,21 @@
         "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.50599%2C16.46972#map=17/43.50599/16.46972|Šoltanska 1, 21000, Križine]] \\n **Radno vrijeme:** Prema dogovoru\\n **Telefon:** [[tel:+38599 819 58 63 | +38599 819 58 63]]\\n **Email:** [[mailto:narucivanje.mikrobiologija@nzjz-split.hr | narucivanje.mikrobiologija@nzjz-split.hr]]\\n **Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/435-test-na-sars-cov-2-bez-uputnice-2 | nzjz-split.hr]]\\n\\n**Narudžba:** Obavezna\\n **Vrijeme naručivanja:** /\\n **Potrebna uputnica:** Da\\n **Cijena:** /\\n **Način plaćanja:** /\\n **Drive in:** Ne\\n **Vrijeme čekanja nalaza:** Nemamo informaciju\\n\\n **Datum verifikacije:** 31.8.2020.\\n **Na koronavirus.hr službenoj listi:** Ne",
         "_umap_options": "{\"color\":\"#FF8300\",\"iconClass\":\"Drop\",\"iconUrl\":\"/uploads/pictogram/hospital-24-white.png\\}"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0681892,
+          45.7125502
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Zagrebačke županije, Ispostava Velika Gorica",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.7125502%2C16.0681892#map=17/45.7125502/16.0681892|Ul. Matice hrvatske 5, 10410 Velika Gorica]] \\n **Radno vrijeme:** Pon-Pet: 8:00-20:00\\n **Telefon:** [[tel:+3851 6379 717 | +3851 6379 717]]\\n **Email:** Nemamo informaciju\\n **Web:** [[http://www.domzdravlja-zgz.hr/ispostave/velika-gorica/ | domzdravlja-zgz.hr]]\\n\\n**Narudžba:** Obavezna\\n **Vrijeme naručivanja:** /\\n **Potrebna uputnica:** Da\\n **Cijena:** /\\n **Način plaćanja:** /\\n **Drive in:** Da\\n **Vrijeme čekanja nalaza:** 24-48h\\n\\n **Datum verifikacije:** 16.9.2020.\\n **Na koronavirus.hr službenoj listi:** Da",
+        "_umap_options": "{\"color\":\"#FF8300\",\"iconClass\":\"Drop\",\"iconUrl\":\"/uploads/pictogram/hospital-24-white.png\\}"
+      }
     }
   ]
 }
