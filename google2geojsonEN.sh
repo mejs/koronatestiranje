@@ -35,11 +35,11 @@ output="$output ]}"
 
 # Create output file with prettified data
 echo $output | jq '.' > $destFolder"koronaEN.json"
-sed -i "s/\\\\\\\/\\\/g" korona-EN.json
-sed -i 's/"{\\"color/\{"color/g' korona-EN.json
-sed -i 's/\\"\\}/\"}/g' korona-EN.json
-sed -i 's/"{"c/\{"c/g' korona-EN.json
-sed -i 's/or\\":\\"/\lor":"/g' korona-EN.json
-sed -i 's/\\",\\"/\","/g' korona-EN.json
-sed -i 's/Class\\":\\"Drop","iconUrl\\":\\/\Class":"Drop","iconUrl":/g' korona-EN.json
-sed -i 's/png\\}"/\png"}/g' korona-EN.json
+sed -i "s/\\\\\\\/\\\/g" koronaEN.json
+sed -i 's/"{\\"color/\{"color/g' koronaEN.json
+sed -i 's/\\"\\}/\"}/g' koronaEN.json
+sed -i 's/"{"c/\{"c/g' koronaEN.json
+sed -i 's/or\\":\\"/\lor":"/g' koronaEN.json
+sed -i 's/\\",\\"/\","/g' koronaEN.json
+sed -i 's/Class\\":\\"Drop","iconUrl\\":\\/\Class":"Drop","iconUrl":/g' koronaEN.json
+sed -i 's/png\\}"/\png"}/g' koronaEN.json
