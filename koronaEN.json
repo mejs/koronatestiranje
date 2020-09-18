@@ -750,6 +750,21 @@
         "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.16578%2C16.691364#map=17/43.16578/16.691364|Mala Banda b.b., D116, 21465, Jelsa]] \n **Radno vrijeme:** Prema dogovoru\n **Telefon:** [[tel:+385021 765 122 | +385021 765 122]]. [[tel:+38599 471 148 | +38599 471 148 ]], [[tel: +38521 583 537 | +38521 583 537]]. [[+38521 583 533 | +38521 583 533]], [[tel:+38521 583 538 | +38521 583 538]] \n **Email:** Nemamo informaciju\n **Web:** [[https://jelsa.hr/web/index.php/2-uncategorised/27-vazni-telefonski-brojevi | jelsa.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** Nemamo informaciju\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Ne\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 18.9.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.794402,
+          45.8671521
+        ]
+      },
+      "properties": {
+        "name": "ZJZ Zagrebačke županije, Zaprešić",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.8671521%2C15.794402#map=17/45.8671521/15.794402|Mokrička ul. 54, 10290 Zaprešić]] \n **Radno vrijeme:** Pon-Pet: 7:30-9:30\n **Telefon:** [[tel: +38512883 137 | +38512883 137]], [[tel: +38513323 253 | +38513323 253]]\n **Email:** Nemamo informaciju\n **Web:** [[https://www.zzjz-zz.hr/covid-19/ | zzjz-zz.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** 7:00-15:00\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** 24h\n\n **Datum verifikacije:** 18.9.2020.\n **Na koronavirus.hr službenoj listi:** Da",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
     }
   ]
 }

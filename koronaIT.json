@@ -750,6 +750,21 @@
         "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=43.16578%2C16.691364#map=17/43.16578/16.691364|Mala Banda b.b., D116, 21465, Jelsa]] \n**Orario di apertura:** su appuntamento\n**Telefono:** [[tel:+385021 765 122 | +385021 765 122]]. [[tel:+38599 471 148 | +38599 471 148 ]], [[tel: +38521 583 537 | +38521 583 537]]. [[+38521 583 533 | +38521 583 533]], [[tel:+38521 583 538 | +38521 583 538]] \n**Email:** Nessuna informazione\n**Web:** [[https://jelsa.hr/web/index.php/2-uncategorised/27-vazni-telefonski-brojevi | jelsa.hr]]\n\n**Prenotazioni:** Obbligatorio\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** No\n**Prezzo:** Nessuna informazione\n**Metodi di pagamento:** Nessuna infomazione\n**Drive-in:** No\n**Tempo di attesa dell'esito del test:** Nessuna informazione\n\n**Data verificata:** 18.9.2020.\n**Sulla pagina ufficiale koronavirus.hr:** No",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.794402,
+          45.8671521
+        ]
+      },
+      "properties": {
+        "name": "ZJZ Zagrebačke županije, Zaprešić",
+        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=45.8671521%2C15.794402#map=17/45.8671521/15.794402|Mokrička ul. 54, 10290 Zaprešić]] \n**Orario di apertura:** Lun-Ven: 7:30-9:30\n**Telefono:** [[tel: +38512883 137 | +38512883 137]], [[tel: +38513323 253 | +38513323 253]]\n**Email:** Nessuna informazione\n**Web:** [[https://www.zzjz-zz.hr/covid-19/ | zzjz-zz.hr]]\n\n**Prenotazioni:** Obbligatorio\n**Orari di prenotazione:** 7:00-15:00\n**Richiesta del medico curante necessaria:** Sì\n**Prezzo:** /\n**Metodi di pagamento:** /\n**Drive-in:** Sì\n**Tempo di attesa dell'esito del test:** 24h\n\n**Data verificata:** 18.9.2020.\n**Sulla pagina ufficiale koronavirus.hr:** Sì",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
     }
   ]
 }
