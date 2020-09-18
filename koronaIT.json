@@ -735,6 +735,21 @@
         "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=45.7125502%2C16.0681892#map=17/45.7125502/16.0681892|Ul. Matice hrvatske 5, 10410 Velika Gorica]] \n**Orario di apertura:** Lun-Ven: 8:00-20:00\n**Telefono:** [[tel:+3851 6379 717 | +3851 6379 717]]\n**Email:** Nessuna informazione\n**Web:** [[http://www.domzdravlja-zgz.hr/ispostave/velika-gorica/ | domzdravlja-zgz.hr]]\n\n**Prenotazioni:** Obbligatorio\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** Sì\n**Prezzo:** /\n**Metodi di pagamento:** /\n**Drive-in:** Sì\n**Tempo di attesa dell'esito del test:** 24-48h\n\n**Data verificata:** 16.9.2020.\n**Sulla pagina ufficiale koronavirus.hr:** Sì",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.691364,
+          43.16578
+        ]
+      },
+      "properties": {
+        "name": "Ambulanta Jelsa, NU Dom zdravlja Hvar",
+        "description": "",
+        "_umap_options": ""
+      }
     }
   ]
 }
