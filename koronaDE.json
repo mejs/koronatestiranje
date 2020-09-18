@@ -327,7 +327,7 @@
       },
       "properties": {
         "name": "ZJZ Osječko-baranjske županije",
-        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.5582815%2C18.6876452#map=17/45.5582815/18.6876452|Ul. Franje Krežme 1, 31 000 Osijek]] \n**Öffnungszeiten:** /\n**Telefon:** [[tel:+38531 225 761 | +38531 225 761, [[tel:+38531 225 771 | +38531 225 771]]\n**E-Mail:** Keine Information\n**Web:** [[http://www.zzjzosijek.hr/|zzjzosijek.hr]]\n\n**Anmeldung:** Möglich\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Nein\n**Preis:** 700 HRK, für dringende Ergebnisse 1000 HRK\n**Zahlungsmittel:** Keine Information\n**Drive-in:** Nein\n**Wartezeit bis zum Ergebnis:** 24h\n\n**Datum der Verifikation:** 23.8.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.5582815%2C18.6876452#map=17/45.5582815/18.6876452|Ul. Franje Krežme 1, 31 000 Osijek]] \n**Öffnungszeiten:** /\n**Telefon:** [[tel:+38531 225 761 | +38531 225 761]], [[tel:+38531 225 771 | +38531 225 771]]\n**E-Mail:** Keine Information\n**Web:** [[http://www.zzjzosijek.hr/|zzjzosijek.hr]]\n\n**Anmeldung:** Möglich\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Nein\n**Preis:** 700 HRK, für dringende Ergebnisse 1000 HRK\n**Zahlungsmittel:** Keine Information\n**Drive-in:** Nein\n**Wartezeit bis zum Ergebnis:** 24h\n\n**Datum der Verifikation:** 23.8.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Ja",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -672,7 +672,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Makarska",
-        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.29227%2C17.0224#map=17/43.29227/17.0224|Ulica Stjepana Ivičevića 2, 21300 Makarska]] \n**Öffnungszeiten:** Mo-So 6:30-7:30\n**Telefon:** [[tel:+38521 616 061 | +38521 616 061]], [[tel:+38591 192 7106 | +38591 192 7106]]\n**E-Mail:** Keine Information\n**Web:** [[https://dz-sdz.hr/korona-virus/|dz-sdz.hr]]\n\n**Anmeldung:** Keine Information\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Nein\n**Preis:** 698HRK oder 798HRK für dringende Ergebnisse\n**Zahlungsmittel:** [[https://makarska-info.hr/hr/novosti/sars-cov-2-testiranje-u-makarskoj | Banküberweisung]]\n**Drive-in:** Ja\n**Wartezeit bis zum Ergebnis:** 24h\n\n**Datum der Verifikation:** 24.8.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.29227%2C17.0224#map=17/43.29227/17.0224|Ulica Stjepana Ivičevića 2, 21300 Makarska]] \n**Öffnungszeiten:** Mo-So 6:30-7:30\n**Telefon:** [[tel:+38521 616 061 | +38521 616 061]], [[tel:+38591 192 7106 | +38591 192 7106]]\n**E-Mail:** Keine Information\n**Web:** [[https://dz-sdz.hr/korona-virus/|dz-sdz.hr]]\n\n**Anmeldung:** Keine Information\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Nein\n**Preis:** 698 HRK oder 798HRK für dringende Ergebnisse\n**Zahlungsmittel:** [[https://makarska-info.hr/hr/novosti/sars-cov-2-testiranje-u-makarskoj | Banküberweisung]]\n**Drive-in:** Ja\n**Wartezeit bis zum Ergebnis:** 24h\n\n**Datum der Verifikation:** 24.8.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -732,8 +732,23 @@
       },
       "properties": {
         "name": "Dom zdravlja Zagrebačke županije, Ispostava Velika Gorica",
-        "description": "**Adresse:** \n**Öffnungszeiten:** Mo-Fr: 8:00-20:00\n**Telefon:** [[tel:+3851 6379 717 | +3851 6379 717]]\n**E-Mail:** Keine Information\n**Web:** [[http://www.domzdravlja-zgz.hr/ispostave/velika-gorica/ | domzdravlja-zgz.hr]]\n\n**Anmeldung:** Notwendig\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Ja\n**Preis:** /\n**Zahlungsmittel:** /\n**Drive-in:** Ja\n**Wartezeit bis zum Ergebnis:** 24-48h\n\n**Datum der Verifikation:** 16.9.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.7125502%2C16.0681892#map=17/45.7125502/16.0681892|Ul. Matice hrvatske 5, 10410 Velika Gorica]] \n**Öffnungszeiten:** Mo-Fr: 8:00-20:00\n**Telefon:** [[tel:+3851 6379 717 | +3851 6379 717]]\n**E-Mail:** Keine Information\n**Web:** [[http://www.domzdravlja-zgz.hr/ispostave/velika-gorica/ | domzdravlja-zgz.hr]]\n\n**Anmeldung:** Notwendig\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Ja\n**Preis:** /\n**Zahlungsmittel:** /\n**Drive-in:** Ja\n**Wartezeit bis zum Ergebnis:** 24-48h\n\n**Datum der Verifikation:** 16.9.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Ja",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.691364,
+          43.16578
+        ]
+      },
+      "properties": {
+        "name": "Ambulanta Jelsa, NU Dom zdravlja Hvar",
+        "description": "",
+        "_umap_options": ""
       }
     }
   ]
