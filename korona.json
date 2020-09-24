@@ -57,7 +57,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Zagreb - Centar",
-        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.7730141%2C15.979433#map=17/45.7730141/15.979433|Avenija Većeslava Holjevca 22, 10 000 Zagreb]] \n **Radno vrijeme:** Pon-Pet 8:00-20:00\n **Telefon:** [[tel:+3851 659 84 64 | +3851 659 84 64]]\n **Email:** Nemamo informaciju\n **Web:** [[https://dzz-centar.hr/info-covid-19/|dzz-centar.hr]]\n\n**Narudžba:** Moguća\n **Vrijeme naručivanja:** 8:00-20:00\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** Obrada nalaza se vrši na NZJZ \"Dr. Andrija Štampar\"\n\n **Datum verifikacije:** 23.8.2020.\n **Na koronavirus.hr službenoj listi:** Da",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.7730141%2C15.979433#map=17/45.7730141/15.979433|Avenija Većeslava Holjevca 22, 10 000 Zagreb]] \n **Radno vrijeme:** Pon-Sub 8:30-12:30\n **Telefon:** [[tel:+3851 659 84 64 | +3851 659 84 64]]\n **Email:** Nemamo informaciju\n **Web:** [[https://dzz-centar.hr/info-covid-19/|dzz-centar.hr]]\n\n**Narudžba:** Moguća\n **Vrijeme naručivanja:** 8:00-20:00\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** Obrada nalaza se vrši na NZJZ \"Dr. Andrija Štampar\"\n\n **Datum verifikacije:** 23.8.2020.\n **Na koronavirus.hr službenoj listi:** Da",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -342,7 +342,7 @@
       },
       "properties": {
         "name": "KBC Osijek",
-        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.5576607%2C18.7149377#map=17/45.5576607/18.7149377|Ul. Josipa Huttlera 4, 31 000 Osijek]] \n **Radno vrijeme:** Pon-Ned: 7:30-10:30\n **Telefon:** [[tel:+38531 225 761 | +38531 225 761]], [[tel:+38531 225 771 | +38531 225 771]]\n **Email:** [[mailto:covid19@kbco.hr | covid19@kbco.hr]]\n **Web:** [[http://www.kbco.hr/covid-19/|kbco.hr]]\n\n**Narudžba:** Moguća\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 698 kn i 501 kn\n **Način plaćanja:** [[http://www.kbco.hr/covid-19/ | m-banking (uplatnica)]], gotovina ili kartica\n **Drive in:** Ne\n **Vrijeme čekanja nalaza:** 24h\n\n **Datum verifikacije:** 23.8.2020.\n **Na koronavirus.hr službenoj listi:** Da",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.5576607%2C18.7149377#map=17/45.5576607/18.7149377|Ul. Josipa Huttlera 4, 31 000 Osijek]] \n **Radno vrijeme:** Pon-Sub: 7:30-10:30\n **Telefon:** [[tel:+38531 225 761 | +38531 225 761]], [[tel:+38531 225 771 | +38531 225 771]]\n **Email:** [[mailto:covid19@kbco.hr | covid19@kbco.hr]]\n **Web:** [[http://www.kbco.hr/covid-19/|kbco.hr]]\n\n**Narudžba:** Moguća\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 698 kn i 501 kn\n **Način plaćanja:** [[http://www.kbco.hr/covid-19/ | m-banking (uplatnica)]], gotovina ili kartica\n **Drive in:** Ne\n **Vrijeme čekanja nalaza:** 24h\n\n **Datum verifikacije:** 23.8.2020.\n **Na koronavirus.hr službenoj listi:** Da",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
