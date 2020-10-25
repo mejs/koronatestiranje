@@ -12,7 +12,7 @@
       },
       "properties": {
         "name": "Hrvatski zavod za javno zdravstvo (HZJZ)",
-        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.8290593%2C15.9814254#map=17/45.8290593/15.9814254|Rockefellerova 2, 10 000 Zagreb]] \n **Radno vrijeme:** Pon-Pet: 7:30-9:30 | Sub: 8:00-10:00\n **Telefon:** [[tel:+38599 46 83 338 | +38599 46 83 338]]\n **Email:** [[mailto:covid@hzjz.hr | covid@hzjz.hr]]\n **Web:** [[https://www.hzjz.hr/sluzba-mikrobiologija/ambulanta-za-uzimanje-i-zaprimanje-uzoraka/testiranje-na-sars-cov-2/|hzjz.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** 10:00-14:00\n **Potrebna uputnica:** Ne\n **Cijena:** 698 kn\n **Način plaćanja:** [[https://www.hzjz.hr/sluzba-mikrobiologija/ambulanta-za-uzimanje-i-zaprimanje-uzoraka/testiranje-na-sars-cov-2/ | m-banking (uplatnica)]], debitna kartica\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** 24h\n\n **Datum verifikacije:** 23.8.2020.\n **Na koronavirus.hr službenoj listi:** Da",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.8290593%2C15.9814254#map=17/45.8290593/15.9814254|Rockefellerova 2, 10 000 Zagreb]] \n **Radno vrijeme:** Pon-Pet: 7:30-9:30 | Sub: 8:00-10:00\n **Telefon:** [[tel:+38599 46 83 338 | +38599 46 83 338]]\n **Email:** [[mailto:covid@hzjz.hr | covid@hzjz.hr]]\n **Web:** [[https://www.hzjz.hr/sluzba-mikrobiologija/ambulanta-za-uzimanje-i-zaprimanje-uzoraka/testiranje-na-sars-cov-2/|hzjz.hr]]\n\n**Narudžba:** Obavezna, [[http://covid.hzjz.hr/termin/testiranje-na-korona-virus|web formular]]\n **Vrijeme naručivanja:** 10:00-14:00\n **Potrebna uputnica:** Ne\n **Cijena:** 698 kn\n **Način plaćanja:** [[https://www.hzjz.hr/sluzba-mikrobiologija/ambulanta-za-uzimanje-i-zaprimanje-uzoraka/testiranje-na-sars-cov-2/ | m-banking (uplatnica)]], debitna kartica\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** 24h\n\n **Datum verifikacije:** 23.8.2020.\n **Na koronavirus.hr službenoj listi:** Da",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -27,7 +27,7 @@
       },
       "properties": {
         "name": "NZJZ \"Dr. Andrija Štampar\"",
-        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.8314145%2C15.9805461#map=17/45.8314145/15.9805461|Mirogojska cesta 16, 10 000 Zagreb]] \n **Radno vrijeme:** Pon-Pet: 8:00-16:00 | Sub-Ned: 8:00-14:00\n **Telefon:** [[tel:+3851 4696 190 | +3851 4696 190]], [[tel:+38591 4696 444 | +38591 4696 444]]\n **Email:** [[mailto:epidemiologija@stampar.hr | epidemiologija@stampar.hr]]\n **Web:** [[http://www.stampar.hr/hr/pcr-testiranje-na-sars-cov-2-na-vlastiti-zahtjev|stampar.hr]]\n\n**Narudžba:** Za pojedince nije potrebno naručivanje\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 698 kn\n **Način plaćanja:** [[http://www.stampar.hr/sites/default/files/Aktualno/Covid-19/uplatnica_covid-19.pdf | m-banking (uplatnica)]], gotovina ili kartica\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** 24-48h\n\n **Datum verifikacije:** 23.8.2020.\n **Na koronavirus.hr službenoj listi:** Da",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.8314145%2C15.9805461#map=17/45.8314145/15.9805461|Mirogojska cesta 16, 10 000 Zagreb]] \n **Radno vrijeme:** Pon-Pet: 10:00-14:00 | Sub: 10:00-14:00 | Ned: 8:00-10:00\n **Telefon:** [[tel:+3851 4696 190 | +3851 4696 190]], [[tel:+38591 4696 444 | +38591 4696 444]]\n **Email:** [[mailto:epidemiologija@stampar.hr | epidemiologija@stampar.hr]]\n **Web:** [[http://www.stampar.hr/hr/nzzjz-dr-andrija-stampar-uvodi-novi-model-uzimanja-uzoraka-briseva-na-koronavirus-za-gradane|stampar.hr]]\n\n**Narudžba:** Obavezna, [[https://prijavnicentar.hr/testiranje/stampar | web formular]]\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 698 kn\n **Način plaćanja:** [[http://www.stampar.hr/sites/default/files/Aktualno/Covid-19/uplatnica_covid-19.pdf | m-banking (uplatnica)]], gotovina ili kartica\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** 24-48h\n\n **Datum verifikacije:** 25.10.2020.\n **Na koronavirus.hr službenoj listi:** Da",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -764,6 +764,21 @@
         "name": "ZJZ Zagrebačke županije, Zaprešić",
         "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.8671521%2C15.794402#map=17/45.8671521/15.794402|Mokrička ul. 54, 10290 Zaprešić]] \n **Radno vrijeme:** Pon-Pet: 7:30-9:30\n **Telefon:** [[tel: +38512883 137 | +38512883 137]], [[tel: +38513323 253 | +38513323 253]]\n **Email:** Nemamo informaciju\n **Web:** [[https://www.zzjz-zz.hr/covid-19/ | zzjz-zz.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** 7:00-15:00\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** 24h\n\n **Datum verifikacije:** 18.9.2020.\n **Na koronavirus.hr službenoj listi:** Da",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.977666,
+          45.7800833
+        ]
+      },
+      "properties": {
+        "name": "Zagrebački velesajam",
+        "description": "",
+        "_umap_options": ""
       }
     }
   ]
