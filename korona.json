@@ -777,8 +777,8 @@
       },
       "properties": {
         "name": "Zagrebački velesajam",
-        "description": "",
-        "_umap_options": ""
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.7800833%2C15.977666#map=17/45.7800833/15.977666|Avenija Dubrovnik 15, 10000 Zagreb]] \n **Radno vrijeme:** Pon-Ned 8:00-11:00\n **Telefon:** Nemamo informaciju\n **Email:** Nemamo informaciju\n **Web:** Nemamo informaciju\n\n**Narudžba:** Nema mogućnosti naručivanja\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** Nemamo informaciju\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** 24-48h\n\n **Datum verifikacije:** 25.10.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }
   ]
