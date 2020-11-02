@@ -672,7 +672,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Makarska",
-        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.29227%2C17.0224#map=17/43.29227/17.0224|Ulica Stjepana Ivičevića 2, 21300 Makarska]] \n**Öffnungszeiten:** Mo-So 6:30-7:30\n**Telefon:** [[tel:+38521 616 061 | +38521 616 061]], [[tel:+38591 192 7106 | +38591 192 7106]]\n**E-Mail:** Keine Information\n**Web:** [[https://dz-sdz.hr/korona-virus/|dz-sdz.hr]]\n\n**Anmeldung:** Keine Information\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Nein\n**Preis:** 698 HRK oder 798HRK für dringende Ergebnisse\n**Zahlungsmittel:** [[https://makarska-info.hr/hr/novosti/sars-cov-2-testiranje-u-makarskoj | Banküberweisung]]\n**Drive-in:** Ja\n**Wartezeit bis zum Ergebnis:** 24h\n\n**Datum der Verifikation:** 24.8.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.29227%2C17.0224#map=17/43.29227/17.0224|Ulica Stjepana Ivičevića 2, 21300 Makarska]] \n**Öffnungszeiten:** Mo-So: 6:30-7:30\n**Telefon:** [[tel:+38521 616 061 | +38521 616 061]], [[tel:+38591 192 7106 | +38591 192 7106]]\n**E-Mail:** Keine Information\n**Web:** [[https://dz-sdz.hr/korona-virus/|dz-sdz.hr]]\n\n**Anmeldung:** Keine Information\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Nein\n**Preis:** 698 HRK oder 798HRK für dringende Ergebnisse\n**Zahlungsmittel:** [[https://makarska-info.hr/hr/novosti/sars-cov-2-testiranje-u-makarskoj | Banküberweisung]]\n**Drive-in:** Ja\n**Wartezeit bis zum Ergebnis:** 24h\n\n**Datum der Verifikation:** 24.8.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -778,6 +778,21 @@
       "properties": {
         "name": "Zagrebački velesajam",
         "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.7800833%2C15.977666#map=17/45.7800833/15.977666|Avenija Dubrovnik 15, 10000 Zagreb]] \n**Öffnungszeiten:** Mo-So: 8:00-11:00\n**Telefon:** Keine Information\n**E-Mail:** Keine Information\n**Web:** Keine Information\n\n**Anmeldung:** Keine Anmeldemöglichkeit\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Nein\n**Preis:** Keine Information\n**Zahlungsmittel:** Keine Information\n**Drive-in:** Ja\n**Wartezeit bis zum Ergebnis:** 24h\n\n**Datum der Verifikation:** 25.10.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.80395,
+          45.39775
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Delnice",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.39775%2C14.80395#map=17/45.39775/14.80395|Ivana Gorana Kovačića, 151300 Delnice]] \n**Öffnungszeiten:** Mo, Do, Fr: 8:00-9:00\n**Telefon:** [[tel:+38551 814 097 | +38551 814 097]]\n**E-Mail:** [[mailto:epidemiologija.delnice@zzjzpgz.hr | epidemiologija.delnice@zzjzpgz.hr]]\n**Web:** [[http://www.zzjzpgz.hr/index.php?show=ispostave&ispostava=delnice| zzjzpgz.hr]]\n\n**Anmeldung:** Möglich\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Nein\n**Preis:** 698,21 HRK\n**Zahlungsmittel:** Keine Information\n**Drive-in:** Keine Information\n**Wartezeit bis zum Ergebnis:** 48h\n\n**Datum der Verifikation:** 2.11.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Ja",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }

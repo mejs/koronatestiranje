@@ -777,7 +777,22 @@
       },
       "properties": {
         "name": "Zagrebački velesajam",
-        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.7800833%2C15.977666#map=17/45.7800833/15.977666|Avenija Dubrovnik 15, 10000 Zagreb]] \n **Radno vrijeme:** Pon-Ned 8:00-11:00\n **Telefon:** Nemamo informaciju\n **Email:** Nemamo informaciju\n **Web:** Nemamo informaciju\n\n**Narudžba:** Nema mogućnosti naručivanja\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** Nemamo informaciju\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** 24h\n\n **Datum verifikacije:** 25.10.2020.\n **Na koronavirus.hr službenoj listi:** Da",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.7800833%2C15.977666#map=17/45.7800833/15.977666|Avenija Dubrovnik 15, 10000 Zagreb]] \n **Radno vrijeme:** Pon-Ned: 8:00-11:00\n **Telefon:** Nemamo informaciju\n **Email:** Nemamo informaciju\n **Web:** Nemamo informaciju\n\n**Narudžba:** Nema mogućnosti naručivanja\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** Nemamo informaciju\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** 24h\n\n **Datum verifikacije:** 25.10.2020.\n **Na koronavirus.hr službenoj listi:** Da",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.80395,
+          45.39775
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Delnice",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.39775%2C14.80395#map=17/45.39775/14.80395|Ivana Gorana Kovačića, 151300 Delnice]] \n **Radno vrijeme:** Pon, Čet, Pet: 8:00-9:00\n **Telefon:** [[tel:+38551 814 097 | +38551 814 097]]\n **Email:** [[mailto:epidemiologija.delnice@zzjzpgz.hr | epidemiologija.delnice@zzjzpgz.hr]]\n **Web:** [[http://www.zzjzpgz.hr/index.php?show=ispostave&ispostava=delnice| zzjzpgz.hr]]\n\n**Narudžba:** Moguća\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 698,21 Kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** 48h\n\n **Datum verifikacije:** 2.11.2020.\n **Na koronavirus.hr službenoj listi:** Da",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }
