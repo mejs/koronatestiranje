@@ -792,8 +792,23 @@
       },
       "properties": {
         "name": "DZ Primorsko-goranske županije, Ispostava Delnice",
-        "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=45.39775%2C14.80395#map=17/45.39775/14.80395|Ivana Gorana Kovačića 1, 151300 Delnice]] \n**Hours open:** Mon, Thu, Fri: 8:00-9:00\n**Phone:** [[tel:+38551 814 097 | +38551 814 097]]\n**Email:** [[mailto:epidemiologija.delnice@zzjzpgz.hr | epidemiologija.delnice@zzjzpgz.hr]]\n**Web:** [[http://www.zzjzpgz.hr/index.php?show=ispostave&ispostava=delnice| zzjzpgz.hr]]\n\n**Booking:** Possible\n**Booking hours:** /\n**Doctor's referral required:** No\n**Price:** 698,21 HRK\n**Payment types:** No information\n**Drive in:** No information\n**Results in:** 48h\n\n**Date verified:** 2.11.2020.\n**On koronavirus.hr official list:** Yes",
+        "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=45.39775%2C14.80395#map=17/45.39775/14.80395|Ivana Gorana Kovačića 1, 151300 Delnice]] \n**Hours open:** Mon, Thu, Fri: 8:00-9:00\n**Phone:** [[tel:+38520 641 613 | +38520 641 613]], [[tel:+38599 5291 888 | +38599 5291 888]]\n**Email:** [[mailto:epidemiologija.delnice@zzjzpgz.hr | epidemiologija.delnice@zzjzpgz.hr]]\n**Web:** [[http://www.zzjzpgz.hr/index.php?show=ispostave&ispostava=delnice| zzjzpgz.hr]]\n\n**Booking:** Possible\n**Booking hours:** /\n**Doctor's referral required:** No\n**Price:** 698,21 HRK\n**Payment types:** No information\n**Drive in:** No information\n**Results in:** 48h\n\n**Date verified:** 2.11.2020.\n**On koronavirus.hr official list:** Yes",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07032,
+          42.66151
+        ]
+      },
+      "properties": {
+        "name": "DZ Dubrovnik, Drive-in lokacija Auto kamp Solitudo",
+        "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=42.66151%2C18.07032#map=17/42.66151/18.07032|Vatroslava Lisinskog 60, 20 000 Dubrovnik]] \n**Hours open:** Mon-Sun: 8:00-9:00\n**Phone:** [[tel:+38551 814 097 | +38551 814 097]]\n**Email:** [[mailto:covid19@dom-zdravlja-dubrovnik.hr|covid19@dom-zdravlja-dubrovnik.hr]]\n**Web:** [[https://www.dom-zdravlja-dubrovnik.hr/hr/sluzbe/covid-19-ordinacija|dom-zdravlja-dubrovnik.hr]]\n\n**Booking:** Mandatory\n**Booking hours:** /\n**Doctor's referral required:** Yes\n**Price:** /\n**Payment types:** /\n**Drive in:** Yes\n**Results in:** No information\n\n**Date verified:** \n**On koronavirus.hr official list:** Yes",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }
   ]
