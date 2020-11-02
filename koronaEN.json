@@ -351,13 +351,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.6758712,
-          45.3323805
+          17.69882,
+          45.34336
         ]
       },
       "properties": {
-        "name": "Opća bolnica Požega",
-        "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=45.3323805%2C17.6758712#map=17/45.3323805/17.6758712|Županijska ul. 9, 34 000 Požega]] \n**Hours open:** Mon-Sun: 8:00-14:00\n**Phone:** [[tel:+38534 254 555 | +38534 254 555]]\n**Email:** [[mailto:info@pozeska-bolnica.hr | info@pozeska-bolnica.hr]]\n**Web:** [[https://www.pozeska-bolnica.hr/|pozeska-bolnica.hr]]\n\n**Booking:** Possible\n**Booking hours:** /\n**Doctor's referral required:** No\n**Price:** 501 HRK\n**Payment types:** No information\n**Drive in:** No\n**Results in:** 4h\n\n**Date verified:** 23.8.2020.\n**On koronavirus.hr official list:** Yes",
+        "name": "Opća županijska bolnica Požega",
+        "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=45.34336%2C17.69882#map=17/45.34336/17.69882|Osječka 107, 34 000 Požega]] \n**Hours open:** Mon-Sun: 8:00-14:00\n**Phone:** [[tel:+38534 254 555 | +38534 254 555]]\n**Email:** [[mailto:info@pozeska-bolnica.hr | info@pozeska-bolnica.hr]]\n**Web:** [[https://www.pozeska-bolnica.hr/|pozeska-bolnica.hr]]\n\n**Booking:** Possible\n**Booking hours:** /\n**Doctor's referral required:** No\n**Price:** 501 HRK\n**Payment types:** No information\n**Drive in:** No\n**Results in:** 4h\n\n**Date verified:** 23.8.2020.\n**On koronavirus.hr official list:** Yes",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
