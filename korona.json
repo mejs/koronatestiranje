@@ -840,6 +840,36 @@
         "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=46.31655%2C16.36151#map=17/46.31655/16.36151|Šetalište Franje Tuđmana 1, 42000 Varaždin]] \n **Radno vrijeme:** Pon-Ned: 8:00-11:00 i 16:00-19:00\n **Telefon:** [[tel:+38542 398 561 | +38542 398 561]]\n **Email:** Nemamo informaciju\n **Web:** Nemamo informaciju\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** \n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 2.11.2020.\n **Na koronavirus.hr službenoj listi:** Da",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.38709,
+          45.70707
+        ]
+      },
+      "properties": {
+        "name": "ZZJZ Zagrebačke županije, Hitna Ivanić-Grad",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.70707%2C16.38709#map=17/45.70707/16.38709|Omladinska 23, 10310 Ivanić-grad]] \n **Radno vrijeme:** Pon-Pet: 7:30-9:30\n **Telefon:** [[tel:+3851 2883 137 | +3851 2883 137]]\n **Email:** mikrobiologija.ivanic@zzjz-zz.hr\n **Web:** Nemamo informaciju\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** 7:00-15:00\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 2.11.2020.\n **Na koronavirus.hr službenoj listi:** Da",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8143,
+          45.79908
+        ]
+      },
+      "properties": {
+        "name": "ZZJZ Zagrebačke županije, Dom zdravlja Rakitje",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.79908%2C15.8143#map=17/45.79908/15.8143|Školska 2, 10437 Rakitje]] \n **Radno vrijeme:** Pon-Pet: 8:30-10:30\n **Telefon:** [[tel:+3851 3323 253 | +3851 3323 253]]\n **Email:** Nemamo informaciju\n **Web:** Nemamo informaciju\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** 7:00-15:01\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 2.11.2020.\n **Na koronavirus.hr službenoj listi:** Da",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
     }
   ]
 }
