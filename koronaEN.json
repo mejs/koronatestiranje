@@ -825,6 +825,21 @@
         "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=42.96832%2C16.71188#map=17/42.96832/16.71188|Ulica 1, br 1, 20270 Vela Luka]] \n**Hours open:** Mon, Wed, Fri\n**Phone:** [[tel:+38520 601 773 | +38520 601 773]]\n**Email:** No information\n**Web:** [[https://dom-zdravlja-korcula.hr/|dom-zdravlja-korcula.hr]]\n\n**Booking:** Mandatory\n**Booking hours:** /\n**Doctor's referral required:** Yes\n**Price:** /\n**Payment types:** /\n**Drive in:** No information\n**Results in:** No information\n\n**Date verified:** 2.11.2020.\n**On koronavirus.hr official list:** Yes",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36151,
+          46.31655
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Varaždin, Drive-in lokacija Arena Varaždin",
+        "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=46.31655%2C16.36151#map=17/46.31655/16.36151|Šetalište Franje Tuđmana 1, 42000 Varaždin]] \n**Hours open:** Mon-Sun: 8:00-11:00 and 16:00-19:00\n**Phone:** [[tel:+38542 398 561 | +38542 398 561]]\n**Email:** No information\n**Web:** No information\n\n**Booking:** Mandatory\n**Booking hours:** /\n**Doctor's referral required:** Yes\n**Price:** /\n**Payment types:** /\n**Drive in:** Yes\n**Results in:** No information\n\n**Date verified:** 2.11.2020.\n**On koronavirus.hr official list:** Yes",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
     }
   ]
 }
