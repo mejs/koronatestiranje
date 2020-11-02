@@ -807,7 +807,22 @@
       },
       "properties": {
         "name": "DZ Dubrovnik, Drive-in lokacija Auto kamp Solitudo",
-        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=42.66151%2C18.07032#map=17/42.66151/18.07032|Vatroslava Lisinskog 60, 20 000 Dubrovnik]] \n **Radno vrijeme:** Pon-Ned: 8:00-9:00 \n **Telefon:** [[tel:+38551 814 097 | +38551 814 097]]\n **Email:** [[mailto:covid19@dom-zdravlja-dubrovnik.hr|covid19@dom-zdravlja-dubrovnik.hr]]\n **Web:** [[https://www.dom-zdravlja-dubrovnik.hr/hr/sluzbe/covid-19-ordinacija|dom-zdravlja-dubrovnik.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** \n **Na koronavirus.hr službenoj listi:** Da",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=42.66151%2C18.07032#map=17/42.66151/18.07032|Vatroslava Lisinskog 60, 20 000 Dubrovnik]] \n **Radno vrijeme:** Pon-Ned: 8:00-9:00 \n **Telefon:** [[tel:+38551 814 097 | +38551 814 097]]\n **Email:** [[mailto:covid19@dom-zdravlja-dubrovnik.hr|covid19@dom-zdravlja-dubrovnik.hr]]\n **Web:** [[https://www.dom-zdravlja-dubrovnik.hr/hr/sluzbe/covid-19-ordinacija|dom-zdravlja-dubrovnik.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 2.11.2020.\n **Na koronavirus.hr službenoj listi:** Da",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.71188,
+          42.96832
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Vela Luka ",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=42.96832%2C16.71188#map=17/42.96832/16.71188|Ulica 1, br 1, 20270 Vela Luka]] \n **Radno vrijeme:** Pon, Sri i Pet\n **Telefon:** [[tel:+38520 601 773 | +38520 601 773]]\n **Email:** Nemamo informaciju\n **Web:** [[https://dom-zdravlja-korcula.hr/|dom-zdravlja-korcula.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 2.11.2020.\n **Na koronavirus.hr službenoj listi:** Da",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }
