@@ -870,6 +870,21 @@
         "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=45.79908%2C15.8143#map=17/45.79908/15.8143|Školska 2, 10437 Rakitje]] \n**Orario di apertura:** Lun-Ven: 8:30-10:30\n**Telefono:** [[tel:+3851 3323 253 | +3851 3323 253]]\n**Email:** Nessuna informazione\n**Web:** Keine Information\n\n**Prenotazioni:** Obbligatorio\n**Orari di prenotazione:** 7:00-15:00\n**Richiesta del medico curante necessaria:** Sì\n**Prezzo:** /\n**Metodi di pagamento:** /\n**Drive-in:** Sì\n**Tempo di attesa dell'esito del test:** Nessuna informazione\n\n**Data verificata:** 2.11.2020.\n**Sulla pagina ufficiale koronavirus.hr:** Sì",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2389,
+          44.8664
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Otočac",
+        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=44.8664%2C15.2389#map=17/44.8664/15.2389|Ul. Vladimira Nazora 21, 53220 Otočac]] \n**Orario di apertura:** Lun-Sab: 8:00-9:00\n**Telefono:** [[tel:+38591 605 4834 | +38591 605 4834]], [[tel:+38591 602 5354 | +38591 602 5354]]\n**Email:** Nessuna informazione\n**Web:** Keine Information\n\n**Prenotazioni:** Obbligatorio\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** Sì\n**Prezzo:** /\n**Metodi di pagamento:** /\n**Drive-in:** Nessuna informazione\n**Tempo di attesa dell'esito del test:** Nessuna informazione\n\n**Data verificata:** 12.11.2020.\n**Sulla pagina ufficiale koronavirus.hr:** No",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
     }
   ]
 }

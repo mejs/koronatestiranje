@@ -870,6 +870,21 @@
         "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.79908%2C15.8143#map=17/45.79908/15.8143|Školska 2, 10437 Rakitje]] \n **Radno vrijeme:** Pon-Pet: 8:30-10:30\n **Telefon:** [[tel:+3851 3323 253 | +3851 3323 253]]\n **Email:** Nemamo informaciju\n **Web:** Nemamo informaciju\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** 7:00-15:00\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 2.11.2020.\n **Na koronavirus.hr službenoj listi:** Da",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2389,
+          44.8664
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Otočac",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=44.8664%2C15.2389#map=17/44.8664/15.2389|Ul. Vladimira Nazora 21, 53220 Otočac]] \n **Radno vrijeme:** Pon-Sub: 8:00-9:00\n **Telefon:** [[tel:+38591 605 4834 | +38591 605 4834]], [[tel:+38591 602 5354 | +38591 602 5354]]\n **Email:** Nemamo informaciju\n **Web:** Nemamo informaciju\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 12.11.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
     }
   ]
 }

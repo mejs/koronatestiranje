@@ -870,6 +870,21 @@
         "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=45.79908%2C15.8143#map=17/45.79908/15.8143|Školska 2, 10437 Rakitje]] \n**Hours open:** Mon-Fri: 8:30-10:30\n**Phone:** [[tel:+3851 3323 253 | +3851 3323 253]]\n**Email:** No information\n**Web:** No information\n\n**Booking:** Mandatory\n**Booking hours:** 7:00-15:00\n**Doctor's referral required:** Yes\n**Price:** /\n**Payment types:** /\n**Drive in:** Yes\n**Results in:** No information\n\n**Date verified:** 2.11.2020.\n**On koronavirus.hr official list:** Yes",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2389,
+          44.8664
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Otočac",
+        "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=44.8664%2C15.2389#map=17/44.8664/15.2389|Ul. Vladimira Nazora 21, 53220 Otočac]] \n**Hours open:** Mon-Sat: 8:00-9:00\n**Phone:** [[tel:+38591 605 4834 | +38591 605 4834]], [[tel:+38591 602 5354 | +38591 602 5354]]\n**Email:** No information\n**Web:** No information\n\n**Booking:** Mandatory\n**Booking hours:** /\n**Doctor's referral required:** Yes\n**Price:** /\n**Payment types:** /\n**Drive in:** No information\n**Results in:** No information\n\n**Date verified:** 12.11.2020.\n**On koronavirus.hr official list:** No",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
     }
   ]
 }
