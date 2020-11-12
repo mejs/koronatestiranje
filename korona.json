@@ -876,13 +876,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.2389,
-          44.8664
+          15.23832,
+          44.86636
         ]
       },
       "properties": {
         "name": "Dom zdravlja Otočac",
-        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=44.8664%2C15.2389#map=17/44.8664/15.2389|Ul. Vladimira Nazora 21, 53220 Otočac]] \n **Radno vrijeme:** Pon-Sub: 8:00-9:00\n **Telefon:** [[tel:+38591 605 4834 | +38591 605 4834]], [[tel:+38591 602 5354 | +38591 602 5354]]\n **Email:** Nemamo informaciju\n **Web:** [[https://dzotocac.hr | dzotocac.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 12.11.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=44.86636%2C15.23832#map=17/44.86636/15.23832|Ul. Vladimira Nazora 21, 53220 Otočac]] \n **Radno vrijeme:** Pon-Sub: 8:00-9:00\n **Telefon:** [[tel:+38591 605 4834 | +38591 605 4834]], [[tel:+38591 602 5354 | +38591 602 5354]]\n **Email:** Nemamo informaciju\n **Web:** [[https://dzotocac.hr | dzotocac.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 12.11.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }
