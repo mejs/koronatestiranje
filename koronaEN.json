@@ -852,7 +852,7 @@
       },
       "properties": {
         "name": "ZZJZ Zagrebačke županije, Hitna Ivanić-Grad",
-        "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=45.70707%2C16.38709#map=17/45.70707/16.38709|Omladinska 23, 10310 Ivanić-grad]] \n**Hours open:** Mon-Fri: 7:30-9:30\n**Phone:** [[tel:+3851 2883 137 | +3851 2883 137]]\n**Email:** mikrobiologija.ivanic@zzjz-zz.hr\n**Web:** No information\n\n**Booking:** Mandatory\n**Booking hours:** 7:00-15:00\n**Doctor's referral required:** Yes\n**Price:** /\n**Payment types:** /\n**Drive in:** Yes\n**Results in:** No information\n\n**Date verified:** 2.11.2020.\n**On koronavirus.hr official list:** Yes",
+        "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=45.70707%2C16.38709#map=17/45.70707/16.38709|Omladinska 23, 10310 Ivanić-grad]] \n**Hours open:** Mon-Fri: 7:30-9:30\n**Phone:** [[tel:+3851 2883 137 | +3851 2883 137]]\n**Email:** [[mailto:mikrobiologija.ivanic@zzjz-zz.hr | mikrobiologija.ivanic@zzjz-zz.hr]]\n**Web:** No information\n\n**Booking:** Mandatory\n**Booking hours:** 7:00-15:00\n**Doctor's referral required:** Yes\n**Price:** /\n**Payment types:** /\n**Drive in:** Yes\n**Results in:** No information\n\n**Date verified:** 2.11.2020.\n**On koronavirus.hr official list:** Yes",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -883,6 +883,66 @@
       "properties": {
         "name": "Dom zdravlja Otočac",
         "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=44.86636%2C15.23832#map=17/44.86636/15.23832|Ul. Vladimira Nazora 21, 53220 Otočac]] \n**Hours open:** Mon-Sat: 8:00-9:00\n**Phone:** [[tel:+38591 605 4834 | +38591 605 4834]], [[tel:+38591 602 5354 | +38591 602 5354]]\n**Email:** No information\n**Web:** [[https://dzotocac.hr | dzotocac.hr]]\n\n**Booking:** Mandatory\n**Booking hours:** /\n**Doctor's referral required:** Yes\n**Price:** /\n**Payment types:** /\n**Drive in:** No information\n**Results in:** No information\n\n**Date verified:** 12.11.2020.\n**On koronavirus.hr official list:** No",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3745359,
+          45.4840339
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Sisak",
+        "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=45.4840339%2C16.3745359#map=17/45.4840339/16.3745359|Ul. kralja Tomislava 1, 44000 Sisak]] \n**Hours open:** Mon, Wed, Fri\n**Phone:** [[tel:+38544 567 188 | +38544 567 188]]\n**Email:** [[mailto:epidemiologija-sisak@zzjz-hr.hr|epidemiologija-sisak@zzjz-hr.hr]]\n**Web:** [[https://www.dz-sisak.hr|dz-sisak.hr]]\n\n**Booking:** Mandatory\n**Booking hours:** /\n**Doctor's referral required:** Yes\n**Price:** /\n**Payment types:** Mon, Wed, Fri\n**Drive in:** No\n**Results in:** 24-96h\n\n**Date verified:** 19.11.2020.\n**On koronavirus.hr official list:** No",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2763063,
+          45.430283
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Petrinja",
+        "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=45.430283%2C16.2763063#map=17/45.430283/16.2763063|Ul. Radoslava Lopašića 1, 44250 Petrinja]] \n**Hours open:** Mon, Wed, Fri\n**Phone:** [[tel: +38544 815 108 | +38544 815 108]]\n**Email:** [[mailto:epidemiologija-petrinja@zzjz-sk.hr|epidemiologija-petrinja@zzjz-sk.hr]]\n**Web:** [[https://www.dzp.hr/|dzp.hr]]\n\n**Booking:** Mandatory\n**Booking hours:** /\n**Doctor's referral required:** Yes\n**Price:** /\n**Payment types:** Mon, Wed, Fri\n**Drive in:** No\n**Results in:** 24-96h\n\n**Date verified:** 19.11.2020.\n**On koronavirus.hr official list:** No",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7689061,
+          45.4853849
+        ]
+      },
+      "properties": {
+        "name": "Dom zdravlja Kutina",
+        "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=45.4853849%2C16.7689061#map=17/45.4853849/16.7689061|Ul. Antuna Gustava Matoša 42, 44320 Kutina]] \n**Hours open:** Mon, Wed, Fri\n**Phone:** [[tel: +38544 630 845 | +38544 630 845]]\n**Email:** [[mailto:epidemiologija-kutina@zzjz-sk.hr|epidemiologija-kutina@zzjz-sk.hr]]\n**Web:** [[https://dz-kutina.hr|dz-kutina.hr]]\n\n**Booking:** Mandatory\n**Booking hours:** /\n**Doctor's referral required:** Yes\n**Price:** /\n**Payment types:** Mon, Wed, Fri\n**Drive in:** No\n**Results in:** 24-96h\n\n**Date verified:** 19.11.2020.\n**On koronavirus.hr official list:** No",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3681266,
+          45.4757053
+        ]
+      },
+      "properties": {
+        "name": "Opća bolnica Sisak",
+        "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=45.4757053%2C16.3681266#map=17/45.4757053/16.3681266|Ul. Josipa Jurja Strossmayera 59, 44000 Sisak]] \n**Hours open:** No information\n**Phone:** [[tel: +38544 553 100 | +38544 553 100]]\n**Email:** [[mailto:obs@obs.hr|obs@obs.hr]]\n**Web:** [[https://obs.hr/korona/|obs.hr]]\n\n**Booking:** Mandatory\n**Booking hours:** /\n**Doctor's referral required:** Yes\n**Price:** /\n**Payment types:** Mon, Wed, Fri\n**Drive in:** No\n**Results in:** 24-96h\n\n**Date verified:** 19.11.2020.\n**On koronavirus.hr official list:** No",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }
