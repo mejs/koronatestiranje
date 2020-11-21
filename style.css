@@ -75,22 +75,22 @@ body {font-family: Arial, Helvetica, sans-serif; background-color: #333;
 
 
 .HR::before {
-  content: "\1F1ED\1F1F7";
+  content: url(img/hr.png);
   line-height: 1em;
 }
 
 .EN::before {
-  content: "\1F1EC\1F1E7";
+  content: url(img/en.png);
   line-height: 1em;
 }
 
 .DE::before {
-  content: "\1F1E9\1F1EA";
+  content: url(img/de.png);
   line-height: 1em;
 }
 
 .IT::before {
-  content: "\1F1EE\1F1F9";
+  content: url(img/it.png);
   line-height: 1em;
 }
 
