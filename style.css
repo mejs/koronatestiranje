@@ -113,11 +113,38 @@ body {font-family: Arial, Helvetica, sans-serif; background-color: #333;
 
 /* Modal Content */
 .modal-content {
-  background-color: #fefefe;
-  margin: auto;
-  padding: 20px;
-  border: 1px solid #888;
-  width: 80%;
+    background-color: #fefefe;
+    margin: 25px;
+    padding: 20px;
+    border: 1px solid #888;
+    max-width: 400px;
+}
+
+/* Press */
+
+.box {
+  float: left;
+  height: 15px;
+  width: 15px;
+  margin: 0 5px 0 0;
+  clear: both;
+}
+.green{
+  background-color: #41c074;
+}
+.orange{
+  background-color: #ff8300;
+}
+.teal{
+  background-color: #11bae8;
+}
+.press {
+  max-height: 35px;
+  opacity: 0.25;
+  margin: 5px 10px 0 0;
+}
+.press:hover {
+  opacity: 1.0;
 }
 
 /* The Close Button */
