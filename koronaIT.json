@@ -462,7 +462,7 @@
       },
       "properties": {
         "name": "NZJZ Splitsko-dalmatinske županije",
-        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=43.5111162%2C16.4497887#map=17/43.5111162/16.4497887|Vukovarska ul. 46, 21 000 Split]] \n**Orario di apertura:** Lun-Dom: 7:30-15:30\n**Telefono:** Nessuna informazione\n**Email:** [[mailto:travel.covid@nzjz-split.hr | travel.covid@nzjz-split.hr]], [[mailto:tajnica@nzjz-split.hr | tajnica@nzjz-split.hr]], [[mailto:protokol@nzjz-split.hr | protokol@nzjz-split.hr]], [[mailto:edita.olujic@nzjz-split.hr | edita.olujic@nzjz-split.hr]]\n**Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/434-test-na-sars-cov-2-bez-uputnice|nzjz-split.hr]]\n\n**Prenotazioni:** Obbligatorio, [[https://prijavnicentar.hr/testiranje/split|modulo web]]\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** No\n**Prezzo:** 698 HRK e 501 HRK\n**Metodi di pagamento:** [[https://www.nzjz-split.hr/index.php/2-uncategoised/415-testiranje-na-sars-cov-2-bez-uputnice | Bonifico]], carta o contanti\n**Drive-in:** Sì\n**Tempo di attesa dell'esito del test:** 24-48h\n\n**Data verificata:** 23.8.2020.\n**Sulla pagina ufficiale koronavirus.hr:** Sì",
+        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=43.5111162%2C16.4497887#map=17/43.5111162/16.4497887|Vukovarska ul. 46, 21 000 Split]] \n**Orario di apertura:** Lun-Dom: 7:30-15:30\n**Telefono:** Nessuna informazione\n**Email:** [[mailto:travel.covid@nzjz-split.hr | travel.covid@nzjz-split.hr]], [[mailto:tajnica@nzjz-split.hr | tajnica@nzjz-split.hr]], [[mailto:protokol@nzjz-split.hr | protokol@nzjz-split.hr]], [[mailto:edita.olujic@nzjz-split.hr | edita.olujic@nzjz-split.hr]]\n**Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/455-testiranje-na-sars-cov-2-online-narucivanje|nzjz-split.hr]]\n\n**Prenotazioni:** Obbligatorio, [[https://prijavnicentar.hr/testiranje/split|modulo web]]\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** No\n**Prezzo:** 698 HRK e 501 HRK\n**Metodi di pagamento:** [[https://www.nzjz-split.hr/index.php/2-uncategoised/415-testiranje-na-sars-cov-2-bez-uputnice | Bonifico]], carta o contanti\n**Drive-in:** Sì\n**Tempo di attesa dell'esito del test:** 24-48h\n\n**Data verificata:** 23.8.2020.\n**Sulla pagina ufficiale koronavirus.hr:** Sì",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -943,6 +943,51 @@
       "properties": {
         "name": "Opća bolnica Sisak",
         "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=45.4757053%2C16.3681266#map=17/45.4757053/16.3681266|Ul. Josipa Jurja Strossmayera 59, 44000 Sisak]] \n**Orario di apertura:** Nessuna infomazione\n**Telefono:** [[tel: +38544 553 100 | +38544 553 100]]\n**Email:** [[mailto:obs@obs.hr|obs@obs.hr]]\n**Web:** [[https://obs.hr/korona/|obs.hr]]\n\n**Prenotazioni:** Obbligatorio\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** Sì\n**Prezzo:** /\n**Metodi di pagamento:** /\n**Drive-in:** No\n**Tempo di attesa dell'esito del test:** 24-96h\n\n**Data verificata:** 19.11.2020.\n**Sulla pagina ufficiale koronavirus.hr:** No",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44012,
+          43.50102
+        ]
+      },
+      "properties": {
+        "name": "Split trajektna luka",
+        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=43.50102%2C16.44012#map=17/43.50102/16.44012|Obala kneza Domagoja 16, 21000 Split]] \n**Orario di apertura:** Lun-Dom: 7:00-13:00\n**Telefono:** [[tel: +38599 819 58 63 | +38599 819 58 63]]\n**Email:** [[mailto:travel.covid@nzjz-split.hr | travel.covid@nzjz-split.hr]], [[mailto:tajnica@nzjz-split.hr | tajnica@nzjz-split.hr]], [[mailto:protokol@nzjz-split.hr | protokol@nzjz-split.hr]], [[mailto:edita.olujic@nzjz-split.hr | edita.olujic@nzjz-split.hr]]\n**Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/455-testiranje-na-sars-cov-2-online-narucivanje|nzjz-split.hr]]\n\n**Prenotazioni:** Obbligatorio, [[https://prijavnicentar.hr/testiranje/split|modulo web]]\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** Sì\n**Prezzo:** /\n**Metodi di pagamento:** /\n**Drive-in:** Sì\n**Tempo di attesa dell'esito del test:** 24-48h\n\n**Data verificata:** 30.11.2020.\n**Sulla pagina ufficiale koronavirus.hr:** No",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.65333,
+          43.7028
+        ]
+      },
+      "properties": {
+        "name": "COVID punkt Sinj",
+        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=43.7028%2C16.65333#map=17/43.7028/16.65333|Put Šumarije, 21230 Sinj]] \n**Orario di apertura:** Lun-Ven: 7:15-10:00 \n**Telefono:** [[tel: +38599 819 58 63 | +38599 819 58 63]]\n**Email:** [[mailto:travel.covid@nzjz-split.hr | travel.covid@nzjz-split.hr]], [[mailto:tajnica@nzjz-split.hr | tajnica@nzjz-split.hr]], [[mailto:protokol@nzjz-split.hr | protokol@nzjz-split.hr]], [[mailto:edita.olujic@nzjz-split.hr | edita.olujic@nzjz-split.hr]]\n**Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/455-testiranje-na-sars-cov-2-online-narucivanje|nzjz-split.hr]]\n\n**Prenotazioni:** Obbligatorio, [[https://prijavnicentar.hr/testiranje/split|modulo web]]\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** No\n**Prezzo:** 698 HRK\n**Metodi di pagamento:** [[https://www.nzjz-split.hr/index.php/2-uncategoised/415-testiranje-na-sars-cov-2-bez-uputnice | Bonifico]], carta o contanti\n**Drive-in:** Nessuna informazione\n**Tempo di attesa dell'esito del test:** 24-48h\n\n**Data verificata:** 30.11.2020.\n**Sulla pagina ufficiale koronavirus.hr:** No",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.20663,
+          43.44677
+        ]
+      },
+      "properties": {
+        "name": "COVID ambulanta Imotski",
+        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=43.44677%2C17.20663#map=17/43.44677/17.20663|Ul. dr. Josipa Mladinova 22A, 21260 Imotski]] \n**Orario di apertura:** Nessuna infomazione\n**Telefono:** [[tel: +38599 819 58 63 | +38599 819 58 63]]\n**Email:** [[mailto:travel.covid@nzjz-split.hr | travel.covid@nzjz-split.hr]], [[mailto:tajnica@nzjz-split.hr | tajnica@nzjz-split.hr]], [[mailto:protokol@nzjz-split.hr | protokol@nzjz-split.hr]], [[mailto:edita.olujic@nzjz-split.hr | edita.olujic@nzjz-split.hr]]\n**Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/455-testiranje-na-sars-cov-2-online-narucivanje|nzjz-split.hr]]\n\n**Prenotazioni:** Obbligatorio, [[https://prijavnicentar.hr/testiranje/split|modulo web]]\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** Sì\n**Prezzo:** /\n**Metodi di pagamento:** /\n**Drive-in:** Nessuna informazione\n**Tempo di attesa dell'esito del test:** 24-48h\n\n**Data verificata:** 30.11.2020.\n**Sulla pagina ufficiale koronavirus.hr:** No",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }

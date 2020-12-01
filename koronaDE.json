@@ -462,7 +462,7 @@
       },
       "properties": {
         "name": "NZJZ Splitsko-dalmatinske županije",
-        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.5111162%2C16.4497887#map=17/43.5111162/16.4497887|Vukovarska ul. 46, 21 000 Split]] \n**Öffnungszeiten:** Mo-So: 7:30-15:30\n**Telefon:** Keine Information\n**E-Mail:** [[mailto:travel.covid@nzjz-split.hr | travel.covid@nzjz-split.hr]], [[mailto:tajnica@nzjz-split.hr | tajnica@nzjz-split.hr]], [[mailto:protokol@nzjz-split.hr | protokol@nzjz-split.hr]], [[mailto:edita.olujic@nzjz-split.hr | edita.olujic@nzjz-split.hr]]\n**Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/434-test-na-sars-cov-2-bez-uputnice|nzjz-split.hr]]\n\n**Anmeldung:** Notwendig, [[https://prijavnicentar.hr/testiranje/split|Web-Formular]]\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Nein\n**Preis:** 698 HRK und 501 HRK\n**Zahlungsmittel:** [[https://www.nzjz-split.hr/index.php/2-uncategoderised/415-testiranje-na-sars-cov-2-bez-uputnice | Banküberweisung]], kartice i bar\n**Drive-in:** Ja\n**Wartezeit bis zum Ergebnis:** 24-48h\n\n**Datum der Verifikation:** 23.8.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.5111162%2C16.4497887#map=17/43.5111162/16.4497887|Vukovarska ul. 46, 21 000 Split]] \n**Öffnungszeiten:** Mo-So: 7:30-15:30\n**Telefon:** Keine Information\n**E-Mail:** [[mailto:travel.covid@nzjz-split.hr | travel.covid@nzjz-split.hr]], [[mailto:tajnica@nzjz-split.hr | tajnica@nzjz-split.hr]], [[mailto:protokol@nzjz-split.hr | protokol@nzjz-split.hr]], [[mailto:edita.olujic@nzjz-split.hr | edita.olujic@nzjz-split.hr]]\n**Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/455-testiranje-na-sars-cov-2-online-narucivanje|nzjz-split.hr]]\n\n**Anmeldung:** Notwendig, [[https://prijavnicentar.hr/testiranje/split|Web-Formular]]\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Nein\n**Preis:** 698 HRK und 501 HRK\n**Zahlungsmittel:** [[https://www.nzjz-split.hr/index.php/2-uncategoderised/415-testiranje-na-sars-cov-2-bez-uputnice | Banküberweisung]], kartice i bar\n**Drive-in:** Ja\n**Wartezeit bis zum Ergebnis:** 24-48h\n\n**Datum der Verifikation:** 23.8.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Ja",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -897,7 +897,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Sisak",
-        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.4840339%2C16.3745359#map=17/45.4840339/16.3745359|Ul. kralja Tomislava 1, 44000 Sisak]] \n**Öffnungszeiten:** Mo, Mi, Fri\n**Telefon:** [[tel:+38544 567 188 | +38544 567 188]]\n**E-Mail:** [[mailto:epidemiologija-sisak@zzjz-hr.hr|epidemiologija-sisak@zzjz-hr.hr]]\n**Web:** [[https://www.dz-sisak.hr|dz-sisak.hr]]\n\n**Anmeldung:** Notwendig\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Ja\n**Preis:** /\n**Zahlungsmittel:** /\n**Drive-in:** Nein\n**Wartezeit bis zum Ergebnis:** 24-96h\n\n**Datum der Verifikation:** 19.11.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.4840339%2C16.3745359#map=17/45.4840339/16.3745359|Ul. kralja Tomislava 1, 44000 Sisak]] \n**Öffnungszeiten:** Mo, Mi, Fr\n**Telefon:** [[tel:+38544 567 188 | +38544 567 188]]\n**E-Mail:** [[mailto:epidemiologija-sisak@zzjz-hr.hr|epidemiologija-sisak@zzjz-hr.hr]]\n**Web:** [[https://www.dz-sisak.hr|dz-sisak.hr]]\n\n**Anmeldung:** Notwendig\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Ja\n**Preis:** /\n**Zahlungsmittel:** /\n**Drive-in:** Nein\n**Wartezeit bis zum Ergebnis:** 24-96h\n\n**Datum der Verifikation:** 19.11.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -912,7 +912,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Petrinja",
-        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.430283%2C16.2763063#map=17/45.430283/16.2763063|Ul. Radoslava Lopašića 1, 44250 Petrinja]] \n**Öffnungszeiten:** Mo, Mi, Fri\n**Telefon:** [[tel: +38544 815 108 | +38544 815 108]]\n**E-Mail:** [[mailto:epidemiologija-petrinja@zzjz-sk.hr|epidemiologija-petrinja@zzjz-sk.hr]]\n**Web:** [[https://www.dzp.hr/|dzp.hr]]\n\n**Anmeldung:** Notwendig\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Ja\n**Preis:** /\n**Zahlungsmittel:** /\n**Drive-in:** Nein\n**Wartezeit bis zum Ergebnis:** 24-96h\n\n**Datum der Verifikation:** 19.11.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.430283%2C16.2763063#map=17/45.430283/16.2763063|Ul. Radoslava Lopašića 1, 44250 Petrinja]] \n**Öffnungszeiten:** Mo, Mi, Fr\n**Telefon:** [[tel: +38544 815 108 | +38544 815 108]]\n**E-Mail:** [[mailto:epidemiologija-petrinja@zzjz-sk.hr|epidemiologija-petrinja@zzjz-sk.hr]]\n**Web:** [[https://www.dzp.hr/|dzp.hr]]\n\n**Anmeldung:** Notwendig\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Ja\n**Preis:** /\n**Zahlungsmittel:** /\n**Drive-in:** Nein\n**Wartezeit bis zum Ergebnis:** 24-96h\n\n**Datum der Verifikation:** 19.11.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -927,7 +927,7 @@
       },
       "properties": {
         "name": "Dom zdravlja Kutina",
-        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.4853849%2C16.7689061#map=17/45.4853849/16.7689061|Ul. Antuna Gustava Matoša 42, 44320 Kutina]] \n**Öffnungszeiten:** Mo, Mi, Fri\n**Telefon:** [[tel: +38544 630 845 | +38544 630 845]]\n**E-Mail:** [[mailto:epidemiologija-kutina@zzjz-sk.hr|epidemiologija-kutina@zzjz-sk.hr]]\n**Web:** [[https://dz-kutina.hr|dz-kutina.hr]]\n\n**Anmeldung:** Notwendig\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Ja\n**Preis:** /\n**Zahlungsmittel:** /\n**Drive-in:** Nein\n**Wartezeit bis zum Ergebnis:** 24-96h\n\n**Datum der Verifikation:** 19.11.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.4853849%2C16.7689061#map=17/45.4853849/16.7689061|Ul. Antuna Gustava Matoša 42, 44320 Kutina]] \n**Öffnungszeiten:** Mo, Mi, Fr\n**Telefon:** [[tel: +38544 630 845 | +38544 630 845]]\n**E-Mail:** [[mailto:epidemiologija-kutina@zzjz-sk.hr|epidemiologija-kutina@zzjz-sk.hr]]\n**Web:** [[https://dz-kutina.hr|dz-kutina.hr]]\n\n**Anmeldung:** Notwendig\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Ja\n**Preis:** /\n**Zahlungsmittel:** /\n**Drive-in:** Nein\n**Wartezeit bis zum Ergebnis:** 24-96h\n\n**Datum der Verifikation:** 19.11.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -943,6 +943,51 @@
       "properties": {
         "name": "Opća bolnica Sisak",
         "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.4757053%2C16.3681266#map=17/45.4757053/16.3681266|Ul. Josipa Jurja Strossmayera 59, 44000 Sisak]] \n**Öffnungszeiten:** Keine Information\n**Telefon:** [[tel: +38544 553 100 | +38544 553 100]]\n**E-Mail:** [[mailto:obs@obs.hr|obs@obs.hr]]\n**Web:** [[https://obs.hr/korona/|obs.hr]]\n\n**Anmeldung:** Notwendig\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Ja\n**Preis:** /\n**Zahlungsmittel:** /\n**Drive-in:** Nein\n**Wartezeit bis zum Ergebnis:** 24-96h\n\n**Datum der Verifikation:** 19.11.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44012,
+          43.50102
+        ]
+      },
+      "properties": {
+        "name": "Split trajektna luka",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.50102%2C16.44012#map=17/43.50102/16.44012|Obala kneza Domagoja 16, 21000 Split]] \n**Öffnungszeiten:** Mo-So: 7:00-13:00\n**Telefon:** [[tel: +38599 819 58 63 | +38599 819 58 63]]\n**E-Mail:** [[mailto:travel.covid@nzjz-split.hr | travel.covid@nzjz-split.hr]], [[mailto:tajnica@nzjz-split.hr | tajnica@nzjz-split.hr]], [[mailto:protokol@nzjz-split.hr | protokol@nzjz-split.hr]], [[mailto:edita.olujic@nzjz-split.hr | edita.olujic@nzjz-split.hr]]\n**Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/455-testiranje-na-sars-cov-2-online-narucivanje|nzjz-split.hr]]\n\n**Anmeldung:** Notwendig, [[https://prijavnicentar.hr/testiranje/split|Web-Formular]]\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Ja\n**Preis:** /\n**Zahlungsmittel:** /\n**Drive-in:** Ja\n**Wartezeit bis zum Ergebnis:** 24-48h\n\n**Datum der Verifikation:** 30.11.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.65333,
+          43.7028
+        ]
+      },
+      "properties": {
+        "name": "COVID punkt Sinj",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.7028%2C16.65333#map=17/43.7028/16.65333|Put Šumarije, 21230 Sinj]] \n**Öffnungszeiten:** Mo-Fr: 7:15-10:00 \n**Telefon:** [[tel: +38599 819 58 63 | +38599 819 58 63]]\n**E-Mail:** [[mailto:travel.covid@nzjz-split.hr | travel.covid@nzjz-split.hr]], [[mailto:tajnica@nzjz-split.hr | tajnica@nzjz-split.hr]], [[mailto:protokol@nzjz-split.hr | protokol@nzjz-split.hr]], [[mailto:edita.olujic@nzjz-split.hr | edita.olujic@nzjz-split.hr]]\n**Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/455-testiranje-na-sars-cov-2-online-narucivanje|nzjz-split.hr]]\n\n**Anmeldung:** Notwendig, [[https://prijavnicentar.hr/testiranje/split|Web-Formular]]\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Nein\n**Preis:** 698 HRK\n**Zahlungsmittel:** /\n**Drive-in:** Keine Information\n**Wartezeit bis zum Ergebnis:** 24-48h\n\n**Datum der Verifikation:** 30.11.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.20663,
+          43.44677
+        ]
+      },
+      "properties": {
+        "name": "COVID ambulanta Imotski",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.44677%2C17.20663#map=17/43.44677/17.20663|Ul. dr. Josipa Mladinova 22A, 21260 Imotski]] \n**Öffnungszeiten:** Keine Information\n**Telefon:** [[tel: +38599 819 58 63 | +38599 819 58 63]]\n**E-Mail:** [[mailto:travel.covid@nzjz-split.hr | travel.covid@nzjz-split.hr]], [[mailto:tajnica@nzjz-split.hr | tajnica@nzjz-split.hr]], [[mailto:protokol@nzjz-split.hr | protokol@nzjz-split.hr]], [[mailto:edita.olujic@nzjz-split.hr | edita.olujic@nzjz-split.hr]]\n**Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/455-testiranje-na-sars-cov-2-online-narucivanje|nzjz-split.hr]]\n\n**Anmeldung:** Notwendig, [[https://prijavnicentar.hr/testiranje/split|Web-Formular]]\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Ja\n**Preis:** /\n**Zahlungsmittel:** /\n**Drive-in:** Keine Information\n**Wartezeit bis zum Ergebnis:** 24-48h\n\n**Datum der Verifikation:** 30.11.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }
