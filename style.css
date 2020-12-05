@@ -5,7 +5,44 @@ body {font-family: Arial, Helvetica, sans-serif; background-color: #333;
 .content {position: absolute; z-index:-1; top: 60px; left: 0; right: 0; bottom: 0; background-color: #333; }
 .content iframe {display: block; width: 100%; height: 100%; border: none; }
 
+/** LIGHTBOX MARKUP **/
 
+.lightbox {
+  /* Default to hidden */
+  display: none !important;
+
+  /* Overlay entire screen */
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  
+  /* A bit of padding around image */
+  padding: 1em;
+
+  /* Translucent background */
+  background: rgba(0, 0, 0, 0.8) !important;
+}
+
+/* Unhide the lightbox when it's the target */
+.lightbox:target {
+  display: block !important;
+} 
+
+
+.lightbox span {
+  /* Full width and height */
+  display: block !important;
+  width: 100%;
+  height: 100%;
+
+  /* Size and position background image */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
 .navbar {
   overflow: hidden;
   background-color: #333;
@@ -196,3 +233,4 @@ body {font-family: Arial, Helvetica, sans-serif; background-color: #333;
   font-size: 14px;
   display: inline;
 }
+
