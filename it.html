@@ -65,7 +65,21 @@
 <iframe allowfullscreen scrollwheel='true' src="https://umap.openstreetmap.fr/en/map/strutture-che-effettuano-il-tampone-pcr-per-covid1_499494?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false"></iframe>
 </div>
 
+<div id="mapLegendModaldiv" class="mapLegendmodal">
+
+  <!-- Modal content -->
+  <div class="mapLegendmodal-content">
+<div class="box green"></div><a class="mapLegendmodal-content" href="https://koronatestiranje.com/it">PCR (su richiesta)</a>
+        <div class="box orange"></div><a class="mapLegendmodal-content" href="https://koronatestiranje.com/it">PCR (Prescrizione)</a>
+        <div class="box teal"></div><a class="mapLegendmodal-content" href="https://koronatestiranje.com/antigen">Antigen</a>
+  </div>
+
+</div>
+
 <script>
+
+// Get the mapLegend Modal
+var modal = document.getElementById("mapLegendModaldiv");
 
 // Get the modal
 var modal = document.getElementById("myModal");

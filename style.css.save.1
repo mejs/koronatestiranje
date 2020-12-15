@@ -5,44 +5,7 @@ body {font-family: Arial, Helvetica, sans-serif; background-color: #333;
 .content {position: absolute; z-index:-1; top: 60px; left: 0; right: 0; bottom: 0; background-color: #333; }
 .content iframe {display: block; width: 100%; height: 100%; border: none; }
 
-/** LIGHTBOX MARKUP **/
 
-.lightbox {
-  /* Default to hidden */
-  display: none !important;
-
-  /* Overlay entire screen */
-  position: fixed;
-  z-index: 999;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  
-  /* A bit of padding around image */
-  padding: 1em;
-
-  /* Translucent background */
-  background: rgba(0, 0, 0, 0.8) !important;
-}
-
-/* Unhide the lightbox when it's the target */
-.lightbox:target {
-  display: block !important;
-} 
-
-
-.lightbox span {
-  /* Full width and height */
-  display: block !important;
-  width: 100%;
-  height: 100%;
-
-  /* Size and position background image */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
 .navbar {
   overflow: hidden;
   background-color: #333;
@@ -202,7 +165,6 @@ body {font-family: Arial, Helvetica, sans-serif; background-color: #333;
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 @media screen and (max-width: 600px) {
   .navbar a:not(:nth-child(-n+2)) {display: none;}
-  button:not(:nth-child(-n+2)) {display: none;}  
   .navbar a.icon {
     float: right;
     display: block;
@@ -236,46 +198,41 @@ body {font-family: Arial, Helvetica, sans-serif; background-color: #333;
 }
 
 
-/* map legend */
+/** LIGHTBOX MARKUP **/
 
-/* mapLegend Modal (background) */
-.mapLegendmodal {
-display: block;
-    position: fixed;
-    z-index: 1;
-    top: 85%;
-    left: 1;
-    width: 150px;
-    font-size: small;
+.lightbox {
+  /* Default to hidden */
+  display: none;
+
+  /* Overlay entire screen */
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  
+  /* A bit of padding around image */
+  padding: 1em;
+
+  /* Translucent background */
+  background: rgba(0, 0, 0, 0.8);
 }
 
-/* mapLegend Modal Content */
-.mapLegendmodal-content {
-  background-color: rgba(0,0,0,0.8);
-  color:white;
-  margin: auto;
-  padding: 5px;
-  border: 0px;
-  width: 90%;
-  line-height: 1.4;
+/* Unhide the lightbox when it's the target */
+.lightbox:target {
+  display: block;
 }
 
-.mapLegendmodal-content a {
-    color: white;
-    text-decoration: none;
-    display: inline;
-    padding: 0px;
-    font-size: small;
-    text-align: left;
-    float: none;
-    background-color: rgba(0,0,0,0);
-    display: block !important;
+.lightbox span {
+  /* Full width and height */
+  display: block;
+  width: 100%;
+  height: 100%;
+
+  /* Size and position background image */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
-.mapLegendmodal-content a:active {
-  background-color: rgba(0,0,0,0);
-}
-
-.mapLegendmodal-content a:hover {
-  background-color: rgba(0,0,0,0);
-  }

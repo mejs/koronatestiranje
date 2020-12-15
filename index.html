@@ -73,7 +73,22 @@ Izvor: <a href="https://www.facebook.com/groups/koronaviruscovid19" target="_bla
 <iframe allowfullscreen scrollwheel='true' src="https://umap.openstreetmap.fr/en/map/lokacije-centara-za-covid-testiranje-testna-mapa_491448?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false"></iframe>
 </div>
 
+<div id="mapLegendModaldiv" class="mapLegendmodal">
+
+  <!-- Modal content -->
+  <div class="mapLegendmodal-content">
+<div class="box green"></div><a class="mapLegendmodal-content" href="https://koronatestiranje.com">PCR (na zahtjev)</a>
+        <div class="box orange"></div><a class="mapLegendmodal-content" href="https://koronatestiranje.com">PCR (uputnica)</a>
+        <div class="box teal"></div><a class="mapLegendmodal-content" href="https://koronatestiranje.com/antigen">Antigen</a>
+  </div>
+
+</div>
+
 <script>
+
+// Get the mapLegend Modal
+var modal = document.getElementById("mapLegendModaldiv");
+
 
 // Get the modal
 var modal = document.getElementById("myModal");
@@ -111,6 +126,7 @@ function myFunction() {
   }
 }
 </script>
+
 
 </body>
 </html>
