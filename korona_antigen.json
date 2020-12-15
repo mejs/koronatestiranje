@@ -192,8 +192,38 @@
       },
       "properties": {
         "name": "ZJZ Osječko-baranjske županije",
-        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.5582815%2C18.6876452#map=17/45.5582815/18.6876452|Ul. Franje Krežme 1, 31 000 Osijek]] \n **Radno vrijeme:** Nemamo informaciju\n **Telefon:** \n **Email:** Nemamo informaciju\n **Web:** [[http://www.zzjzosijek.hr/|zzjzosijek.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Ne\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 26.11.2020.\n **Na koronavirus.hr službenoj listi:** Da",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.5582815%2C18.6876452#map=17/45.5582815/18.6876452|Ul. Franje Krežme 1, 31 000 Osijek]] \n **Radno vrijeme:** Nemamo informaciju\n **Telefon:** [[tel: +38532 349 251 | +38532 349 251]], [[tel:+38591 2700 360 |+38591 2700 360]]\n **Email:** Nemamo informaciju\n **Web:** [[http://www.zzjzosijek.hr/|zzjzosijek.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Ne\n **Vrijeme čekanja nalaza:** 15-30 min\n\n **Datum verifikacije:** 26.11.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
         "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8177867,
+          45.2920284
+        ]
+      },
+      "properties": {
+        "name": "ZJZ Vukovarsko-srijemske županije (Vinkovci)",
+        "description": "",
+        "_umap_options": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.99365,
+          45.35698
+        ]
+      },
+      "properties": {
+        "name": "ZJZ Vukovarsko-srijemske županije (Vukovar)",
+        "description": "",
+        "_umap_options": ""
       }
     }
   ]
