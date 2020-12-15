@@ -222,8 +222,23 @@
       },
       "properties": {
         "name": "ZJZ Vukovarsko-srijemske županije (Vukovar)",
-        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.35698%2C18.99365#map=17/45.35698/18.99365|Županijska ul. 35 32000, Vukovar]] \n **Radno vrijeme:** Pon-Pet: 11:00-13:00\n **Telefon:** \n **Email:** Nemamo informaciju\n **Web:** [[https://www.zzjz-vsz.hr/vijesti/454-obavijest-o-uvodenju-brzih-antigenskih-testova-na-sars-cov-2-u-zzjz-vsz.html |zzjz-vsz.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** 7:00 - 9:00\n **Potrebna uputnica:** Ne\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** 15-30 min\n\n **Datum verifikacije:** 15.12.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.35698%2C18.99365#map=17/45.35698/18.99365|Županijska ul. 35 32000, Vukovar]] \n **Radno vrijeme:** Pon-Pet: 11:00-13:00\n **Telefon:** [[tel: +38521 401 111 | +38521 401 111]]\n **Email:** Nemamo informaciju\n **Web:** [[https://www.zzjz-vsz.hr/vijesti/454-obavijest-o-uvodenju-brzih-antigenskih-testova-na-sars-cov-2-u-zzjz-vsz.html |zzjz-vsz.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** 7:00 - 9:00\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** 15-30 min\n\n **Datum verifikacije:** 15.12.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
         "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4497887,
+          43.5111162
+        ]
+      },
+      "properties": {
+        "name": "NZJZ Splitsko-dalmatinske županije",
+        "description": "",
+        "_umap_options": ""
       }
     }
   ]
