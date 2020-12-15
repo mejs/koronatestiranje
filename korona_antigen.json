@@ -237,8 +237,8 @@
       },
       "properties": {
         "name": "NZJZ Splitsko-dalmatinske županije",
-        "description": "",
-        "_umap_options": ""
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.5111162%2C16.4497887#map=17/43.5111162/16.4497887|Vukovarska ul. 46, 21 000 Split]] \n **Radno vrijeme:** Nemamo informaciju\n **Telefon:** \n **Email:** Nemamo informaciju\n **Web:** [[https://www.nzjz-split.hr|nzjz-split.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** Nemamo informaciju\n **Potrebna uputnica:** Da\n **Cijena:** /\n **Način plaćanja:** /\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** 15-30 min\n\n **Datum verifikacije:** 15.12.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }
   ]
