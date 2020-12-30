@@ -990,6 +990,21 @@
         "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=43.44677%2C17.20663#map=17/43.44677/17.20663|Ul. dr. Josipa Mladinova 22A, 21260 Imotski]] \n**Orario di apertura:** Nessuna infomazione\n**Telefono:** [[tel: +38599 819 58 63 | +38599 819 58 63]]\n**Email:** [[mailto:travel.covid@nzjz-split.hr | travel.covid@nzjz-split.hr]], [[mailto:tajnica@nzjz-split.hr | tajnica@nzjz-split.hr]], [[mailto:protokol@nzjz-split.hr | protokol@nzjz-split.hr]], [[mailto:edita.olujic@nzjz-split.hr | edita.olujic@nzjz-split.hr]]\n**Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/455-testiranje-na-sars-cov-2-online-narucivanje|nzjz-split.hr]]\n\n**Prenotazioni:** Obbligatorio, [[https://prijavnicentar.hr/testiranje/split|modulo web]]\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** Sì\n**Prezzo:** /\n**Metodi di pagamento:** /\n**Drive-in:** Nessuna informazione\n**Tempo di attesa dell'esito del test:** 24-48h\n\n**Data verificata:** 30.11.2020.\n**Sulla pagina ufficiale koronavirus.hr:** No",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8732823,
+          46.1563972
+        ]
+      },
+      "properties": {
+        "name": "Gradsko društvo Crvenog križa Krapina",
+        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=46.1563972%2C15.8732823#map=17/46.1563972/15.8732823|Frana Galovića 7d, 49 000 Krapina]] \n**Orario di apertura:** Mar, Gio: 8:00-10:00\n**Telefono:** [[tel: +38549 371 141 | +38549 371 141]]\n**Email:** [[mailto:info@gdck-krapina.hr|info@gdck-krapina.hr]]\n**Web:** [[https://gdck-krapina.hr/2020/12/21/rt-pcr-test-sada-i-u-krapini/|gdck-krapina.hr]]\n\n**Prenotazioni:** Obbligatorio, [[https://prijavnicentar.hr/testiranje/split|modulo web]]\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** No\n**Prezzo:** 850 HRK\n**Metodi di pagamento:** Nessuna infomazione\n**Drive-in:** Nessuna informazione\n**Tempo di attesa dell'esito del test:** Nessuna informazione\n\n**Data verificata:** 30.12.2020.\n**Sulla pagina ufficiale koronavirus.hr:** No",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
     }
   ]
 }

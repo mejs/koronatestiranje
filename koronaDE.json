@@ -990,6 +990,21 @@
         "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.44677%2C17.20663#map=17/43.44677/17.20663|Ul. dr. Josipa Mladinova 22A, 21260 Imotski]] \n**Öffnungszeiten:** Keine Information\n**Telefon:** [[tel: +38599 819 58 63 | +38599 819 58 63]]\n**E-Mail:** [[mailto:travel.covid@nzjz-split.hr | travel.covid@nzjz-split.hr]], [[mailto:tajnica@nzjz-split.hr | tajnica@nzjz-split.hr]], [[mailto:protokol@nzjz-split.hr | protokol@nzjz-split.hr]], [[mailto:edita.olujic@nzjz-split.hr | edita.olujic@nzjz-split.hr]]\n**Web:** [[https://www.nzjz-split.hr/index.php/2-uncategorised/455-testiranje-na-sars-cov-2-online-narucivanje|nzjz-split.hr]]\n\n**Anmeldung:** Notwendig, [[https://prijavnicentar.hr/testiranje/split|Web-Formular]]\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Ja\n**Preis:** /\n**Zahlungsmittel:** /\n**Drive-in:** Keine Information\n**Wartezeit bis zum Ergebnis:** 24-48h\n\n**Datum der Verifikation:** 30.11.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8732823,
+          46.1563972
+        ]
+      },
+      "properties": {
+        "name": "Gradsko društvo Crvenog križa Krapina",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=46.1563972%2C15.8732823#map=17/46.1563972/15.8732823|Frana Galovića 7d, 49 000 Krapina]] \n**Öffnungszeiten:** Di, Do: 8:00-10:00\n**Telefon:** [[tel: +38549 371 141 | +38549 371 141]]\n**E-Mail:** [[mailto:info@gdck-krapina.hr|info@gdck-krapina.hr]]\n**Web:** [[https://gdck-krapina.hr/2020/12/21/rt-pcr-test-sada-i-u-krapini/|gdck-krapina.hr]]\n\n**Anmeldung:** Notwendig, [[https://prijavnicentar.hr/testiranje/split|Web-Formular]]\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Nein\n**Preis:** 850 HRK\n**Zahlungsmittel:** Keine Information\n**Drive-in:** Keine Information\n**Wartezeit bis zum Ergebnis:** Keine Information\n\n**Datum der Verifikation:** 30.12.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
     }
   ]
 }
