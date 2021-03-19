@@ -1005,6 +1005,21 @@
         "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=46.15628%2C15.87401#map=17/46.15628/15.87401|Frana Galovića 7d, 49 000 Krapina]] \n **Radno vrijeme:** Uto, Čet: 8:00-10:00\n **Telefon:** [[tel: +38549 371 141 | +38549 371 141]]\n **Email:** [[mailto:info@gdck-krapina.hr|info@gdck-krapina.hr]]\n **Web:** [[https://gdck-krapina.hr/2020/12/21/rt-pcr-test-sada-i-u-krapini/|gdck-krapina.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 850 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** 12h\n\n **Datum verifikacije:** 30.12.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.425519,
+          45.3325741
+        ]
+      },
+      "properties": {
+        "name": "KBC Rijeka",
+        "description": "",
+        "_umap_options": ""
+      }
     }
   ]
 }
