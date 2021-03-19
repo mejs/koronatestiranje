@@ -1017,8 +1017,8 @@
       },
       "properties": {
         "name": "KBC Rijeka",
-        "description": "",
-        "_umap_options": ""
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.3325741%2C14.425519#map=17/45.3325741/14.425519|Krešimirova ul. 42, 51000 Rijeka]] \n **Radno vrijeme:** Pon-Ned: 8:30-9:30 i 12:00-13:00\n **Telefon:** [[tel: +38551 658 844 | +38551 658 844]]\n **Email:** [[mailto:pcr-covid@kbc-rijeka.hr.|pcr-covid@kbc-rijeka.hr.]]\n **Web:** [[http://kbc-rijeka.hr/kbc-rijeka-uvodi-uslugu-pcr-testiranja-placanje/|kbc-rijeka.hr/]]\n\n**Narudžba:** Obavezna, email ili telefon\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 490 kn\n **Način plaćanja:** [[http://kbc-rijeka.hr/kbc-rijeka-uvodi-uslugu-pcr-testiranja-placanje | m-banking (uplatnica)]]\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** 24h\n\n **Datum verifikacije:** 19.3.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }
   ]

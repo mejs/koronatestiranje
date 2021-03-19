@@ -1017,8 +1017,8 @@
       },
       "properties": {
         "name": "KBC Rijeka",
-        "description": "",
-        "_umap_options": ""
+        "description": "**Address:** \n**Hours open:** Mon-Sun: 8:30-9:30 and 12:00-13:00\n**Phone:** [[tel: +38551 658 844 | +38551 658 844]]\n**Email:** [[mailto:pcr-covid@kbc-rijeka.hr.|pcr-covid@kbc-rijeka.hr.]]\n**Web:** [[http://kbc-rijeka.hr/kbc-rijeka-uvodi-uslugu-pcr-testiranja-placanje/|kbc-rijeka.hr/]]\n\n**Booking:** Mandatory, via email or phone\n**Booking hours:** /\n**Doctor's referral required:** No\n**Price:** 490 HRK\n**Payment types:** [[http://kbc-rijeka.hr/kbc-rijeka-uvodi-uslugu-pcr-testiranja-placanje/ | bank transfer]], kartice i cash\n**Drive in:** No information\n**Results in:** 24h\n\n**Date verified:** 19.3.2021.\n**On koronavirus.hr official list:** No",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }
   ]
