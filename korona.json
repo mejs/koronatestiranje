@@ -1032,8 +1032,8 @@
       },
       "properties": {
         "name": "Poliklinika Medikol Zagreb",
-        "description": "",
-        "_umap_options": ""
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.8229608%2C15.9871481#map=17/45.8229608/15.9871481|Voćarska cesta 106, 10000 Zagreb]] \n **Radno vrijeme:** Pon-Pet: 8:00-15:30, Sub: 8:00-12:30\n **Telefon:** [[tel: +38599 7000 033 | +38599 7000 033]]\n **Email:** [[mailto:info@medikol.hr|info@medikol.hr]]\n **Web:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/|medikol.hr]]\n\n**Narudžba:** Obavezna, email ili telefon\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 850 kn\n **Način plaćanja:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/ | m-banking (uplatnica)]], kartica\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** 12-24h\n\n **Datum verifikacije:** 19.3.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
     {
@@ -1047,8 +1047,8 @@
       },
       "properties": {
         "name": "Poliklinika Medikol Čakovec",
-        "description": "",
-        "_umap_options": ""
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=46.3872655%2C16.4479071#map=17/46.3872655/16.4479071|Franca Prešerna 13 40000 Čakovec]] \n **Radno vrijeme:** Pon-Pet: 12:00-14:00\n **Telefon:** /\n **Email:** [[mailto:info@medikol.hr|info@medikol.hr]]\n **Web:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/|medikol.hr]]\n\n**Narudžba:** Obavezna, email\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 850 kn\n **Način plaćanja:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/ | m-banking (uplatnica)]], kartica\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** 12-24h\n\n **Datum verifikacije:** 19.3.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
     {
@@ -1062,8 +1062,8 @@
       },
       "properties": {
         "name": "Poliklinika Medikol Osijek",
-        "description": "",
-        "_umap_options": ""
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.5629471%2C18.6601245#map=17/45.5629471/18.6601245|J. J. Strossmayera 141 31000 Osijek]] \n **Radno vrijeme:** Pon-Pet: 7:30:00-11:30\n **Telefon:** [[tel: +38591 4594 789 | +38591 4594 789 ]]\n **Email:** [[mailto:info@medikol.hr|info@medikol.hr]]\n **Web:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/|medikol.hr]]\n\n**Narudžba:** Obavezna, email ili telefon\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 850 kn\n **Način plaćanja:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/ | m-banking (uplatnica)]], kartica\n **Drive in:** Da\n **Vrijeme čekanja nalaza:** 12-24h\n\n **Datum verifikacije:** 19.3.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }
   ]
