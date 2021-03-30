@@ -432,7 +432,7 @@
       },
       "properties": {
         "name": "DZ Primorsko-goranske županije, Ispostava Krk",
-        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=45.0291726%2C14.5720818#map=17/45.0291726/14.5720818|Vinogradska ul. 2, 51500 Krk]] \n**Orario di apertura:** Lun-Ven: 7:00-11:00\n**Telefono:** [[tel:+38551 221 955 | +38551 221 955]]\n**Email:** [[mailto:epidemiologija.krk@zzjzpgz.hr | epidemiologija.krk@zzjzpgz.hr]]\n**Web:** [[https://domzdravlja-pgz.hr/|domzdravlja-pgz.hr]]\n\n**Prenotazioni:** Possibile\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** No\n**Prezzo:** 698,21 HRK\n**Metodi di pagamento:** Nessuna infomazione\n**Drive-in:** Nessuna informazione\n**Tempo di attesa dell'esito del test:** Nessuna informazione\n\n**Data verificata:** 23.8.2020.\n**Sulla pagina ufficiale koronavirus.hr:** Sì",
+        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=45.0291726%2C14.5720818#map=17/45.0291726/14.5720818|Vinogradska ul. 2, 51500 Krk]] \n**Orario di apertura:** Mar/Gio/Ven: 8:00-9:00\n**Telefono:** [[tel:+38551 221 955 | +38551 221 955]]\n**Email:** [[mailto:epidemiologija.krk@zzjzpgz.hr | epidemiologija.krk@zzjzpgz.hr]]\n**Web:** [[https://domzdravlja-pgz.hr/|domzdravlja-pgz.hr]]\n\n**Prenotazioni:** Possibile\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** No\n**Prezzo:** 490 HRK\n**Metodi di pagamento:** Nessuna infomazione\n**Drive-in:** Nessuna informazione\n**Tempo di attesa dell'esito del test:** Nessuna informazione\n\n**Data verificata:** 30.3.2021.\n**Sulla pagina ufficiale koronavirus.hr:** Sì",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -1017,7 +1017,52 @@
       },
       "properties": {
         "name": "KBC Rijeka",
-        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=45.3325741%2C14.425519#map=17/45.3325741/14.425519|Krešimirova ul. 42, 51000 Rijeka]] \n**Orario di apertura:** Lun-Dom: 8:30-9:30 e 12:00-13:00\n**Telefono:** [[tel: +38551 658 844 | +38551 658 844]]\n**Email:** [[mailto:pcr-covid@kbc-rijeka.hr.|pcr-covid@kbc-rijeka.hr.]]\n**Web:** [[http://kbc-rijeka.hr/kbc-rijeka-uvodi-uslugu-pcr-testiranja-placanje/|kbc-rijeka.hr/]]\n\n**Prenotazioni:** Obbligatorio, via email o telefono\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** No\n**Prezzo:** 490 HRK\n**Metodi di pagamento:** [[https://www.novilist.hr/rijeka-regija/rijeka/kbc-rijeka-uvodi-uslugu-pcr-testiranja-objavili-i-cijenu/?meta_refresh=true | Bonifico]]\n**Drive-in:** Nessuna informazione\n**Tempo di attesa dell'esito del test:** 24h\n\n**Data verificata:** 19.3.2021.\n**Sulla pagina ufficiale koronavirus.hr:** No",
+        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=45.3325741%2C14.425519#map=17/45.3325741/14.425519|Krešimirova ul. 42, 51000 Rijeka]] \n**Orario di apertura:** Lun-Dom: 8:30-9:30 e 12:00-13:00\n**Telefono:** [[tel: +38551 658 844 | +38551 658 844]]\n**Email:** [[mailto:pcr-covid@kbc-rijeka.hr|pcr-covid@kbc-rijeka.hr]]\n**Web:** [[http://kbc-rijeka.hr/kbc-rijeka-uvodi-uslugu-pcr-testiranja-placanje/|kbc-rijeka.hr/]]\n\n**Prenotazioni:** Obbligatorio, via email o telefono\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** No\n**Prezzo:** 490 HRK\n**Metodi di pagamento:** [[https://www.novilist.hr/rijeka-regija/rijeka/kbc-rijeka-uvodi-uslugu-pcr-testiranja-objavili-i-cijenu/?meta_refresh=true | Bonifico]]\n**Drive-in:** Nessuna informazione\n**Tempo di attesa dell'esito del test:** 24h\n\n**Data verificata:** 19.3.2021.\n**Sulla pagina ufficiale koronavirus.hr:** No",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9871481,
+          45.8229608
+        ]
+      },
+      "properties": {
+        "name": "Poliklinika Medikol Zagreb",
+        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=45.8229608%2C15.9871481#map=17/45.8229608/15.9871481|Voćarska cesta 106, 10000 Zagreb]] \n**Orario di apertura:** Lun-Ven: 8:00-15:30, Sab: 8:00-12:30\n**Telefono:** [[tel: +38599 7000 033 | +38599 7000 033]]\n**Email:** [[mailto:info@medikol.hr|info@medikol.hr]]\n**Web:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/|medikol.hr]]\n\n**Prenotazioni:** Obbligatorio, via email o telefono\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** No\n**Prezzo:** 850 HRK\n**Metodi di pagamento:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/ | Bonifico]], carta o contanti\n**Drive-in:** Sì\n**Tempo di attesa dell'esito del test:** 12-24h\n\n**Data verificata:** 19.3.2021.\n**Sulla pagina ufficiale koronavirus.hr:** No",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4479071,
+          46.3872655
+        ]
+      },
+      "properties": {
+        "name": "Poliklinika Medikol Čakovec",
+        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=46.3872655%2C16.4479071#map=17/46.3872655/16.4479071|Franca Prešerna 13 40000 Čakovec]] \n**Orario di apertura:** Lun-Ven: 12:00-14:00\n**Telefono:** /\n**Email:** [[mailto:info@medikol.hr|info@medikol.hr]]\n**Web:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/|medikol.hr]]\n\n**Prenotazioni:** Obbligatorio, via email\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** No\n**Prezzo:** 850 HRK\n**Metodi di pagamento:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/ | Bonifico]], carta o contanti\n**Drive-in:** Sì\n**Tempo di attesa dell'esito del test:** 12-24h\n\n**Data verificata:** 19.3.2021.\n**Sulla pagina ufficiale koronavirus.hr:** No",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6601245,
+          45.5629471
+        ]
+      },
+      "properties": {
+        "name": "Poliklinika Medikol Osijek",
+        "description": "**Indirizzo:** [[https://www.openstreetmap.org/directions?from=&to=45.5629471%2C18.6601245#map=17/45.5629471/18.6601245|J. J. Strossmayera 141 31000 Osijek]] \n**Orario di apertura:** Lun-Ven: 7:30:00-11:30\n**Telefono:** [[tel: +38591 4594 789 | +38591 4594 789 ]]\n**Email:** [[mailto:info@medikol.hr|info@medikol.hr]]\n**Web:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/|medikol.hr]]\n\n**Prenotazioni:** Obbligatorio, via email o telefono\n**Orari di prenotazione:** /\n**Richiesta del medico curante necessaria:** No\n**Prezzo:** 850 HRK\n**Metodi di pagamento:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/ | Bonifico]], carta o contanti\n**Drive-in:** Sì\n**Tempo di attesa dell'esito del test:** 12-24h\n\n**Data verificata:** 19.3.2021.\n**Sulla pagina ufficiale koronavirus.hr:** No",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }

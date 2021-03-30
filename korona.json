@@ -432,7 +432,7 @@
       },
       "properties": {
         "name": "DZ Primorsko-goranske županije, Ispostava Krk",
-        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.0291726%2C14.5720818#map=17/45.0291726/14.5720818|Vinogradska ul. 2, 51500 Krk]] \n **Radno vrijeme:** Pon-Pet: 7:00-11:00\n **Telefon:** [[tel:+38551 221 955 | +38551 221 955]]\n **Email:** [[mailto:epidemiologija.krk@zzjzpgz.hr | epidemiologija.krk@zzjzpgz.hr]]\n **Web:** [[https://domzdravlja-pgz.hr/|domzdravlja-pgz.hr]]\n\n**Narudžba:** Moguća\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 698,21 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 23.8.2020.\n **Na koronavirus.hr službenoj listi:** Da",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.0291726%2C14.5720818#map=17/45.0291726/14.5720818|Vinogradska ul. 2, 51500 Krk]] \n **Radno vrijeme:** Uto/Čet/Pet: 8:00-9:00\n **Telefon:** [[tel:+38551 221 955 | +38551 221 955]]\n **Email:** [[mailto:epidemiologija.krk@zzjzpgz.hr | epidemiologija.krk@zzjzpgz.hr]]\n **Web:** [[https://domzdravlja-pgz.hr/|domzdravlja-pgz.hr]]\n\n**Narudžba:** Moguća\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 490 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Nemamo informaciju\n\n **Datum verifikacije:** 30.3.2021.\n **Na koronavirus.hr službenoj listi:** Da",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -1017,8 +1017,53 @@
       },
       "properties": {
         "name": "KBC Rijeka",
-        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.3325741%2C14.425519#map=17/45.3325741/14.425519|Krešimirova ul. 42, 51000 Rijeka]] \n **Radno vrijeme:** Pon-Ned: 8:30-9:30 i 12:00-13:00\n **Telefon:** [[tel: +38551 658 844 | +38551 658 844]]\n **Email:** [[mailto:pcr-covid@kbc-rijeka.hr.|pcr-covid@kbc-rijeka.hr.]]\n **Web:** [[http://kbc-rijeka.hr/kbc-rijeka-uvodi-uslugu-pcr-testiranja-placanje/|kbc-rijeka.hr/]]\n\n**Narudžba:** Obavezna, email ili telefon\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 490 kn\n **Način plaćanja:** [[http://kbc-rijeka.hr/kbc-rijeka-uvodi-uslugu-pcr-testiranja-placanje | m-banking (uplatnica)]]\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** 24h\n\n **Datum verifikacije:** 19.3.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "description": "**Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.3325741%2C14.425519#map=17/45.3325741/14.425519|Krešimirova ul. 42, 51000 Rijeka]] \n **Radno vrijeme:** Pon-Ned: 8:30-9:30 i 12:00-13:00\n **Telefon:** [[tel: +38551 658 844 | +38551 658 844]]\n **Email:** [[mailto:pcr-covid@kbc-rijeka.hr|pcr-covid@kbc-rijeka.hr]]\n **Web:** [[http://kbc-rijeka.hr/kbc-rijeka-uvodi-uslugu-pcr-testiranja-placanje/|kbc-rijeka.hr/]]\n\n**Narudžba:** Obavezna, email ili telefon\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 490 kn\n **Način plaćanja:** [[http://kbc-rijeka.hr/kbc-rijeka-uvodi-uslugu-pcr-testiranja-placanje | m-banking (uplatnica)]]\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** 24h\n\n **Datum verifikacije:** 19.3.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9871481,
+          45.8229608
+        ]
+      },
+      "properties": {
+        "name": "Poliklinika Medikol Zagreb",
+        "description": "",
+        "_umap_options": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4479071,
+          46.3872655
+        ]
+      },
+      "properties": {
+        "name": "Poliklinika Medikol Čakovec",
+        "description": "",
+        "_umap_options": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6601245,
+          45.5629471
+        ]
+      },
+      "properties": {
+        "name": "Poliklinika Medikol Osijek",
+        "description": "",
+        "_umap_options": ""
       }
     }
   ]
