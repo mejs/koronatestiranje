@@ -252,7 +252,127 @@
       },
       "properties": {
         "name": "Gradsko društvo Crvenog križa Krapina",
-        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=46.15628%2C15.87401#map=17/46.15628/15.87401|Frana Galovića 7d, 49 000 Krapina]] \n **Radno vrijeme:** Pon, Sri, Pet: 13:00-14:00, Uto i Čet: 8:00-10:00\n **Telefon:** \n **Email:** [[mailto:info@gdck-krapina.hr|info@gdck-krapina.hr]]\n **Web:** [[https://gdck-krapina.hr/2020/12/21/rt-pcr-test-sada-i-u-krapini/|gdck-krapina.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 300 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** 15-30 min\n\n **Datum verifikacije:** 30.12.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=46.15628%2C15.87401#map=17/46.15628/15.87401|Frana Galovića 7d, 49 000 Krapina]] \n **Radno vrijeme:** Pon, Sri, Pet: 13:00-14:00, Uto i Čet: 8:00-10:00\n **Telefon:** [[tel:+38551 233 574 | +38551 233 574]]\n **Email:** [[mailto:info@gdck-krapina.hr|info@gdck-krapina.hr]]\n **Web:** [[https://gdck-krapina.hr/2020/12/21/rt-pcr-test-sada-i-u-krapini/|gdck-krapina.hr]]\n\n**Narudžba:** Obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 300 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** 15-30 min\n\n **Datum verifikacije:** 30.12.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4642362,
+          44.5332888
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Mali Lošinj",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=44.5332888%2C14.4642362#map=17/44.5332888/14.4642362|Ul. Dominika Skopinića 4, 51550 Mali Lošinj]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+38551 572 218 | +38551 572 218]]\n **Email:** [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Web:** [[https://domzdravlja-pgz.hr/novosti/provodenje-antigenskih-i-seroloskih-testova-u-ispostavama-doma-zdravlja-pgz | https://domzdravlja-pgz.hr]]\n\n**Narudžba:** Obavezna, emailom na [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 150 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 9.4.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4110598,
+          44.9635266
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Cres",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=44.9635266%2C14.4110598#map=17/44.9635266/14.4110598|Turion ul. 26, 51557 Cres]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+38551 776 924 | +38551 776 924]]\n **Email:** [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Web:** [[https://domzdravlja-pgz.hr/novosti/provodenje-antigenskih-i-seroloskih-testova-u-ispostavama-doma-zdravlja-pgz | https://domzdravlja-pgz.hr]]\n\n**Narudžba:** Obavezna, emailom na [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 150 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 9.4.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7577371,
+          44.7638678
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Rab",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=44.7638678%2C14.7577371#map=17/44.7638678/14.7577371|Palit 143a, 51280 Palit]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+38551 221 955 | +38551 221 955]]\n **Email:** [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Web:** [[https://domzdravlja-pgz.hr/novosti/provodenje-antigenskih-i-seroloskih-testova-u-ispostavama-doma-zdravlja-pgz | https://domzdravlja-pgz.hr]]\n\n**Narudžba:** Obavezna, emailom na [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 150 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 9.4.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5720818,
+          45.0291726
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Krk",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.0291726%2C14.5720818#map=17/45.0291726/14.5720818|Vinogradska ul. 2, 51500 Krk]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+38591 251 8544 | +38591 251 8544]]\n **Email:** [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Web:** [[https://domzdravlja-pgz.hr/novosti/provodenje-antigenskih-i-seroloskih-testova-u-ispostavama-doma-zdravlja-pgz | https://domzdravlja-pgz.hr]]\n\n**Narudžba:** Obavezna, emailom na [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 150 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 9.4.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3812981,
+          45.3445231
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Rijeka",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.3445231%2C14.3812981#map=17/45.3445231/14.3812981|Ul. Bože Vidasa 16A, 51000 Rijeka]] \n **Radno vrijeme:** Pon-Pet: 7:30-15:00, Sub: 9:00-11:00\n **Telefon:** [[tel:+38551 241 055 | +38551 241 055]]\n **Email:** [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Web:** [[https://domzdravlja-pgz.hr/novosti/provodenje-antigenskih-i-seroloskih-testova-u-ispostavama-doma-zdravlja-pgz | https://domzdravlja-pgz.hr]]\n\n**Narudžba:** Nije obavezna\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 150 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 9.4.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.69451,
+          45.17584
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Crikvenica",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.17584%2C14.69451#map=17/45.17584/14.69451|Kotorska ul. bb, 51260, Crikvenica]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+38551 718 067 | +38551 718 067]]\n **Email:** [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Web:** [[https://domzdravlja-pgz.hr/novosti/provodenje-antigenskih-i-seroloskih-testova-u-ispostavama-doma-zdravlja-pgz | https://domzdravlja-pgz.hr]]\n\n**Narudžba:** Obavezna, emailom na [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 150 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 24.8.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3029839,
+          45.3341336
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Opatija",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.3341336%2C14.3029839#map=17/45.3341336/14.3029839|Stubište dr. Vande Ekl 1, 51 410 Opatija]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+38520 641 613 | +38520 641 613]], [[tel:+38599 5291 888 | +38599 5291 888]]\n **Email:** [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Web:** [[https://domzdravlja-pgz.hr/novosti/provodenje-antigenskih-i-seroloskih-testova-u-ispostavama-doma-zdravlja-pgz | https://domzdravlja-pgz.hr]]\n\n**Narudžba:** Obavezna, emailom na [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 150 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 24.8.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.80395,
+          45.39775
+        ]
+      },
+      "properties": {
+        "name": "DZ Primorsko-goranske županije, Ispostava Delnice",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.39775%2C14.80395#map=17/45.39775/14.80395|Ivana Gorana Kovačića 1, 151300 Delnice]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** \n **Email:** [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Web:** [[https://domzdravlja-pgz.hr/novosti/provodenje-antigenskih-i-seroloskih-testova-u-ispostavama-doma-zdravlja-pgz | https://domzdravlja-pgz.hr]]\n\n**Narudžba:** Obavezna, emailom na [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 150 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 2.11.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
         "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }
