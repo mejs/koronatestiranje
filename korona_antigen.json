@@ -375,6 +375,21 @@
         "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.39775%2C14.80395#map=17/45.39775/14.80395|Ivana Gorana Kovačića 1, 151300 Delnice]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+38520 641 613 | +38520 641 613]], [[tel:+38599 5291 888 | +38599 5291 888]]\n **Email:** [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Web:** [[https://domzdravlja-pgz.hr/novosti/provodenje-antigenskih-i-seroloskih-testova-u-ispostavama-doma-zdravlja-pgz | domzdravlja-pgz.hr]]\n\n**Narudžba:** Obavezna, emailom na [[mailto:rapidcovidtest@domzdravlja-pgz.hr] | rapidcovidtest@domzdravlja-pgz.hr]]\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 150 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 2.11.2020.\n **Na koronavirus.hr službenoj listi:** Ne",
         "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.079968,
+          45.741633
+        ]
+      },
+      "properties": {
+        "name": "Međunarodna zračna luka Zagreb",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.741633%2C16.079968#map=17/45.741633/16.079968|Ul. Rudolfa Fizira 21, 10150 Zagreb]] \n **Radno vrijeme:** Pon-Ned: 5:00-16:30 \n **Telefon:** [[tel: 060 320-320 | 060 320-320]], [[tel: +385 1 4562 170 | +385 1 4562 170]]\n **Email:** [[mailto:info@zag.aero|info@zag.aero]], [[mailto:info-zg@poliklinika-labplus.hr|info-zg@poliklinika-labplus.hr]]\n **Web:** [[https://www.zagreb-airport.hr/UserDocsImages/dokumenti/Obavijesti/LabPlusZG-sars-cov2-obrazac.pdf|zagreb-airport.hr]]\n\n**Narudžba:** Nema mogućnosti naručivanja\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 250 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Ne\n **Vrijeme čekanja nalaza:** 1h\n\n **Datum verifikacije:** 15.4.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
     }
   ]
 }
