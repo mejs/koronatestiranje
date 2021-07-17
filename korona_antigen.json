@@ -390,6 +390,186 @@
         "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=45.741633%2C16.079968#map=17/45.741633/16.079968|Ul. Rudolfa Fizira 21, 10150 Zagreb]] \n **Radno vrijeme:** Pon-Ned: 5:00-16:30 \n **Telefon:** [[tel: 060 320-320 | 060 320-320]], [[tel: +385 1 4562 170 | +385 1 4562 170]]\n **Email:** [[mailto:info@zag.aero|info@zag.aero]], [[mailto:info-zg@poliklinika-labplus.hr|info-zg@poliklinika-labplus.hr]]\n **Web:** [[https://www.zagreb-airport.hr/UserDocsImages/dokumenti/Obavijesti/LabPlusZG-sars-cov2-obrazac.pdf|zagreb-airport.hr]]\n\n**Narudžba:** Nema mogućnosti naručivanja\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 250 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Ne\n **Vrijeme čekanja nalaza:** 1h\n\n **Datum verifikacije:** 15.4.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
         "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.18643,
+          43.1266
+        ]
+      },
+      "properties": {
+        "name": "DZ SDŽ - Sućuraj (otok Hvar)",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.1266%2C17.18643#map=17/43.1266/17.18643|Trg park 4, 21469 Sućuraj]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+385992470154 | +385992470154]]\n **Email:** [[mailto: tajnica@dz-sdz.hr | tajnica@dz-sdz.hr]]\n **Web:** [[https://dz-sdz.hr/brzo-antigensko-testiranje-na-virus-sars-cov-2/ | dz-sdz.hr]]\n\n**Narudžba:** Obavezna, telefonom\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 200 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 17.7.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.68149,
+          43.16634
+        ]
+      },
+      "properties": {
+        "name": "DZ SDŽ - Jelsa (otok Hvar)",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.16634%2C16.68149#map=17/43.16634/16.68149|Mala Banda b.b., D116, 21465 Jelsa]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+38598303025 | +38598303025]\n **Email:** [[mailto: tajnica@dz-sdz.hr | tajnica@dz-sdz.hr]]\n **Web:** [[https://dz-sdz.hr/brzo-antigensko-testiranje-na-virus-sars-cov-2/ | dz-sdz.hr]]\n\n**Narudžba:** Obavezna, telefonom\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 200 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 17.7.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.59725,
+          43.18559
+        ]
+      },
+      "properties": {
+        "name": "DZ SDŽ - Stari Grad (otok Hvar)",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.18559%2C16.59725#map=17/43.18559/16.59725|Obala žrtava rata 6, 21460, Stari Grad]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+385915701289 | +385915701289]]\n **Email:** [[mailto: tajnica@dz-sdz.hr | tajnica@dz-sdz.hr]]\n **Web:** [[https://dz-sdz.hr/brzo-antigensko-testiranje-na-virus-sars-cov-2/ | dz-sdz.hr]]\n\n**Narudžba:** Obavezna, telefonom\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 200 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 17.7.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43576,
+          43.17304
+        ]
+      },
+      "properties": {
+        "name": "DZ SDŽ - Hvar (otok Hvar)",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.17304%2C16.43576#map=17/43.17304/16.43576|Jurja Dubokovica 3, 21450 Hvar]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+385989907876 | +385989907876]]\n **Email:** [[mailto: tajnica@dz-sdz.hr | tajnica@dz-sdz.hr]]\n **Web:** [[https://dz-sdz.hr/brzo-antigensko-testiranje-na-virus-sars-cov-2/ | dz-sdz.hr]]\n\n**Narudžba:** Obavezna, telefonom\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 200 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 17.7.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.55616,
+          43.38231
+        ]
+      },
+      "properties": {
+        "name": "DZ SDŽ - Supetar (otok Brač)",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.38231%2C16.55616#map=17/43.38231/16.55616|Mladena Vodanovića 24, 21400 Supetar]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+385992470195 | +385992470195]], [[tel:+385959050863 | +385959050863]]\n **Email:** [[mailto: tajnica@dz-sdz.hr | tajnica@dz-sdz.hr]]\n **Web:** [[https://dz-sdz.hr/brzo-antigensko-testiranje-na-virus-sars-cov-2/ | dz-sdz.hr]]\n\n**Narudžba:** Obavezna, telefonom\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 200 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 17.7.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.09116,
+          43.04649
+        ]
+      },
+      "properties": {
+        "name": "DZ SDŽ - Komiža (otok Vis)",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.04649%2C16.09116#map=17/43.04649/16.09116|Komiških iseljenika 2, 21485 Komiža]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+385992470204 | +385992470204]]\n **Email:** [[mailto: tajnica@dz-sdz.hr | tajnica@dz-sdz.hr]]\n **Web:** [[https://dz-sdz.hr/brzo-antigensko-testiranje-na-virus-sars-cov-2/ | dz-sdz.hr]]\n\n**Narudžba:** Obavezna, telefonom\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 200 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 17.7.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.18305,
+          43.06
+        ]
+      },
+      "properties": {
+        "name": "DZ SDŽ - Vis (otok Vis)",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.06%2C16.18305#map=17/43.06/16.18305|Poljana Sv. Duha 10, 21480 Vis]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+385992470204 | +385992470204]]\n **Email:** [[mailto: tajnica@dz-sdz.hr | tajnica@dz-sdz.hr]]\n **Web:** [[https://dz-sdz.hr/brzo-antigensko-testiranje-na-virus-sars-cov-2/ | dz-sdz.hr]]\n\n**Narudžba:** Obavezna, telefonom\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 200 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 17.7.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.27874,
+          43.39307
+        ]
+      },
+      "properties": {
+        "name": "DZ SDŽ - Grohote (otok Šolta)",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.39307%2C16.27874#map=17/43.39307/16.27874|Podkuće 31, 21430 Grohote]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+38521654493 | +38521654493]], '[[tel:+38521654373 | +38521654373]]\n **Email:** [[mailto: tajnica@dz-sdz.hr | tajnica@dz-sdz.hr]]\n **Web:** [[https://dz-sdz.hr/brzo-antigensko-testiranje-na-virus-sars-cov-2/ | dz-sdz.hr]]\n\n**Narudžba:** Obavezna, telefonom\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 200 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 17.7.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.24609,
+          43.518
+        ]
+      },
+      "properties": {
+        "name": "DZ SDŽ - Trogir",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.518%2C16.24609#map=17/43.518/16.24609|Alojzija Stepinca 17, 21220 Trogir]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+385992470202 | +385992470202]], [[tel: +385992470203 | +385992470203]]\n **Email:** [[mailto:tic-rogac@visitsolta.com | tic-rogac@visitsolta.com]], [[mailto:info@visitsolta.com | info@visitsolta.com]], [[mailto: tajnica@dz-sdz.hr | tajnica@dz-sdz.hr]]\n **Web:** [[https://dz-sdz.hr/brzo-antigensko-testiranje-na-virus-sars-cov-2/ | dz-sdz.hr]]\n\n**Narudžba:** Obavezna, telefonom\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 200 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 17.7.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.02218,
+          43.29248
+        ]
+      },
+      "properties": {
+        "name": "DZ SDŽ - Makarska",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.29248%2C17.02218#map=17/43.29248/17.02218|Stjepana Ivičevića 2, 21300 Makarska]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+385995433432 | +385995433432]]\n **Email:** [[mailto: tajnica@dz-sdz.hr | tajnica@dz-sdz.hr]]\n **Web:** [[https://dz-sdz.hr/brzo-antigensko-testiranje-na-virus-sars-cov-2/ | dz-sdz.hr]]\n\n**Narudžba:** Obavezna, telefonom\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 200 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 17.7.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.20717,
+          43.44712
+        ]
+      },
+      "properties": {
+        "name": "DZ SDŽ - Imotski",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.44712%2C17.20717#map=17/43.44712/17.20717|Josipa Mladinova 22A, 21260 Imotski]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+385995425294 | +385995425294]]\n **Email:** [[mailto: tajnica@dz-sdz.hr | tajnica@dz-sdz.hr]]\n **Web:** [[https://dz-sdz.hr/brzo-antigensko-testiranje-na-virus-sars-cov-2/ | dz-sdz.hr]]\n\n**Narudžba:** Obavezna, telefonom\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 200 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 17.7.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.68242,
+          43.44246
+        ]
+      },
+      "properties": {
+        "name": "DZ SDŽ - Omiš",
+        "description": "**ANTIGENSKO TESTIRANJE** \n **Adresa:** [[https://www.openstreetmap.org/directions?from=&to=43.44246%2C16.68242#map=17/43.44246/16.68242|Četvrt Ribnjak 17, 21310 Omiš (Kontejner na parkingu pored Trgovačkog centra Studenac)]] \n **Radno vrijeme:** Po dogovoru\n **Telefon:** [[tel:+385992470173 | +385992470173]], [[tel:+385992470176 | +385992470176]]\n **Email:** [[mailto: tajnica@dz-sdz.hr | tajnica@dz-sdz.hr]]\n **Web:** [[https://dz-sdz.hr/brzo-antigensko-testiranje-na-virus-sars-cov-2/ | dz-sdz.hr]]\n\n**Narudžba:** Obavezna, telefonom\n **Vrijeme naručivanja:** /\n **Potrebna uputnica:** Ne\n **Cijena:** 200 kn\n **Način plaćanja:** Nemamo informaciju\n **Drive in:** Nemamo informaciju\n **Vrijeme čekanja nalaza:** Isti dan\n\n **Datum verifikacije:** 17.7.2021.\n **Na koronavirus.hr službenoj listi:** Ne",
+        "_umap_options": {"color":"#11bae8","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
     }
   ]
 }

@@ -852,7 +852,7 @@
       },
       "properties": {
         "name": "ZZJZ Zagrebačke županije, Hitna Ivanić-Grad",
-        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.70707%2C16.38709#map=17/45.70707/16.38709|Omladinska 23, 10310 Ivanić-grad]] \n**Öffnungszeiten:** Mo-Fr: 7:30-9:30\n**Telefon:** [[tel:+3851 2883 137 | +3851 2883 137]]\n**E-Mail:** [[mailto:mikrobiologija.ivanic@zzjz-zz.hr | mikrobiologija.ivanic@zzjz-zz.hr]]\n**Web:** Keine Information\n\n**Anmeldung:** Notwendig\n**Anmeldezeit:** 7:00-15:00\n**Überweisungsschein notwendig:** Ja\n**Preis:** /\n**Zahlungsmittel:** /\n**Drive-in:** Ja\n**Wartezeit bis zum Ergebnis:** Keine Information\n\n**Datum der Verifikation:** 2.11.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Ja",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.70707%2C16.38709#map=17/45.70707/16.38709|Omladinska 23, 10310 IvaniĐ�-grad]] \n**Öffnungszeiten:** Mo-Fr: 7:30-9:30\n**Telefon:** [[tel:+3851 2883 137 | +3851 2883 137]]\n**E-Mail:** [[mailto:mikrobiologija.ivanic@zzjz-zz.hr | mikrobiologija.ivanic@zzjz-zz.hr]]\n**Web:** Keine Information\n\n**Anmeldung:** Notwendig\n**Anmeldezeit:** 7:00-15:00\n**Überweisungsschein notwendig:** Ja\n**Preis:** /\n**Zahlungsmittel:** /\n**Drive-in:** Ja\n**Wartezeit bis zum Ergebnis:** Keine Information\n\n**Datum der Verifikation:** 2.11.2020.\n**Auf der offiziellen koronavirus.hr-Liste:** Ja",
         "_umap_options": {"color":"#FF8300","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     },
@@ -1063,6 +1063,21 @@
       "properties": {
         "name": "Poliklinika Medikol Osijek",
         "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=45.5629471%2C18.6601245#map=17/45.5629471/18.6601245|J. J. Strossmayera 141 31000 Osijek]] \n**Öffnungszeiten:** Mo-Fr: 7:30:00-11:30\n**Telefon:** [[tel: +38591 4594 789 | +38591 4594 789 ]]\n**E-Mail:** [[mailto:info@medikol.hr|info@medikol.hr]]\n**Web:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/|medikol.hr]]\n\n**Anmeldung:** Notwendig, per E-Mail oder Telefon\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Nein\n**Preis:** 850 HRK\n**Zahlungsmittel:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/ | Banküberweisung]], Giro-/Kreditkarte\n**Drive-in:** Ja\n**Wartezeit bis zum Ergebnis:** 12-24h\n\n**Datum der Verifikation:** 19.3.2021.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.18305,
+          43.06
+        ]
+      },
+      "properties": {
+        "name": "DZ SDŽ - Vis (otok Vis)",
+        "description": "**Adresse:** [[https://www.openstreetmap.org/directions?from=&to=43.06%2C16.18305#map=17/43.06/16.18305|Poljana Sv. Duha 10, 21480 Vis]] \n**Öffnungszeiten:** Di, Do: 10:00-11:00\n**Telefon:** [[tel: +38521712018 | +38521712018]]\n**E-Mail:** [[mailto: mirela.blagojevic@nzjz-split.hr | mirela.blagojevic@nzjz-split.hr]]\n**Web:** [[https://www.gradvis.hr/testiranje-na-sars-cov-2-pcr-test-u-gradu-visu/ | gradvis.hr]]\n\n**Anmeldung:** Notwendig, per E-Mail oder Telefon\n**Anmeldezeit:** /\n**Überweisungsschein notwendig:** Nein\n**Preis:** 300 HRK (350 HRK mit englischer übersetzung)\n**Zahlungsmittel:** [[https://www.gradvis.hr/wp-content/uploads/2021/05/Covid-19-obavijest.pdf | Banküberweisung]]\n**Drive-in:** Keine Information\n**Wartezeit bis zum Ergebnis:** 24-48h\n\n**Datum der Verifikation:** 17.7.2021.\n**Auf der offiziellen koronavirus.hr-Liste:** Nein",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }

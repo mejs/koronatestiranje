@@ -191,7 +191,7 @@
         ]
       },
       "properties": {
-        "name": "ZJZ Istarske županije",
+        "name": "ZJZ Istarske Ő�upanije",
         "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=44.8615273%2C13.8492486#map=17/44.8615273/13.8492486|Nazorova ul. 23, 52 000 Pula]] \n**Hours open:** /\n**Phone:** [[tel:+38599 441 821 | +38599 441 821]]\n**Email:** [[mailto:brisevi@zzjziz.hr | brisevi@zzjziz.hr]]\n**Web:** [[https://www.zzjziz.hr/index.php?id=275|zzjziz.hr]]\n\n**Booking:** Possible\n**Booking hours:** /\n**Doctor's referral required:** No\n**Price:** 698 HRK\n**Payment types:** No information\n**Drive in:** No\n**Results in:** 24h\n\n**Date verified:** 23.8.2020.\n**On koronavirus.hr official list:** Yes",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
@@ -1063,6 +1063,21 @@
       "properties": {
         "name": "Poliklinika Medikol Osijek",
         "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=45.5629471%2C18.6601245#map=17/45.5629471/18.6601245|J. J. Strossmayera 141 31000 Osijek]] \n**Hours open:** Mon-Fri: 7:30:00-11:30\n**Phone:** [[tel: +38591 4594 789 | +38591 4594 789 ]]\n**Email:** [[mailto:info@medikol.hr|info@medikol.hr]]\n**Web:** [[https://medikol.hr/istaknute-vijesti/pcr-test-sada-i-u-poliklinici-medikol/|medikol.hr]]\n\n**Booking:** Mandatory, via email or phone\n**Booking hours:** /\n**Doctor's referral required:** No\n**Price:** 850 HRK\n**Payment types:** [[http://kbc-rijeka.hr/kbc-rijeka-uvodi-uslugu-pcr-testiranja-placanje | bank transfer, cards]]\n**Drive in:** Yes\n**Results in:** 12-24h\n\n**Date verified:** 19.3.2021.\n**On koronavirus.hr official list:** No",
+        "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.18305,
+          43.06
+        ]
+      },
+      "properties": {
+        "name": "DZ SDŽ - Vis (otok Vis)",
+        "description": "**Address:** [[https://www.openstreetmap.org/directions?from=&to=43.06%2C16.18305#map=17/43.06/16.18305|Poljana Sv. Duha 10, 21480 Vis]] \n**Hours open:** Mon, Tue: 10:00-11:00\n**Phone:** [[tel: +38521712018 | +38521712018]]\n**Email:** [[mailto: mirela.blagojevic@nzjz-split.hr | mirela.blagojevic@nzjz-split.hr]]\n**Web:** [[https://www.gradvis.hr/testiranje-na-sars-cov-2-pcr-test-u-gradu-visu/ | gradvis.hr]]\n\n**Booking:** Mandatory, via email or phone\n**Booking hours:** /\n**Doctor's referral required:** No\n**Price:** 300 HRK (350 HRK with English translation)\n**Payment types:** [[https://www.gradvis.hr/wp-content/uploads/2021/05/Covid-19-obavijest.pdf | bank transfer]]\n**Drive in:** No information\n**Results in:** 24-48h\n\n**Date verified:** 17.7.2021.\n**On koronavirus.hr official list:** No",
         "_umap_options": {"color":"#41C074","iconClass":"Drop","iconUrl":"/uploads/pictogram/hospital-24-white.png"}
       }
     }
